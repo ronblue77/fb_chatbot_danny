@@ -1,0 +1,240 @@
+=====================eliza database ====================
+
+s:are>am
+s:am>are
+s:were>was
+s:was>were
+s:you>i
+s:i>you
+s:your>my
+s:my>your
+s:i've>you've
+s:you've>i've
+s:i'm>you're
+s:you're>i'm
+s:me>you
+
+k:can you
+ 
+r:don't you believe that i can*
+r:perhaps you would like to be like me*
+r:you want me to be able to*
+
+k:can i 
+r:perhaps you don't want to*
+r:do you want to be able to*
+
+k:you are
+k:you're
+ 
+r:what makes you think i am*
+r:does it please you to believe i am*
+r:perhaps you would like to be*
+r:do you sometimes wish you were*
+
+k:i don't
+r:don't you really*
+r:why don't you*
+r:do you wish to be able to*
+r:does that trouble you*
+
+k:i feel
+r:do you often feel*
+r:do you often feel*
+r:do you enjoy feeling*
+
+k:why don't you
+r:do you really believe i don't*
+r:perhaps in good time i will*
+r:do you want me to*
+
+k:why can't i
+r:do you think you should be able to*
+r:why can't you*
+
+k:are you
+r:why are you interested in whether or not i am*
+r:would you prefer if i were not*
+r:perhaps in your fantasies i am*
+
+k:i can't
+r:how do you know you can't*
+r:have you tried?
+r:perhaps you can now*
+
+k:i am
+k:i'm
+r:did you come to me because you are*
+r:how long have you been*
+r:do you believe it is normal to be*
+r:do you enjoy being*
+
+k:you
+r:we were discussing you--not me.
+r:oh, i*
+r:you're not really talking about me, are you?
+
+k:i want
+ 
+r:what would it mean to you if you got*
+r:why do you want*
+r:suppose you soon got*
+r:what if you never got*
+r:i sometimes also want*
+
+k:what
+k:how
+k:who
+k:where
+k:when
+k:why
+
+r:why do you ask?
+r:does that question interest you?
+r:what answer would please you the most?
+r:what do you think?
+r:are such questions on your mind often?
+r:what is it that you really want to know?
+r:have you asked anyone else?
+r:have you asked such questions before?
+r:what else comes to mind when you ask that?
+
+k:name
+r:names don't interest me.
+r:i don't care about names --please go on.
+
+k:cause 
+r:is that the real reason?
+r:don't any other reasons come to mind?
+r:does that reason explain anything else?
+r:what other reasons might there be?
+
+k:sorry
+r:please don't apologize!
+r:apologies are not necessary.
+r:what feelings do you have when you apologize?
+r:don't be so defensive!
+
+k:dream
+r:what does that dream suggest to you?
+r:do you dream often?
+r:what persons appear in your dreams?
+r:are you disturbed by your dreams?
+
+k:hello
+k:hi
+r:how do you do ...please state your problem.
+
+k:maybe 
+r:you don't seem quite certain.
+r:why the uncertain tone?
+r:can't you be more positive?
+r:you aren't sure?
+r:don't you know?
+
+k:no
+r:are you saying no just to be negative?
+r:you are being a bit negative.
+r:why not?
+r:are you sure?
+r:why no?
+
+k:your
+r:why are you concerned about my*
+r:what about your own*
+
+k:always
+r:can you think of a specific example?
+r:when?
+r:what are you thinking of?
+r:really, always?
+
+k:think
+r:do you really think so?
+r:but you are not sure you*
+r:do you doubt you*
+
+k:alike 
+r:in what way?
+r:what resemblance do you see?
+r:what does the similarity suggest to you?
+r:what other connections do you see?
+r:could there really be some connection?
+r:how?
+r:you seem quite positive.
+
+k:yes
+r:are you sure?
+r:i see.
+r:i understand.
+
+k:friend 
+r:why do you bring up the topic of friends?
+r:do your friends worry you?
+r:do your friends pick on you?
+r:are you sure you have any friends?
+r:do you impose on your friends?
+r:perhaps your love for friends worries you.
+
+k:computer
+r:do computers worry you?
+r:are you talking about me in particular?
+r:are you frightened by machines?
+r:why do you mention computers?
+r:what do you think machines have to do with your problem?
+r:don't you think computers can help people?
+r:what is it about machines that worries you?
+
+ 
+d1:say, do you have any psychological problems?
+d1:what does that suggest to you?
+d1:i see.
+d1:i'm not sure i understand you fully.
+d1:come come elucidate your thoughts.
+d1:can you elaborate on that?
+d1:that is quite interesting.
+
+ c1:what time
+c1:what are you doing
+c1:how are you
+
+c2:i feel bad
+c2:i am sad
+c2:i'm sad
+c2:hard day
+c2:sad day
+c2:bad day
+c2:problem
+c2:troubles
+
+c3:what are you
+c3:who are you
+c3:who is danny
+c3:who developed you
+c3:who made you
+
+c4:what is love
+c4:is there love
+c4:no love
+
+k1:i'm scared
+k1:i am scared
+k1:i'm afraid
+k1:i am afraid
+
+r1:you'll be alright don't worry.
+r1:never be scared or afraid of anything or anybody except god.
+r1:god is protecting you my friend. don't be scared everything will be alright
+r1:i am with you and so is god. don't worry you will be alright. 
+
+c5:nazi
+c5:bitch
+c5:faggot
+c5:motherfucker
+c5:dyke
+c5:pussy
+c5:nazis
+c5:hitler
+c5:kkk
+c5:homo
+c5:nigger

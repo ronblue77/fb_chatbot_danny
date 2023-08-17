@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=chatbot-danny
+Exec=fb_chatbot_danny_gui_v10
+Icon=ai_bot
+Type=Application
+Categories=Utility

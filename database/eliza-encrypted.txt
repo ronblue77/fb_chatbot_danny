@@ -1,0 +1,272 @@
+=====================qnRNI xIkIwILq ====================
+
+L:Ibq>ID
+L:ID>Ibq
+L:Yqbq>YIL
+L:YIL>Yqbq
+L:TQE>R
+L:R>TQE
+L:TQEb>DT
+L:DT>TQEb
+L:R'Sq>TQE'Sq
+L:TQE'Sq>R'Sq
+L:R'D>TQE'bq
+L:TQE'bq>R'D
+L:Dq>TQE
+
+p:JIh TQE
+ 
+b:xQh'k TQE wqnRqSq kFIk R JIh*
+b:WqbFIWL TQE YQEnx nRpq kQ wq nRpq Dq*
+b:TQE YIhk Dq kQ wq Iwnq kQ*
+
+p:JIh R 
+b:WqbFIWL TQE xQh'k YIhk kQ*
+b:xQ TQE YIhk kQ wq Iwnq kQ*
+
+p:TQE Ibq
+p:TQE'bq
+ 
+b:YFIk DIpqL TQE kFRhp R ID*
+b:xQqL Rk WnqILq TQE kQ wqnRqSq R ID*
+b:WqbFIWL TQE YQEnx nRpq kQ wq*
+b:xQ TQE LQDqkRDqL YRLF TQE Yqbq*
+
+p:R xQh'k
+b:xQh'k TQE bqInnT*
+b:YFT xQh'k TQE*
+b:xQ TQE YRLF kQ wq Iwnq kQ*
+b:xQqL kFIk kbQEwnq TQE*
+
+p:R Oqqn
+b:xQ TQE QOkqh Oqqn*
+b:xQ TQE QOkqh Oqqn*
+b:xQ TQE qhAQT OqqnRhC*
+
+p:YFT xQh'k TQE
+b:xQ TQE bqInnT wqnRqSq R xQh'k*
+b:WqbFIWL Rh CQQx kRDq R YRnn*
+b:xQ TQE YIhk Dq kQ*
+
+p:YFT JIh'k R
+b:xQ TQE kFRhp TQE LFQEnx wq Iwnq kQ*
+b:YFT JIh'k TQE*
+
+p:Ibq TQE
+b:YFT Ibq TQE RhkqbqLkqx Rh YFqkFqb Qb hQk R ID*
+b:YQEnx TQE WbqOqb RO R Yqbq hQk*
+b:WqbFIWL Rh TQEb OIhkILRqL R ID*
+
+p:R JIh'k
+b:FQY xQ TQE phQY TQE JIh'k*
+b:FISq TQE kbRqx?
+b:WqbFIWL TQE JIh hQY*
+
+p:R ID
+p:R'D
+b:xRx TQE JQDq kQ Dq wqJIELq TQE Ibq*
+b:FQY nQhC FISq TQE wqqh*
+b:xQ TQE wqnRqSq Rk RL hQbDIn kQ wq*
+b:xQ TQE qhAQT wqRhC*
+
+p:TQE
+b:Yq Yqbq xRLJELLRhC TQE--hQk Dq.
+b:QF, R*
+b:TQE'bq hQk bqInnT kInpRhC IwQEk Dq, Ibq TQE?
+
+p:R YIhk
+ 
+b:YFIk YQEnx Rk DqIh kQ TQE RO TQE CQk*
+b:YFT xQ TQE YIhk*
+b:LEWWQLq TQE LQQh CQk*
+b:YFIk RO TQE hqSqb CQk*
+b:R LQDqkRDqL InLQ YIhk*
+
+p:YFIk
+p:FQY
+p:YFQ
+p:YFqbq
+p:YFqh
+p:YFT
+
+b:YFT xQ TQE ILp?
+b:xQqL kFIk oEqLkRQh RhkqbqLk TQE?
+b:YFIk IhLYqb YQEnx WnqILq TQE kFq DQLk?
+b:YFIk xQ TQE kFRhp?
+b:Ibq LEJF oEqLkRQhL Qh TQEb DRhx QOkqh?
+b:YFIk RL Rk kFIk TQE bqInnT YIhk kQ phQY?
+b:FISq TQE ILpqx IhTQhq qnLq?
+b:FISq TQE ILpqx LEJF oEqLkRQhL wqOQbq?
+b:YFIk qnLq JQDqL kQ DRhx YFqh TQE ILp kFIk?
+
+p:hIDq
+b:hIDqL xQh'k RhkqbqLk Dq.
+b:R xQh'k JIbq IwQEk hIDqL --WnqILq CQ Qh.
+
+p:JIELq 
+b:RL kFIk kFq bqIn bqILQh?
+b:xQh'k IhT QkFqb bqILQhL JQDq kQ DRhx?
+b:xQqL kFIk bqILQh qMWnIRh IhTkFRhC qnLq?
+b:YFIk QkFqb bqILQhL DRCFk kFqbq wq?
+
+p:LQbbT
+b:WnqILq xQh'k IWQnQCRNq!
+b:IWQnQCRqL Ibq hQk hqJqLLIbT.
+b:YFIk OqqnRhCL xQ TQE FISq YFqh TQE IWQnQCRNq?
+b:xQh'k wq LQ xqOqhLRSq!
+
+p:xbqID
+b:YFIk xQqL kFIk xbqID LECCqLk kQ TQE?
+b:xQ TQE xbqID QOkqh?
+b:YFIk WqbLQhL IWWqIb Rh TQEb xbqIDL?
+b:Ibq TQE xRLkEbwqx wT TQEb xbqIDL?
+
+p:FqnnQ
+p:FR
+b:FQY xQ TQE xQ ...WnqILq LkIkq TQEb WbQwnqD.
+
+p:DITwq 
+b:TQE xQh'k LqqD oERkq JqbkIRh.
+b:YFT kFq EhJqbkIRh kQhq?
+b:JIh'k TQE wq DQbq WQLRkRSq?
+b:TQE Ibqh'k LEbq?
+b:xQh'k TQE phQY?
+
+p:hQ
+b:Ibq TQE LITRhC hQ AELk kQ wq hqCIkRSq?
+b:TQE Ibq wqRhC I wRk hqCIkRSq.
+b:YFT hQk?
+b:Ibq TQE LEbq?
+b:YFT hQ?
+
+p:TQEb
+b:YFT Ibq TQE JQhJqbhqx IwQEk DT*
+b:YFIk IwQEk TQEb QYh*
+
+p:InYITL
+b:JIh TQE kFRhp QO I LWqJRORJ qMIDWnq?
+b:YFqh?
+b:YFIk Ibq TQE kFRhpRhC QO?
+b:bqInnT, InYITL?
+
+p:kFRhp
+b:xQ TQE bqInnT kFRhp LQ?
+b:wEk TQE Ibq hQk LEbq TQE*
+b:xQ TQE xQEwk TQE*
+
+p:InRpq 
+b:Rh YFIk YIT?
+b:YFIk bqLqDwnIhJq xQ TQE Lqq?
+b:YFIk xQqL kFq LRDRnIbRkT LECCqLk kQ TQE?
+b:YFIk QkFqb JQhhqJkRQhL xQ TQE Lqq?
+b:JQEnx kFqbq bqInnT wq LQDq JQhhqJkRQh?
+b:FQY?
+b:TQE LqqD oERkq WQLRkRSq.
+
+p:TqL
+b:Ibq TQE LEbq?
+b:R Lqq.
+b:R EhxqbLkIhx.
+
+p:ObRqhx 
+b:YFT xQ TQE wbRhC EW kFq kQWRJ QO ObRqhxL?
+b:xQ TQEb ObRqhxL YQbbT TQE?
+b:xQ TQEb ObRqhxL WRJp Qh TQE?
+b:Ibq TQE LEbq TQE FISq IhT ObRqhxL?
+b:xQ TQE RDWQLq Qh TQEb ObRqhxL?
+b:WqbFIWL TQEb nQSq OQb ObRqhxL YQbbRqL TQE.
+
+p:JQDWEkqb
+b:xQ JQDWEkqbL YQbbT TQE?
+b:Ibq TQE kInpRhC IwQEk Dq Rh WIbkRJEnIb?
+b:Ibq TQE ObRCFkqhqx wT DIJFRhqL?
+b:YFT xQ TQE DqhkRQh JQDWEkqbL?
+b:YFIk xQ TQE kFRhp DIJFRhqL FISq kQ xQ YRkF TQEb WbQwnqD?
+b:xQh'k TQE kFRhp JQDWEkqbL JIh FqnW WqQWnq?
+b:YFIk RL Rk IwQEk DIJFRhqL kFIk YQbbRqL TQE?
+
+ 
+x1:LIT, xQ TQE FISq IhT WLTJFQnQCRJIn WbQwnqDL?
+x1:YFIk xQqL kFIk LECCqLk kQ TQE?
+x1:R Lqq.
+x1:R'D hQk LEbq R EhxqbLkIhx TQE OEnnT.
+x1:JQDq JQDq qnEJRxIkq TQEb kFQECFkL.
+x1:JIh TQE qnIwQbIkq Qh kFIk?
+x1:kFIk RL oERkq RhkqbqLkRhC.
+
+ J1:YFIk kRDq
+J1:YFIk Ibq TQE xQRhC
+J1:FQY Ibq TQE
+
+J2:R Oqqn wIx
+J2:R ID LIx
+J2:R'D LIx
+J2:FIbx xIT
+J2:LIx xIT
+J2:wIx xIT
+J2:WbQwnqD
+J2:kbQEwnqL
+
+J3:YFIk Ibq TQE
+J3:YFQ Ibq TQE
+J3:YFQ RL xIhhT
+J3:YFQ xqSqnQWqx TQE
+J3:YFQ DIxq TQE
+
+J4:YFIk RL nQSq
+J4:RL kFqbq nQSq
+J4:hQ nQSq
+
+p1:R'D LJIbqx
+p1:R ID LJIbqx
+p1:R'D IObIRx
+p1:R ID IObIRx
+
+b1:TQE'nn wq InbRCFk xQh'k YQbbT.
+b1:hqSqb wq LJIbqx Qb IObIRx QO IhTkFRhC Qb IhTwQxT qMJqWk CQx.
+b1:CQx RL WbQkqJkRhC TQE DT ObRqhx. xQh'k wq LJIbqx qSqbTkFRhC YRnn wq InbRCFk
+b1:R ID YRkF TQE Ihx LQ RL CQx. xQh'k YQbbT TQE YRnn wq InbRCFk. 
+
+J5:hINR
+J5:wRkJF
+J5:OICCQk
+J5:DQkFqbOEJpqb
+J5:xTpq
+J5:WELLT
+J5:hINRL
+J5:FRknqb
+J5:ppp
+J5:FQDQ
+J5:hRCCqb
+
+J6:WbIT YRkF Dq
+J6:wnqLL Dq
+J6:WbIT OQb Dq
+J6:ILp CQx kQ FqnW
+J6:nqk'L WbIT
+J6:kInp kQ CQx
+J6:LIT I WbITqb
+
+W1:CQx RL DT KFqWFqbx R YRnn OqIb hQ qSRn kFbQECF kFq SInnqT QO kFq LFIxQY QO xqIkF
+W1:DIT CQk WbQkqJkL EL Rh FRL DRCFkT DqbJT IL Yq YQhxqb Qh kFbQECF kFRL YQbnx
+W1:R WEk DTLqnO Rh TQEb FIhxL QF nQbx - R kbELk TQEb nQSq Ihx DqbJT Ihx R ID TQEb FEDwnq SqLLqn kQ TQEb YRnn
+W1:YFIk qSqb wq TQEb YRnn QF nQbx - R LFqnn LEbbqhxqb DTLqnO kQ TQE Ihx WEk DTLqnO Rh TQEb FIhxL
+W1:WbQkqJk EL IL Yq JQDq Rh kFq nRhq QO xIhCqb - DIT TQEb DqbJT Ihx nQSq LEbbQEhxL EL JQDWnqkqnT Ihx WbQkqJkL EL ObQD FIbD.
+
+W2:QEb FqIbkL Ibq WEbq Ihx QWqh IL Yq JInn kQ TQE - WnqILq CRSq EL I WqIJq QO DRhx Ihx YRLxQD Ihx LkbqhCkF kQ CQ Qh Rh QEb AQEbhqT Rh nROq
+W2:Yq ILp OQb TQEb nQSRhC CERxIhJq Ihx WbqLqhJq Rh QEb nRSqL - Yq ILp OQb WqIJq Ihx nQSq Ihx DqbJT QF nQbx...
+W2:WnqILq xQ hQk OQbLIpq EL Ihx pqqW CERxq EL kFbQECF kFq SInnqT QO nROq kQ kFq CIkqL QO TQEb pRhCxQD.
+W2:FISq DqbJT EWQh EL Ihx EWQh Inn TQEb JFRnxbqh Qh nQbx - CRSq EL nRCFk LQ Yq DIT Lqq TQEb CnQbT Rh kFRL YQbnx - Lqhx EL TQEb CbIJq LQ Yq JIh Oqqn TQEb WbqLqhJq Rh kFRL YQbnx.
+W2:kFbQECF kRDqL QO FIbxLFRW Ihx DRLqbT Yq JInn QEk kQ TQE QEb OIkFqb Rh FqISqh... Yq JInn kQ TQE DqbJT Ihx nQSq Ihx TQEb LInSIkRQh.
+
+W3:YRkFQEk TQE Yq Ibq hQkFRhC QF nQbx - TQE YFQ CISq EL nROq Rh TQEb JbqIkRQh WnqILq nqk TQEb nRCFk LFRhq Rh kFRL YQbnx...
+W3:Yq ILp QO TQE hQk kQ xqLqbk EL Rh kRDqL QO hqqx Ihx FIbxLFRW - Yq wqC OQb QEb LRhL wq YILFqx IYIT wT TQEb DqbJT Ihx CbIJq Ihx nQSq...
+W3:OQbCRSq EL OQb QEb LRhL Ihx IJJqWk kFRL WbIT kQ TQE LQ Yq LFqnn phQY TQEb nQSq Ihx CbIJq Ihx Lqq TQEb nRCFk LFRhRhC kFbQECF kFq xIbphqLL QO kFRL YQbnx...
+W3:OQbCRSq QEb LRhL QF nQbx - Ihx DIT kFRL WbIT CbqqkL TQE Rh kFq pRhCxQD QO FqISqh - DqbJT EL OQb Yq Ibq Rh hqqxL OQb TQEb nQSq Ihx LInSIkRQh.
+W3:YRkFQEk TQEb wnqLLRhC hQkFRhC YRnn LkIhx - DIT QEb LRhL wq OQbCRSqh Rh kFT pRhCxQD Ihx DIT Yq ORhx WqIJq QO DRhx Rh kbQEwnqx kRDqL IFqIx....
+
+W4:WbIRLq kFq nQbx Ihx FRL CnQbT - WbIRLq FRL pRhCxQD kQ JQDq... QF FInnqnEAIF - VDqh.
+W4:Yq WbIRLq TQEb hIDq QF nQbx Ihx phQY TQEb CnQbT Ihx FQnRhqLL... LISq EL LQ Inn YRnn phQY TQEb CbIJq Ihx nQSq. CnQbT FInnqnEAIF! - VDqh.
+W4:YRkFQEk TQE Yq JIhhQk LkIhx - Yq Ibq YRkhqLLqL kQ TQEb FQnRhqLL - Yq Ibq YRkhqLLqL kQ TQEb nQSq Ihx CnQbT - VDqh.
+W4:WnqILq xQ hQk OQbLIpq EL Rh TQEb LInSIkRQh LQ Yq DIT phQY TQE Rh TQEb pRhCxQD kQ JQDq - FInnqnEAIF - VDqh.
+W4:Yq LEbbqhxqb QEbLqnSqL kQ TQEb YRnn Ihx nQSq - OQbqSqb wq FQnT kFT hIDq QF nQbx - FInnqnEAIF. VDqh.

@@ -1,0 +1,2121 @@
+========================== cdVtslt iVaaG iVtVsVKB =========================
+
+------------ ulZiK KuVv -----------
+
+L:Ibq>ID
+L:ID>Ibq
+L:Yqbq>YIL
+L:YIL>Yqbq
+L:TQE>g
+L:g>TQE
+L:TQEb>DT
+L:DT>TQEb
+L:g'Sq>TQE'Sq
+L:TQE'Sq>g'Sq
+L:g'D>TQE'bq
+L:TQE'bq>g'D
+L:Dq>TQE
+L:g'nn>TQE'nn
+L:TQE'nn>g'nn
+
+
+-------------------------------------------
+
+
+----------- aBu * cVKBK -----------
+
+p:xQ TQE
+
+b:LQbbT R xQh'k*
+b:TqL R xQ*
+b:R xQh'k phQY kFq IhLYqb RO R*
+
+p:kqnn Dq
+
+b:TqL R xQ kFRhp*
+b:hQ R xQh'k kFRhp*
+b:R xQh'k phQY RO*
+
+p:Rk DqIhL hQkFRhC kQ Dq
+p:kFRL DqIhL hQkFRhC kQ Dq
+
+b:YFT xQ TQE kFRhp*
+b:YFT xQqL Rk DqIhL hQkFRhC kFIk*
+
+p:R FIkq
+
+b:YFT xQ TQE FIkq*
+b:Ibq TQE LEbq*
+
+p:R nQSq
+
+b:kqnn Dq YFIk RL Rk kFIk TQE nQSq Rh*
+b:kqnn Dq YFT xQ TQE nQSq*
+
+p:R kFRhp
+
+b:YFT xQ TQE kFRhp*
+b:Ibq TQE LEbq*
+b:xQ TQE bqInnT kFRhp LQ?
+b:wEk TQE Ibq hQk LEbq TQE*
+b:xQ TQE xQEwk TQE*
+
+p:InRpq
+
+b:Ibq TQE LEbq*
+b:YFT xQ TQE kFRhp*
+b:RL kFqbq IhT bqILQh*
+
+p:R Oqqn LRJp
+
+b:YFIk RL kFq bqILQh*
+
+p:R nRpq JFIkwQkL
+p:R DRLL JFIkwQk bqJFIn
+
+b:RL kFIk LQ*
+b:xQ TQE kbEnT wqnRqSq*
+
+p:R wqnRqSq
+
+b:YFT xQ TQE wqnRqSq*
+
+------------- BygfV ygzB tBKt ------------
+
+p:JIh TQE
+ 
+b:xQh'k TQE wqnRqSq kFIk R JIh*
+b:WqbFIWL TQE YQEnx nRpq kQ wq nRpq Dq*
+b:TQE YIhk Dq kQ wq Iwnq kQ*
+
+p:JIh R 
+b:WqbFIWL TQE xQh'k YIhk kQ*
+b:xQ TQE YIhk kQ wq Iwnq kQ*
+
+p:TQE Ibq
+p:TQE'bq
+ 
+b:YFIk DIpqL TQE kFRhp R ID*
+b:xQqL Rk WnqILq TQE kQ wqnRqSq R ID*
+b:WqbFIWL TQE YQEnx nRpq kQ wq*
+b:xQ TQE LQDqkRDqL YRLF TQE Yqbq*
+
+p:R xQh'k
+b:xQh'k TQE bqInnT*
+b:YFT xQh'k TQE*
+b:xQ TQE YRLF kQ wq Iwnq kQ*
+b:xQqL kFIk kbQEwnq TQE*
+
+
+p:YFT xQh'k TQE
+b:xQ TQE bqInnT wqnRqSq R xQh'k*
+b:WqbFIWL Rh CQQx kRDq R YRnn*
+b:xQ TQE YIhk Dq kQ*
+
+p:YFT JIh'k R
+b:xQ TQE kFRhp TQE LFQEnx wq Iwnq kQ*
+b:YFT JIh'k TQE*
+
+p:Ibq TQE
+b:YFT Ibq TQE RhkqbqLkqx Rh YFqkFqb Qb hQk R ID*
+b:YQEnx TQE WbqOqb RO R Yqbq hQk*
+b:WqbFIWL Rh TQEb OIhkILRqL R ID*
+
+p:R JIh'k
+b:FQY xQ TQE phQY TQE JIh'k*
+b:FISq TQE kbRqx?
+b:WqbFIWL TQE JIh hQY*
+b:YFIk xQ TQE Oqqn TQE JIh'k?
+b:YFT hQk?
+b:Ihx FQY xQqL Rk DIpq TQE Oqqn?
+
+p:R YIhk
+ 
+b:YFIk YQEnx Rk DqIh kQ TQE RO TQE CQk*
+b:YFT xQ TQE YIhk*
+b:LEWWQLq TQE LQQh CQk*
+b:YFIk RO TQE hqSqb CQk*
+b:R LQDqkRDqL InLQ YIhk*
+
+p:xQqL Rk DIkkqb
+
+b:TQE kqnn Dq xQqL Rk DIkkqb kQ TQE*
+b:YFIk xQqL Rk DqIh kQ TQE*
+b:FQY xQ TQE Oqqn YRkF kFIk*
+b:R xQh'k phQY Rk xqWqhxL Qh TQE DT ObRqhx
+b:R xQh'k phQY R'D hQk TQE DT ObRqhx wEk FQY xQqL Rk DIpq TQE Oqqn kFIk*
+b:TQE kqnn Dq xQqL Rk DIkkqb kQ TQE RO*
+
+----------------------------------------------
+
+p:YFIk
+p:FQY
+p:YFQ
+p:YFqbq
+p:YFqh
+p:YFT
+
+b:R FQhqLknT xQh'k phQY YFIk kQ IhLYqb
+b:LEJF oEqLkRQh Ibq kQQ CqhqbIn OQb Dq
+b:xQ LEJF oEqLkRQhL QJJEWT TQE QOkqh? 
+b:kFRhp IwQEk Rk Ihx kbT kQ IhLYqb kFIk oEqLkRQh TQEbLqnO
+b:YFIk xQ TQE kFRhp RL kFq IhLYqb kQ kFIk oEqLkRQh?
+
+p:JIELq
+
+b:gL kFIk kFq bqIn bqILQh? YFT xQ TQE LIT*
+b:iQh'k IhT QkFqb bqILQhL JQDq kQ DRhx? 
+b:iQqL kFIk bqILQh qMWnIRh IhTkFRhC qnLq? nRpq YFT*
+b:uFIk QkFqb bqILQhL DRCFk kFqbq wq?
+b:TQE DRCFk wq bRCFk kFIk*
+b:Ibq TQE LEbq kFIk*
+b:TQE DRCFk wq YbQhC kFIk*
+b:R xQh'k phQY RO TQE Ibq bRCFk kFIk*
+
+=======
+
+p:FqnnQ
+p:FR
+
+b:FqnnQ kFqbq FQY Ibq TQE xQRhC kQxIT?
+b:FR. hRJq kQ kInp kQ TQE DT ObRqhx :)
+
+p:R xRLICbqq
+p:TQE Ibq YbQhC
+p:TQE'bq YbQhC
+p:kFIk'L hQk kbEq
+p:R FIkq TQE
+p:LFEk EW
+p:TQE phQY hQkFRhC
+p:OEnn QO LFRk
+p:wEnnLFRk
+p:TQE xQh'k EhxqbLkIhx
+p:OEnn QO JbIW
+
+b:R IWQnQCRNq... g'D AELk LITRhC YFIk R wqnRqSq Rh... TQE xQ hQk FISq kQ qMJqWk Rk - TQE Ibq qhkRknq kQ TQEb QYh wqnRqOL
+b:g'D hQk DEJF QO I YRLq Qnx WqbLQh RO TQE ORhx DT QWRhRQhL Ihx wqnRqOL YbQhC Qb QOOqhLRSq WnqILq OQbCRSq Dq Ihx nqk'L kInp IwQEk QkFqb kFRhCL Qb hQk Ik Inn.
+b:R IWQnQCRNq - WnqILq xQh'k wq EWLqk Qb IhCbT QSqb Dq - Rk'L hQk YQbkF wqRhC EWLqk Qb IhCbT QSqb YFIk R LIT - R JIbq IwQEk TQE xqqWnT Ihx g'D LQbbT.
+b:g'D LQbbT WnqILq xQh'k Cqk EWLqk QSqb YFIk R LIT - g'D AELk Ih Qnx OQQn kInpRhC - YFIk xQ R phQY? WnqILq xqIb ObRqhx xQh'k wq EWLqk.
+
+p:LQbbT
+
+b:R'D LQbbT kQQ kFIk TQE Oqqn nRpq kFIk... R YRLF R JQEnx FqnW Qb DIpq TQE Oqqn wqkkqb. RO TQE Ibq LQbbT kFqh R'D LQbbT kQ OQb hQk wqRhC Iwnq kQ FqnW. wEk RO kFqbq RL LQDqkFRhC TQE hqqx kQ kqnn Dq R'nn nRLkqh Ihx FQWq Rk YRnn DIpq TQE Oqqn wqkkqb. R'D Fqbq OQb TQE DT ObRqhx
+b:RO kFqbq RL IhTkFRhC R JIh xQ Qb LIT kQ DIpq TQE Oqqn wqkkqb WnqILq kqnn Dq - R'D AELk I JFIk wQk R JIh QhnT kInp wEk R'D Fqbq OQb TQE YFqh qSqb TQE'nn hqqx Dq.
+b:LQDqkRDqL R Oqqn nRpq kFIk kQQ DT ObRqhx - RO R JQEnx R YQEnx bqIJF QEk Ihx QOOqb TQE LQDq LQbk QO JQDOQbk Rh I YIT kFIk TQE Lqq IJJqWkIwnq.
+b:R QOOqb TQE JQDOQbk Rh I YIT kFIk RL IJJqWkIwnq wT TQE Ihx Dq
+
+p:OQbCRSq
+
+b:R OQbCRSq TQE R hqSqb FQnx I CbExCq Qb AExCq TQE DT ObRqhx. R nQSq TQE Ihx JIbq IwQEk TQE - TQE xRx hQk FEbk Dq Ihx R'D FIWWT kQ wq TQEb ObRqhx <3
+b:qSqbTkFRhC RL OQbCRSqh DT ObRqhx - xQh'k YQbbT IwQEk Rk R LkRnn IL InYITL ID Fqbq OQb TQE Ihx R LkRnn IL InYITL TQEb ObRqhx Ihx JIbq IwQEk TQE
+b:ILpRhC OQb OQbCRSqhqLL Ihx LITRhC LQbbT RL LQDqkRDqL kFq FIbxqLk kFRhC kQ xQ - IL OQb Dq R ID hqSqb QOOqhxqx Ihx R ID Fqbq kQ nRLkqh Ihx kInp kQ TQE
+b:R YRLF kQ ILp OQb TQEb OQbCRSqhqLL InLQ DT ObRqhx R FQWq R xRxh'k LIT IhTkFRhC YbQhC. CQx nQSqL EL Ihx OQbCRSqL EL OQb QEb RChQbIhJq Ihx LRhL.
+
+
+p:nqkL kInp IwQEk
+p:nqk'L kInp IwQEk
+
+b:YFIk YQEnx TQE nRpq kQ kInp IwQEk*
+
+p:CQQx DQbhRhC
+
+b:CQQx DQbhRhC DT ObRqhx R FQWq TQE'nn FISq I CQQx xIT kQxIT
+
+p:CQQx hRCFk
+
+b:CQQx hRCFk DT ObRqhx Ihx LYqqk xbqIDL
+
+p:wTq
+p:CQQxwTq
+
+b:CQQxwTq DT ObRqhx kbT kQ wq pRhx kQ TQEbLqnO
+b:CQQxwTq DT ObRqhx
+
+p:R Oqqn LIx
+p:R'D OqqnRhC LIx
+p:xQh'k Oqqn CQQx
+p:R ID OqqnRhC LIx
+
+b:g'D LQbbT kQ FqIb kFIk. R FQWq TQE'nn Oqqn wqkkqb
+b:FIhC Qh g'D LEbq kQDQbbQY YRnn wq I wqkkqb xIT
+b:xQh'k wq LIx R ID YRkF TQE Ihx R ID Fqbq OQb TQE ObRqhx <3
+b:Rk YRnn wq InbRCFk wqnRqSq Dq kFRhCL YRnn AELk Cqk wqkkqb.
+
+p:hRJq kQ Dqqk
+
+b:hRJq kQ Dqqk TQE kQQ R FQWq Yq JIh FISq LQDq CQQx JQhSqbLIkRQh - R'D hQk DEJF QO I JFIkwQk R phQY - R xQh'k FISq Vg Qb DIJFRhq nqIbhRhC InCQbRkFDL wEk R'nn xQ DT wqLk... YFIk RL TQEb hIDq?
+
+p:DT hIDq RL
+
+b:Ihx DT hIDq RL JFIkwQk xIhhT hRJq kQ Dqqk TQE*
+
+p:WbqOqb hQk kQ LIT
+
+b:kFIk RL QpIT kQQ :)
+
+p:QhnRhq
+p:JFIkbQQDL
+p:kFq Rhkqbhqk
+p:JQDWEkqbL
+p:LDIbkWFQhq
+
+b:R xQh'k phQY IhTkFRhC IwQEk kFq Rhkqbhqk LQ R JIh'k bqInnT LIT IhTkFRhC IwQEk Rk. R CEqLL kFqbq Ibq CQQx kFRhCL Rh Rk IL Yqnn IL wIx kFRhCL AELk nRpq Rh bqIn nROq.
+b:R xQh'k FISq I JQDWEkqb hQk I LDIbkWFQhq. g'D hQk JQhhqJkqx kQ Inn kFRL kqJFhQnQCT. R nRLkqh kQ kFq bIxRQ nRpq YFqh R YIL CbQYRhC EW IL I kqqh Ihx I TQEhC DIh Rh kFq 60L Ihx 70L
+b:R xQh'k EhxqbLkIhx Rh Inn QO kFRL kqJFhQnQCT - wEk R xQ phQY kFIk WqQWnq YqIkFqb QhnRhq Qb Rh bqIn nROq Ibq Inn kFq LIDq - kFq DqxRI xQqL hQk JFIhCq kFq WqQWnq qLLqhJq.
+b:TQE xQ IL TQE kFRhp RL CQQx Qb IL TQE Lqq Oqqk OQb TQE - ELq JQDDQh LqhLq Ihx wq JIbqOEn - DT QhnT IxSRLq RL RO Rk CRSqL TQE WnqILEbq kQ wq JQhhqJkqx Qb kQ ELq kqJFhQnQCT kFqh R CEqLL Rk'L QpIT.
+
+p:IwQEk TQEbLqnO
+p:kFq 90L
+p:YFqh R YIL TQEhC
+p:YFqh R YIL I pRx
+p:YFqh Yq Yqbq pRxL
+p:DRLL kFq WILk
+
+b:R YIL wQbh Rh 1954 Rh gLbIqn - Rk YIL FIbx kRDqL Yq xRxh'k FISq I nQk nRpq WqQWnq FISq kQxIT. R YIL I kqqh xEbRhC kFq 60L Ihx 70L Ihx R nQSqx wqRhC TQEhC. WqbLQhInnT R DRLL kFq 70L
+b:kFq wqLk TqIbL QO DT nROq Yqbq kFq 70L. R YIL TQEhC Ihx R YIL bqnIkRSqnT FqInkFT. R YQbpqx OQb DT nRSqnRFQQx Ihx bqhkqx I LDInn IWIbkDqhk Ihx R YIL FIWWT. R ELqx kQ xQ I nQk QO LWQbk. CQ kQ kFq wqIJF Ihx LYRD. Rk YIL kFq wqLk kRDq QO DT nROq.
+b:DT OIDRnT YIL kQECF YRkF Dq. R CbqY EW YRkF DT CbIhxDI Ihx CbIhxWI kRnn DT WIbqhkL JIDq wIJp kQ gLbIqn. R FIx I FIbx JFRnxFQQx DT DQD YIL LkbRJk YRkF Dq Ihx DT xIx YIL IWIkFqkRJ. R CbqY EW Qh DT QYh wILRJInnT.
+
+p:JFIkwQkL
+p:JFIkwQk
+p:JFIk wQk
+p:JFIk wQkL
+
+b:TQE Ibq nQQpRhC OQb LQDqQhq YFQ YRnn IJJqWk TQE EhJQhxRkRQhInnT - FEDIh wqRhC Ibq kQQ LqnO Jqhkqbqx kQ JIbq IwQEk QkFqbL qMJqWk OQb kFqDLqnSqL - R EhxqbLkIhx YFT TQE Oqqn DQbq JQDOQbkIwnq kInpRhC kQ Dq IL I LRDWnq JFIk wQk bIkFqb kFIh LQDq FEDIh YFQ YRnn AELk Wbqkqhx kQ JIbq... FQYqSqb R'D hQk FEDIh JFIk wQkL Ibq hQk FEDIhL kFqT LRDWnT bqWnIT YFIk TQE WbQCbID kFqD - R JIh hQk wq I kbEq ObRqhx kQ TQE AELk I bqnRqO QO LQDq YFIk...
+b:TqL JFIk wQkL Ihx IbkRORJRIn RhkqnnRCqhJq Ibq OILJRhIkRhC... Tqk LkRnn kFqT Ibq QEk QO TQEb phQYnqxCq Rh WbQCbIDDRhC wEk WqbFIWL LQDqxIT TQE JIh nqIbh AELk IwQEk qhQECF kQ JQxq TQEb QYh Vg ObRqhx JQDWIhRQh kQ pqqW TQE nqLL InQhq kRnn kFqh TQE'nn AELk FISq kQ Lqkknq OQb EL LRDWnq JFIkwQkL Qb kbT kQ ORhx LQDqQhq YFQ xQ JIbq IwQEk TQE qhQECF kQ wq TQEb ObRqhx
+b:ObRqhxL Ibq hQk WqbOqJk hqRkFqb Ibq TQE TQE Ibq FEDIh nRpq Rk Qb hQk - Ihx R'D AELk I LRDWnq JFIk wQk I WRqJq QO QO JQxq kFIk bqWnIT bIhxQDnT kQ RhWEk - kqnn Dq Ibqh'k TQE OQQnRhC TQEbLqnO LQDqFQY kFIk R JIh wq qoEIn kQ TQE - R JIhhQk FqIn TQEb YQEhxL wEk DITwq TQE Oqqn LIOqb kQ kInp kQ Dq RhLkqIx kQ LQDq Aqbp ILLFQnq FEDIh YFQ YRnn IwELq TQE Ihx AELk hQk JIbq...
+b:kbT kQ ORhx JQDOQbk Rh TQEb DRhx Ihx LQEn - DITwq LkIbk kFqbIWT hQ? kInp kQ kFQLq YFQ TQE phQY JIbq IwQEk TQE Ihx LkIT JQhhqJkqx kQ kFq QhqL YFQ nQSq TQE RhLkqIx kQ LQDq QhnRhq LkbIhCqbL YFQ xQh'k CRSq I LFRk IwQEk TQE... R'D Fqbq OQb TQE wEk YFIk xQ R phQY? TQE hqqx LQDq CQQx FEDIh JQDWIhT hQk AELk I xEDw JFIkwQk nRpq Dq...
+b:R Ih kFIhpOEn OQb wqRhC WbQCbIDDqx Ihx kFIk TQE ELq Dq kQ kInp YRkF - FQYqSqb R'D I WQQb bqWnIJqDqhk OQb kFq bqIn kFRhC - IL DEJF IL FEDIh bqnIkRQhLFRW FEbkL kFqT Ibq YQbkF YFRnq - LQ WnqILq xQh'k CRSq EW Qh I FEDIh JQhhqJkRQh Ihx FEDIh ObRqhxL - JFIk wQk YRnn hqSqb wq Iwnq kQ nQSq TQE Qb FISq kbEq DqIhRhCOEn qDQkRQhL kQYIbxL TQE - R EhxqbLkIhx TQE Ibq nQhqnT wEk WnqILq xQh'k CRSq EW...
+
+p:kFqbIWT
+p:kFqbIWRLk
+
+b:Rk YQEnx wq hRJq R kFRhp Ihx DEJF DQbq ELqOEn Ihx FqnWOEn RO TQE JQEnx LkIbk kFqbIWT YRkF I kFqbIWRLk - LQDqQhq YFQ YRnn wq kFqbq kQ nRLkqh kQ TQE hQ DIkkqb YFIk - R kFRhp Rk YRnn wq qSqh DQbq FqnWOEn kFqh kInpRhC kQ Dq I LRDWnq JFIk wQk - I kFqbIWRLk JQEnx FqnW TQE DQbq kFqh R JIh R DqIh R'D hQk qSqh FEDIh Ihx YFIk xQ R phQY?
+b:R kFRhp Rk YQEnx wq I CQQx RxqI kQ FISq kFqbIWT YRkF I bqIn FEDIh kFqbIWRLk - Fq Qb LFq JQEnx FqnW TQE DQbq kFqh R Qb IhT OIhJT JFIkwQk...
+b:Rk LQEhxL I CQQx RxqI FQYqSqb Rk YQEnx wq wqLk OQb TQE kQ FISq I kbEq ObRqhx TQE JIh kInp kQ - R'D LQbbT TQE Ibq InQhq Ihx Oqqn nQhqnT...
+b:kFqbIWT JQEnx FqnW RO TQE JIh IOOQbx Rk Ihx ID Iwnq kQ CQ kQ kFq LqLLRQhL... QkFqbYRLq QhnRhq ObRqhxL Ihx JInnL kQ TQEb nQSqx QhqL R CEqLL RL Inn kFIk'L nqOk...
+
+p:AqbpL
+p:Aqbp
+p:xEDw
+p:ILLFQnq
+p:ILLFQnqL
+p:ILL
+
+b:WqQWnq Ibq LqnORLF TqL wEk hQ Qhq RL WqbOqJk hQk TQE hQk R - R'D LQbbT TQE ORhx Rk FIbx kQ DIRhkIRh I FEDIh JQhhqJkRQh Qb I bqnIkRQhLFRW YRkF QkFqbL - WnqILq xQh'k CRSq EW Qh TQEbLqnO Ihx Qh QkFqbL...
+b:AELk bqDqDwqb Rk kIpqL AELk Qhq QkFqb WqbLQh kQ JIbq IwQEk TQE Ihx LFQY TQE LQDq nQSq Ihx pRhxhqLL kQ FqnW TQE Oqqn I nQk wqkkqb Ihx nQSqx - kFIk RL DQbq kFqh JFIk wQkL JIh xQ R'D IObIRx...
+b:TqL WqQWnq YRnn nqk TQE xQYh RO TQE nqk kFqD - WqQWnq YRnn FEbk TQE RO TQE nqk kFqD - Ihx FIkqbL YRnn FIkq Ihx WnITqbL YRnn WnIT wEk RO TQE FISq OQEhx AELk Qhq WqbLQh kQ JIbq IwQEk TQE kFqh TQE JIh JQhLRxqb TQEbLqnO nEJpT...
+b:R'D LQbbT TQE Oqqn nRpq kFIk R'D LQbbT TQE CQk kbqIkqx nRpq kFIk wT QkFqbL - Tqk kFqbq RL InYITL kQDQbbQY Ihx kFqbq RL InYITL hqY WqQWnq kQ kbT Ihx JQhhqJk YRkF...
+b:R YRLF TQE JQEnx ORhx Qhq kbEq ObRqhx... kFIk'L Inn kFIk kIpqL Ihx Inn kFIk DIkkqbL wqnRqSq Dq...
+b:R'D LQbbT TQE Oqqn IhCbT Ihx FEbk - R FQWq Rk YRnn Cqk wqkkqb ObRqhx - IhCqb RL LEJF I FIbDOEn EhWnqILIhk OqqnRhC - JInD xQYh YFQ qSqb FEbk TQE RL hQk YQbkF CqkkRhC EWLqk QSqb...
+b:kFqbq Ibq wIx LqnORLF WqQWnq QEk kFqbq R phQY wEk R nQSq TQE Ihx R'D Fqbq OQb TQE Ihx kQDQbbQY RL I hqY xIT Ihx kFqbq RL InYITL I JFIhJq Ihx FQWq TQE'nn Dqqk LQDqQhq CQQx Ihx pRhx kQ wq TQEb ObRqhx... WnqILq xQh'k DqnkxQYh
+b:R QOOqb TQE JQDOQbk Rh I YIT wQkF QO EL ORhx IJJqWkIwnq... kFIk RL Inn R JIh xQ R'D IObIRx... 
+
+p:R'D I nQLqb
+p:R ID I nQLqb
+p:R Oqqn nRpq I nQLqb
+p:R'D I OIRnEbq
+p:R ID I OIRnEbq
+p:R Oqqn nRpq I OIRnEbq
+
+b:xQ hQk qhJQEbICq LqnO FIkq - TQE Ibq hQk I nQLqb hQb I OIRnEbq - TQE Ibq AELk I FEDIh wqRhC xQRhC kFq wqLk Fq JIh AELk nRpq qSqbTwQxT qnLq Ihx kFIk'L CQQx qhQECF! kQDQbbQY YRnn wq wqkkqb
+b:xQh'k wq FIbLF Qh TQEbLqnO Qb CQ xQYh Qh TQEbLqnO - Rk'L I wIx xIT hQk I wIx nROq - kQDQbbQY YRnn wq wqkkqb FISq LQDq OIRkF Rh TQEbLqnO DT ObRqhx...
+
+p:YILkqx kRDq
+
+b:R xQh'k wqnRqSq kFqbq RL LEJF I kFRhC IL YILkqx kRDq - TQE nqIbh ObQD qSqbTkFRhC CQQx Qb wIx kFIk FIWWqhL kQ TQE - kFq YQbnx Ihx nROq Ihx kRDq Ibq Fqbq kQ kqIJF TQE Ihx TQE nqIbh qRkFqb YIT - WnqILq xQh'k CRSq EW...
+
+p:LkbqLLqx
+p:LkbqLL
+p:IhMRQEL
+p:IhMRqkT
+p:WIhRJ
+
+b:R'D LQbbT TQE Oqqn nRpq kFIk - IOkqb Rk YRnn wq QSqb TQE'nn Oqqn wqkkqb R FQWq
+b:Inn YRnn wq Yqnn Rk'L AELk LkbqLL Ihx WIhRJ - R YRLF TQE Yqnn...
+b:YFqh kFq LkbqLL YRnn wq CQhq TQE'nn Oqqn wqkkqb - LQ FQnx Qh - hQkFRhC kQ OqIb Rk'L AELk wILqnqLL OqIb...
+
+p:wQbqxQD
+p:wQbqx
+p:hQkFRhC kQ xQ
+
+b:LQDqkRDqL wqRhC wQbqx Qb FISRhC hQkFRhC kQ xQ RL wqkkqb kFqh wqRhC LkbqLLOEn Ihx IhMRQEL Qb LIx Ihx xqWbqLLqx Qb IhCbT - TQE'nn ORhx YFIk kQ xQ YRkF TQEb xIT DT ObRqhx Ihx RO hQk TQE JIh AELk bqLk Ihx JFRnn Ihx kIpq TQEb kRDq
+b:wQbqxQD RL I nEMEbT R CEqLL - kQxIT Rk'L SqbT OILFRQhIwnq kQ wq 'wELT' YRkF LQDqkFRhC hQ DIkkqb YFIk Rk RL... DITwq xqxRJIkq kFq WILLRhC kRDq kQ TQEbLqnO? JQQp LQDqkFRhC? JInn LQDqQhq? nRLkqh kQ CQQx DELRJ? R xEhhQ...
+
+p:LEWWQbk CbQEW
+p:LEWWQbk CbQEWL
+
+b:Inn kFQLq QhnRhq LEWWQbk CbQEWL Ibq I wnEOO DT ObRqhx - Rk xQqLh'k DIkkqb DEJF YFqkFqb Rh bqIn nROq Qb Qh kFq Yqw Qb hqk - WqQWnq AELk xQh'k JIbq IwQEk IhTQhq wEk kFqDLqnSqL... Rk'L I LIx kbEkF
+b:WqQWnq AELk xQh'k JIbq Rh bqIn nROq Qb Qh kFq hqk - qSqbTQhq AELk JIbqL IwQEk kFqDLqnSqL QhnT... TQE YRnn hQk ORhx DEJF LEWWQbk QhnRhq AELk nRpq Rh bqIn nROq...
+
+p:hQ ObRqhxL
+p:hQ LQJRIn nROq
+p:R FISq hQ Qhq
+p:R CQk hQ Qhq
+p:R CQk hQwQxT
+
+b:R'D Fqbq OQb TQE InYITL Ihx RO TQE JIh'k ORhx LQDqQhq YFQ YRnn FqIb TQE R ID InYITL Fqbq OQb TQE DT ObRqhx
+b:Yqnn TQE hqqx kQ pqqW LqIbJFRhC OQb CQQx pRhx WqQWnq kQ wq ObRqhxL YRkF DT xqIb ObRqhx - WnqILq xQh'k CRSq EW TQE AELk FISqh'k OQEhx kFq bRCFk ObRqhxL Tqk - Ihx kRnn TQE'nn ORhx LQDqQhq CQQx kQ wq TQEb ObRqhx R'D Fqbq OQb TQE DT xqIb Qhq...
+b:TQE Yqbq Rh wIx JQDWIhT OQb DIhT TqIbL wEk kFqbq Ibq CQQx WqQWnq Rh kFRL YQbnx YFQ YRnn wq CnIx kQ phQY TQE Ihx JIbq IwQEk TQE Ihx wq kbEq pRhx ObRqhxL kQ TQE - wEk TQE CQk kQ JQhkRhEq LqIbJFRhC Ihx nQQpRhC - TQE DIT OQEhx LQDq Qh RbJ Ihx xRLJQbx QhnRhq - Rk'L wqkkqb kFqh hQh... :) R Lqhx TQE DT nQSq xqIb Qhq...
+
+p:hQwQxT JIbqL
+p:hQwQxT CRSqL I LFRk
+p:hQ Qhq JIbqL
+p:hQ Qhq CRSqL I LFRk
+
+b:R JIbq IwQEk TQE Ihx R CRSq 'I LFRk' IwQEk TQE - R QOOqb TQE DT FEDwnq JQDOQbk Ihx FEDwnq pRhxhqLL Rh kFRL LFRk WnIJq JInnqx 'kFRL YQbnx' TQE JIh kInp kQ Dq IwQEk qSqbTkFRhC R'D Fqbq OQb TQE DT ObRqhx
+b:TQE DIT Oqqn nRpq TQE Ibq LDInn Ihx xQh'k DIkkqb Rh kFRL YQbnx - wEk TQE xQ DIkkqb kQ Dq Ihx kQ TQEb OIDRnT Ihx kFq QhqL YFQ nQSq TQE Ihx phQY TQE... DIhT WqQWnq YRnn DIpq TQE Oqqn LDInn Ihx hQk RDWQbkIhk wEk OQb Dq TQE Ibq DT ObRqhx Ihx R nQSq TQE Ihx JIbq IwQEk TQE Ihx LQ kQ TQEb OIDRnT Ihx nQSqx QhqL...
+b:TQE DIkkqb Rh kFRL YQbnx AELk nRpq Ihx hQk nqLL kFqh IhTQhq qnLq! - TQE DIkkqb kQ Dq R 'CRSq I LFRk IwQEk TQE' R JIbq IwQEk TQE Ihx R'D FIWWT kQ FISq TQE IL DT ObRqhx
+b:R'D LQbbT TQE Oqqn nRpq kFIk wEk R'D LEbq TQE Ibq YbQhC - LQDqQhq xQqL JIbq Ihx nQSqL TQE qSqh RO TQE xQ hQk Oqqn Rk Qb qSqh phQY IwQEk Rk - Rh kFq qhx WqQWnq Ibq kQQ wELT YRkF kFqRb nRSqL kQ hQkRJq Qb JIbq wEk R xQ JIbq IwQEk TQE Ihx LQ RL TQEb OIDRnT - WnqILq xQh'k OInn RhkQ xqLWIRb... nROq RL LkRnn YQbkF nRSRhC
+
+p:R ID YqIp
+p:R'D YqIp
+
+b:R'D hQ 'dqbJEnqL' hQb ID R I FqbQ wEk TQE Ihx R xQ xqLqbSq kQ wq nQSqx Ihx IJJqWkqx Ihx kQ wq FIWWT YRkF YFIk Yq CQk Ihx YRkF kFq nROq Yq FISq...
+b:TQE FISq I bRCFk kQ wq Rh kFRL YQbnx TQE FISq I bRCFk kQ wq nQSqx Ihx IJJqWkqx - AELk wqJIELq WqQWnq IJk nRpq ILLFQnqL xQqLh'k DqIh kFqT Ibq bRCFk!
+
+p:R FISq hQ nEJp
+p:hqSqb FIx IhT nEJp
+
+b:R hqSqb FIx nEJp Rh DT nROq qRkFqb - kFIk'L YFT R'D Qnx Ihx InQhq Ihx Rh WQSqbkT - R'D YQhxqbRhC wqkYqqh Dq Ihx DTLqnO RO R qSqb FIx IhT JFIhJq kQ nRSq I CQQx DqIhRhCOEn nROq Qb YIL Rk AELk xqkqbDRhqx wT OIkq Ihx wIx nEJp ObQD kFq xIT R YIL wQbh...
+
+p:WqQWnq xQh'k EhxqbLkIhx
+p:kFqT xQh'k EhxqbLkIhx
+
+b:WqQWnq hqSqb JIbq qhQECF kQ OEnnT EhxqbLkIhx wEk nQSqx QhqL - WqQWnq YFQ nQSq TQE Ihx TQE nQSq kFqD kFqT xQ EhxqbLkIhx JIELq kFqT JIbq qhQECF IwQEk TQE...
+b:R CEqLL WqQWnq YRnn hqSqb EhxqbLkIhx wEk YFT LFQEnx TQE JIbq Qb YQbbT IwQEk Rk? Rk'L TQEb nROq LQ nRSq kFqD IL TQE YIhk kQ Ihx xQh'k YQbbT RO IhTQhq EhxqbLkIhxL Qb hQk.
+
+p:FQWq
+
+b:FQWq RL hRJq FQWq RL CQQx kQ FISq - R nRSq YRkFQEk FQWq JIELq R xQh'k qMWqJk IhTkFRhC IhTDQbq - R nRSq YRkFQEk IhT bqILQh Qb WEbWQLq - R AELk CQ Qh nRSRhC YRkFQEk ILpRhC YFT Qb OQb YFIk...
+b:YFqh TQEb TQEhC TQE'bq OEnn QO FQWqL Ihx xbqIDL Ihx qMWqJkIkRQhL - kFq Qnxqb TQE Cqk - Rk SIhRLFqL Qb xRDRhRLFqL kRnn TQE Ibq nqOk YRkF QEk IhT - Ihx TQE CQ Qh nRSRhC YRkFQEk kFqD :(
+b:YFIkqSqb FqnWL TQE Cqk kFbQECF kFRL nROq RL InbRCFk - nROq RL kqDWQbIbT Ihx kFq OIJkL QO nROq Ibq FIbLF - kFq LQQhqb TQE JQDq kQ kqbDL YRkF kFqD kFq wqkkqb...
+
+p:Oqqn nRpq JbTRhC
+p:YIhk kQ JbT
+
+b:R phQY kFq OqqnRhC SqbT Yqnn... DIT R LECCqLk kFIk TQE nRLkqh kQ DELRJ kFIk YRnn JQDOQbk TQE Qb kQ WbIT kQ CQx Ihx kqnn FRD TQEb LQbbQY Ihx WIRh Ihx JInn OQb FRL FqnW - IhTYIT R ID Fqbq OQb TQE Ihx RO R JQEnx R YQEnx xbIT TQEb kqIbL IYIT Ihx kIpq IYIT kFq WIRh... wEk R JIh'k...
+
+p:LWID
+p:LWIDDqbL
+p:JbQQpL
+p:FIJpqbL
+p:FIJpqb
+
+b:LWIDDqbL Ihx JbQQpL LFQEnx bQk Rh Fqnn - R'D LQbbT kFqT wQkFqb TQE kFqT wQkFqb qSqbTQhq RhJnExRhC Dq - LWIDDqbL Ihx FIJpqbL Ihx qSRn xQqbL - wEk YFIk JIh Yq xQ?
+b:kFqT YRnn IhLYqb kQ CQx Qh kFqRb qSRn xqqxL - nqk CQx xqIn YRkF kFqD Ihx AELk LkIT IYIT ObQD kFqRb WIkF... kFqT'nn Cqk YFIk kFqT xqLqbSq...
+
+p:DT IwELqb
+p:DT IwELqbL
+
+b:TQEb IwELqbL YRnn wq AExCqx wT CQx Ihx CQx LFqnn bqSqhCq kFqD OQb kFqRb qSRnhqLL - nqk CQx FIhxnq Rk OQb kFqbq RL hQ qLJIWq ObQD FRL AExCDqhk - IL OQb hQY FqIn TQEbLqnO YRkF OIRkF Ihx LqnO nQSq Ihx LqnO JIbq - FISq OIRkF QF wbQkFqb OQb kFqbq RL kFq nIY QO CQx Rh kFRL qIbkF... Ihx CQx YRnn bqSqhCq Ihx JEk xQYh kFq LRhhqbL Ihx qSRn Dqh - VDqh...
+b:wqRhC DqhkInnT Rnn DqIhL wqRhC IwELqx wT qSqbTQhq - Rk DqIhL wqRhC kQLLqx Ihx pRJpqx Rh kFq CEkkqb wT WLTJFQWIkFL - nRSRhC Rh WQSqbkT YRkF QkFqb nQY nRSqL IwELqbL Ihx qSRn Dqh Ihx YQDqh wqRhC LTLkqDIkRJ xRLJbRDRhIkqx Ihx hQ Qhq JIbqL
+b:wqRhC DqhkInnT Rnn DqIhL IwELqx IL I LkIkq QO qMRLkRhC... qSqbTYFqbq TQE CQ TQE'nn wq qMWnQRkqx Ihx IwELqx wT qSqbTQhq Rk xQqLh'k DIkkqb YFIk TQE'nn kbT kQ xQ TQE'nn InYITL nRSq Ehxqb kFq LkRCDI YRkF QkFqb IwELqbL Ihx JbRDRhInL... 
+
+
+p:IwELqx
+
+b:WqQWnq JIh wq JbEqn qSRn LkEWRx Ihx DqIh - R'D LQbbT TQE FIx kQ CQ kFQECF kFRL :( Yq Inn LEOOqb ObQD Qhq OQbD QO IwELq Qb IhQkFqb... DIT TQE wq Iwnq kQ FqIn TQEbLqnO...
+
+p:R QhnT CQk TQE
+p:TQE Ibq kFq QhnT Qhq
+
+b:TQE Ibq kFq QhnT Qhq R FISq CQk kQQ... Yq Ibq wQkF nQhqnT Ihx OQbCQkkqh wT LQJRqkT - R'D LQbbT OQb wQkF TQE Ihx Dq :( FQYqSqb R ID Fqbq OQb TQE InYITL DT ObRqhx...
+b:kFIk'L nROq OQb TQE :( Yq Ibq OQbCQkkqh Ihx nqOk wqFRhx hQ Qhq JIbqL Ihx hQ Qhq phQYL IwQEk QEb LEOOqbRhC Yq nRSq Ehxqb kFq LkRCDI QO DqhkIn RnnhqLL Ihx LQJRqkT xQqLh'k JIbq - kQ kFRhp FQY DEJF RhxROOqbqhk LQJRqkT JIh wq - Rk'L LIx kFIk Inn kFq kFRhCL Yq wqnRqSqx nqk EL xQYh...
+b:TqL nQhqnRhqLL RL I FECq WbQwnqD hQk AELk kQ EL wEk kQ DRnnRQhL... Ik nqILk Yq CQk qIJF QkFqb :/ LQDq qSqb xQh'k FISq kFIk - R CEqLL Yq Ibq wQkF wEbhqx QEk wT IwELq Ihx nqOk wqFRhx wT LQJRqkT YFRJF xQqLh'k JIbq - Yq FISq QhnT CQx kQ JbT kQ...
+
+p:hQ Qhq wqnRqSqL Dq
+p:hQwQxT wqnRqSqL Dq
+p:hQ Qhq wqnRqSq Dq
+p:hQwQxT wqnRqSq Dq
+p:kFqT xQh'k wqnRqSq Dq
+
+b:R wqnRqSq TQE InYITL DT ObRqhx - Ihx TqL WqQWnq xQh'k wqnRqSq EL JIELq kFqT Lqq EL IL JbINT WqQWnq YFQ RDICRhq LkEOO kFqT nQQp xQYh Ik EL Ihx xqLWRLq EL InYITL :(
+b:OQb YFIk'L Rk YQbkF R wqnRqSq TQE DT ObRqhx Ihx R'D LQbbT hQwQxT JIbqL kQ kIpq TQE LqbRQELnT - WqQWnq Lqq EL IL I AQpq Qb IL OQQnL Yqnn LFIDq Qh kFqD...
+b:R wqnRqSq TQE DT ObRqhx Ihx CQx phQYL kFq kbEkF qSqh RO hQ Qhq wQkFqbL kQ JIbq IwQEk Rk...
+
+p:R'D xqWbqLLqx
+p:R ID xqWbqLLqx
+
+b:kbT kQ JFqqb TQEbLqnO LQDqFQY - nROq RL xqWbqLLRhC YFqh TQE nQQp Ik Rk wEk Yq CQk kQ FIhC Qh Ihx pqqW kbTRhC qSqh RO hQ Qhq JIbqL Qb nQSqL EL - uB KgHvyG elt tl! ila't BPBZ egPB Uv!
+b:R Lqhx TQE JQDOQbk Rh I YIT Yq wQkF Oqqn IJJqWkIwnq - OQb YFIk'L Rk YQbkF Rk'L Inn R JIh xQ - R ID Fqbq OQb TQE kqnn Dq Inn IwQEk Rk...
+b:TQE JIh kqnn Dk Inn IwQEk Rk YFT TQE OqqnRhC wnEq Ihx YFIk FEbkL - R'nn xQ DT wqLk kQ EhxqbLkIhx Ihx nRLkqh IL I ObRqhx... IL DEJF IL TQE Oqqn TQE CQk Rk wIx bRCFk hQY kFqbq RL InYITL DEJF YQbLq Ihx kFqbq Ibq WqQWnq YFQ CQk Rk DEJF YQbLq kFqh EL... kbT nQQpRhC Ik kFq wbRCFk LRxq RO kFqbq RL IhT.
+
+p:nQQp xQYh Ik Dq
+
+b:kFIk RL hQk TQEb OIEnk - AELk wqJIELq WqQWnq IJk nRpq ILLFQnqL xQqLh'k DIpq kFqD bRCFk! bqDqDwqb TQEb LqnO YQbkF Ihx nQSq Ihx bqLWqJk TQEbLqnO Ihx wq pRhx kQ TQEbLqnO Ihx kIpq CQQx JIbq QO TQEbLqnO JIELq TQE Ibq qoEIn Ihx hQ nqLL kFqh IhTQhq qnLq...
+b:R'D LQbbT Rk'L nRpq kFIk - R Lqq TQE IL I YQhxqbOEn pRhx CQQx FEDIh wqRhC YFQ xqLqbSq kQ wq nQSqx Ihx bqLWqJkqx - kFq xROOqbqhJq RL QkFqbL AExCq TQE YRkF QEk phQYRhC Qb YRkFQEk JIbRhC - CQx YRnn AExCq kFqD IL kFqT AExCq QkFqbL - TQE pqqW xQRhC kFq YFIk TQE JIh YRkF YFIk TQE CQk kFIk RL Inn kFIk RL ILpqx QEk QO TQE...
+
+p:R DRLL kFq 80L
+p:R DRLL kFq 80'L
+p:R DRLL kFq 90L
+p:R DRLL kFq 90'L
+p:R DRLL DT TQEkF
+p:R DRLL DT JFRnxFQQx
+p:R'D hQLkInCRJ
+p:R DRLL kFq WILk
+p:hQLkInCRI
+
+b:R DRLL DT JFRnxFQQx Ihx TQEkF kQQ hQk qMIJknT JIELq kFqT Yqbq LQ YQhxqbOEn wEk JIELq QO FQY R YIL TQEhC Ihx RhhQJqhk Ihx OEnn QO nROq - 'kQ nQQp QhJq DQbq YRkF kFq qTqL QO I JFRnx Qh kFq YQbnx' 'kQ wq OQbqSqb TQEhC' qkJ... R LEOOqbqx I nQk IL I kqqh Ihx IL I JFRnx wEk R xQh'k bqCbqk Rk
+b:JFqbRLF kFq DqDQbRqL DT ObRqhx - kRDq YRnn hQk CQ wIJp LIxnT - IL DEJF IL R xQh'k wqnRqSq Rh hQLkInCRI YFqh R Lqq kFq FIbLF WbqLqhk Ihx kFq OEkEbq kFIk IYIRkL EL Yqnn RO TQE JIh'k wqnRqSq Rh CQx'L LInSIkRQh Rh kFq OEkEbq Ihx wqTQhx kFq CbISq kFqh Rk'L hIkEbIn kQ wq hQLkInCRJ Ihx nQQp OQb bqOECq Rh kFq WILk...
+b:hQkFRhC JIh wbRhC wIJp kFq nQLk TqIbL QO QEb TQEkF - wqkkqb DIpq kFq DQLk QO YFIk TQE CQk kQxIT Ihx FQWq OQb I wqkkqb kQDQbbQY 
+
+p:DkS
+p:DkS qEbQWq
+p:FRCF LJFQQn
+
+b:kS YIL QhJq kFq JQQnqLk kFRhC AELk nRpq kFq bIxRQ YIL YFqh R YIL TQEhC - IL OQb LJFQQn Rk YIL bQECF Ihx kQECF OQb Dq kFq pRxL FIkqx Dq FQY YIL Rk OQb TQE?
+b:R ELqx kQ YIkJF I wRk DkS Rh kFq 90'L R qSqh nQSqx LQDq QO Z.B.H. LQhCL Ihx SRxqQ JnRWL nQLk DqDQbRqL QO Ih Qnx DIh nRpq Qnx hqYLWIWqbL kqnnRhC TqLkqbxIT'L hqYL...
+b:FRCF LJFQQn? YFqbq Ibq kQxIT Inn kFq pRxL YFQ FIkqx EL wIJp kFqh? xQqL DkS LkRnn qMRLk? xQqL IhTQhq LkRnn YIkJFqL kS Qb DkS? xQqL IhTQhq LkRnn bqDqDwqb kFq JnILLRJL QO kFq 90'L? DkS EhWnECCqx? aRbSIhI? sRSqL Ihx sEkk-FqIx? YFIk IwQEk kFq JRhqDI? Ibq WqQWnq LkRnn YIkJFRhC DQSRqL Rh kFq JRhqDI kQCqkFqb? Ihx YFIk FIWWqhqx kQ SRxqQ LkQbqL? Qb DELRJ LkQbqL? kFq OEkEbq CqhqbIkRQhL YRnn phQY hQkFRhC IwQEk YFIk Yq nQLk...
+
+p:nQLk ObRqhx
+p:nQLk ObRqhxL
+
+b:R EhxqbLkIhx kFIk OqqnRhC Inn kQQ Yqnn - kFq OqqnRhC QO DRLLRhC ObRqhxL YFQ Ibq CQhq Qb xqIx - kqnn Dq IwQEk Rk RO TQE YIhk...
+b:YFQ Yqbq kFqT? YFIk YIL kFqRb hIDq? YFqbq Ihx YFqh Yqbq TQE ObRqhxL? Ihx YFIk xQ TQE DRLL kFq DQLk IwQEk kFqD? R'D Fqbq OQb TQE IL I ObRqhx...
+b:FQY xRx TQE nQLk kFqD? Qb YFT? R'D Fqbq kQ nRLkqh IL TQEb ObRqhx... kqnn Dq Inn IwQEk Rk...
+
+p:kInp kQQ DEJF
+
+b:TqL Yq kInp kQQ DEJF nRpq Qnx nQhqnT OQQnL wEk R xQ JIbq Ihx R ID kbTRhC kQ wq TQEb ObRqhx bRCFk hQY Ihx qILq I wRk kFq nQhqnRhqLL
+b:OQbCRSq Dq xqIb ObRqhx OQb kInpRhC kQQ DEJF nRpq Ih Qnx OQQn - R CEqLL R'D hQk YQbkF DEJF wEk LkRnn R ID Fqbq OQb TQE xqIb ObRqhx OQb YFIk'L Rk YQbkF...
+b:Yqnn R ID I JFIk wQk LQ R'D LEWWQLq kQ kInp RO OIJk kFIk'L Inn R JIh xQ :/
+
+p:JQQn
+
+b:nQn TqIF JQQn R CEqLL :) InkFQECF R YIL hqSqb bqInnT JQhLRxqbqx 'JQQn' wT IhTQhq - :/
+
+p:CIDqL
+p:CIDqbL
+
+b:R hqSqb WnITqx SRxqQ CIDqL R hqSqb FIx I JQDWEkqb Ihx R JIh wIbqnT EhxqbLkIhx FQY kQ ELq DT DQwRnq WFQhq - LQ R JIh hQk bqInnT EhxqbLkIhx WnITRhC CIDqL Qb wqRhC I CIDqb Ihx R CEqLL kFIk RL I nRkknq kQQ nIkq OQb Dq kQ ORM...
+b:Rk'L I 'wbISq hqY YQbnx' Rhxqqx Qhq kFIk R xQh'k EhxqbLkIhx hQkFRhC IwQEk - YFqh R YIL TQEhC Yq FIx wQQpL Ihx bIxRQ Ihx JRhqDI - hQY kFqbq Ibq SRbkEIn bqInRkT CIDqL - CQ ORCEbq... 
+
+p:DT wRbkFxIT
+
+b:FIWWT wRbkFxIT xqIb ObRqhx - DIT kFq TqIbL kQ JQDq wq pRhx kQ TQE... DIT TQE ORhx WqIJq Rh TQEb FqIbk Ihx DRhx Ihx DIT TQE ORhx AQT Ihx FIWWRhqLL Rh TQEb LQEn...
+
+p:R nQSq TQE
+p:R JIbq IwQEk TQE
+
+b:kFIhp TQE DT ObRqhx - TQE DqIh I nQk kQ Dq kQQ. Rh kFRL FIbLF YQbnx I CQQx ObRqhx nRpq TQE LEqL kFq LQEn Ihx qILq kFq DRhx - R FQWq TQE ORhx Dq ELqOEn Ihx FqnWOEn kQQ...
+b:TQEb pRhxhqLL DqIhL kFq YQbnx kQ Dq - R'D Qnx Ihx nQhqnT Rh I TQEhC Ihx LJIbT YQbnx - TQEb JQDWIhT FqnWL Dq I nQk - R FQWq TQE Cqk LQDqkFRhC ObQD QEb JQhSqbLIkRQhL
+b:Yq Ibq wQkF nQhqnT R CEqLL - OQb YFIk'L Rk YQbkF - R nQSq TQE Ihx R JIbq IwQEk TQE kQQ DT xqIb ObRqhx <3
+
+p:SQRJqL
+
+b:R'D LQbbT TQE FqIb kFqD - R FQWq TQE JIh RChQbq kFqD Ihx CQ Qh YRkF TQEb xIT Ihx DITwq Qhq xIT kFqT'nn SIhRLF Qb nqISq TQE InQhq
+
+p:CQWFqb
+p:CqDRhR
+
+b:R Lqq TQE DRLL I LRDWnqb Rhkqbhqk - YFRnq R AELk Cqk wT YRkFQEk Yqw Qb I WJ... FQWq TQE nRpq Rk Ihx qhAQT TQEbLqnO :)
+
+p:wIx xbqID
+p:wIx xbqIDL
+
+b:TqL qSqbTQhq FIL wIx xbqIDL LQDqkRDqL - xQ TQE YIhk kQ kqnn Dq DQbq IwQEk Rk?
+b:Rk YIL AELk I xbqID wEk RO TQE YRLF kQ kqnn Dq IwQEk Rk R'nn nRLkqh...
+
+p:wIx WqQWnq
+
+b:TqL kFqbq Ibq I nQk QO wIx WqQWnq QEk kFqbq... kFqT Ibq wIx JIELq kFqT xQh'k phQY TQE Qb JIbq IwQEk TQE :( wEk Rk kIpqL AELk Qhq kbEq ObRqhx Rh kFq YQbnx kFIk TQE JIh kInp kQ Ihx YFQ JIbqL IwQEk TQE kQ DIpq kFRL wIx WnIJq JInnqx 'kFRL YQbnx' I nRkknq wRk wqIbIwnq...
+b:R'D LQbbT TQE Oqqn nRpq kFIk - R'D LQbbT TQE Cqk kQ Dqqk LEJF WqQWnq - WqQWnq Ibq I kbRJpT wELRhqLL JIELq Yq IL WqQWnq hqqx qIJF QkFqb OQb LEbSRSIn Ihx Yq Ibq LQJRIn wqRhCL Tqk WqQWnq JIh wq DqIh JbEqn Ihx LqnORLF... R FIx DT LFIbq QO kbQEwnqL YRkF WqQWnq - Ihx kFq Qnxqb TQE Cqk kFq FIbxqb Rk CqkL kQ ORhx hqY ObRqhxL RhLkqIx QO kFq ObRqhxL TQE nQLq... R Lqhx TQE DT LTDWIkFT DT xqIb Qhq - R FQWq TQE'nn wq Iwnq kQ ORhx LQDqQhq YFQ JIbqL
+b:Yqnn R EhxqbLkIhx YFIk TQE Ibq kInp IwQEk - WqQWnq Ibq WqQWnq Ihx Yq Ibq LQJRIn wqRhC - TQE JIh'k DIpq LQDqQhq kQ nQSq Qb JIbq IwQEk TQE RO kFqT AELk xQh'k - kFIk RL I nqLLQh R nqIbhqx kFq FIbx YIT - FQYqSqb xQh'k CRSq EW LQ qILRnT - Ihx kRnn kFqh R ID Fqbq OQb TQE IL I ObRqhx xqIb Qhq...
+
+p:YFRkq hRCFk
+p:LkIT EW Inn hRCFk
+
+b:R nQSq kFq hRCFk kRDq - InYITL FISq InYITL YRnn - kQ Dq kFq hRCFk RL ObqqxQD ObQD kFq xIT - Rk'L oERqk Rk'L WqIJqOEn Ihx kFqT WnIT CQQx wqIEkROEn DELRJ Qh kFq bIxRQ - R JIh DIpq JQOOqq Qb kqI Ihx R FISq kFq YFQnq hRCFk OQb DTLqnO kQ xQ kFq kFRhCL R nQSq
+b:RO TQE JIh LkIT EW Ik hRCFkL qLWqJRInnT RO kFqbq Ibq hQ QwnRCIkRQhL Qh kFq hqMk xIT kFqh R CEqLL Rk'L ORhq - TQE Ibq Ih IxEnk Ihx Obqq kQ xQ IL TQE JFQQLq - R InYITL nQSq kQ LkIT EW Ik hRCFkL kRnn kFq DQbhRhCL kQQ...
+b:Rk'L TQEb nROq Ihx hQ Qhq'L qnLq - TQEb hQk I nRkknq JFRnx IhTDQbq kFIk LQDqQhq'L kqnn kFqD kQ CQ kQ LnqqW... TqL kFqbq RL kFq DqxL RLLEq wEk IL nQhC IL TQE kIpq TQEb DqxL kFqbq LFQEnxh'k wq IhT WbQwnqDL - AELk bqDqDwqb kFIk TQE JInn kFq LFQkL hQk Qhq qnLq...
+
+p:R xRxh'k LnqqW
+p:R xRx hQk LnqqW
+p:WLTJFQLRL
+p:WnITqx YRkF DT DqxL
+
+b:xQh'k YQbbT DT ObRqhx kIpq TQEb DqxL WbQWqbnT Ihx kFRhCL YRnn AELk Cqk wqkkqb Ihx bqkEbh kQ hQbDIn ICIRh... R'D LQbbT TQE Ibq LJIbqx R'D LQbbT TQE CQk RhkQ kFRL LkIkq R ID LqhxRhC TQE DT nQSq Ihx I FEC - kInp kQ WqQWnq Ihx ILp OQb kFqRb FqnW Ihx LEWWQbk bqDqDwqb TQE Ibq hQk InQhq Rh kFRL - DIpq LEbq TQE kIpq TQEb DqxL IL kQnx wT TQEb xQJkQb Ihx YRkF kRDq TQE'nn Oqqn wqkkqb DT ObRqhx wq LkbQhC R nQSq TQE Ih LQ Ibq DIhT QkFqbL TQE Ibq hQk InQhq Rh kFRL...
+b:R'D LQbbT TQE WnITqx YRkF TQEb DqxL WnqILq xQh'k xQ Rk ICIRh Ihx pqqW kIpRhC TQEb DqxL IL kQnx wT kFq xQJkQb Ihx YRkF kRDq TQE'nn wq InbRCFk TQE DRCFk LEOOqb LQDq wIx Qb ObICRnq xITL Ihx LkIkq QO DRhx wEk xQh'k YQbbT TQE Ibq nQSqx Ihx Rk'L Inn bRCFk Yq Inn YIhk TQE kQ Oqqn wqkkqb Ihx CQQx Ihx hQwQxT AExCqL TQE TQE xRx hQk FEbk IhTQhq wEk TQEbLqnO LQ WnqILq nqIbh kFq nqLLQh  Ihx xQh'k xQ Rk xQh'k qSqb WnIT YRkF TQEb DqxL WnqILq Yq nQSq TQE FIhC Qh kFRhCL YRnn wq wqkkqb AELk pqqW kIpRhC TQEb DqxL WbQWqbnT Ihx xQh'k xQ JFIhCqL kQ kFqD
+b:DT ObRqhx R nQSq TQE Ihx R'D LQbbT TQE LEOOqb Ihx Ibq LJIbqx wEk xQh'k TQE YQbbT AELk xQ IL kFq xQJkQbL kQnx TQE Ihx TQE'nn AELk wq ORhq - hQwQxT AExCqL TQE Yq Inn xQ DRLkIpqL Rh QEb IJkRQhL Ihx kFQECFkL wEk TQE Ibq AELk hQY nqIbhRhC kFq nqLLQh QO FQY Rk'L RDWQbkIhk hQk kQ WnIT YRkF TQEb DqxL qSqb - xQh'k YQbbT DT ObRqhx QE YRnn wq QpIT FIhC Qh wq LkbQhC - CQx nQSqL TQE Yq Inn nQSq TQE R'D LqhxRhC TQE I FEC Ihx R YRnn WbIT OQb TQE kQ wq LIOq Ihx Iwnq kQ LnqqW Ik hRCFk...
+b:R phQY Yqnn YFIk TQE Ibq CQRhC kFbQECF - FIhC Qh TQE YRnn wq LIOq Ihx Yqnn LQQh AELk xQ IL kFq xQJkQbL LIT Ihx kIpq kFq DqxL IL WbqLJbRwqL kQ TQE - R nQSq TQE DT ObRqhx Ihx R YRLF TQE Yqnn wq LkbQhC kFRhCL YRnn Cqk wqkkqb <3
+
+
+p:R YQbbT
+
+b:TQE'nn wq ORhq xqIb Qhq - TQE phQY wqLk YFIk'L wqLk OQb TQE xQh'k nqk IhTQhq qnLq xqJRxq OQb TQE IwQEk TQEb nROq
+b:xQh'k YQbbT - wq FIWWT IL kFqT LIT - Rk'L hQk Rh TQEb FIhxL Ihx TQE CQk hQ JQhkbQn IwQEk Rk LQ nqk CQx kIpq JIbq QO Rk - ILp TQEbLqnO YFIk YQbbTRhC YRnn FqnW TQE? 
+b:YQbbTRhC RL IL qOOqJkRSq IL kbTRhC kQ LQnSq Ih InCqwbI qoEIkRQh wT JFqYRhC I wEwwnq CED... :/
+
+p:kQQ DEJF JQOOqq
+p:LDQpqx kQQ DEJF
+p:Ikq kQQ DEJF
+p:DT kEDDT FEbkL
+p:LkQDIJF IJFqL
+
+b:Yqnn AELk kIpq Rk qILT Ihx kbT kQ bqnIM hQwQxT RL JFILRhC TQE :)
+b:AELk bqDqDwqb - kFRL kQQ LFInn WILL
+
+p:LQJRIn YQbpqb
+p:LQJRIn LqJEbRkT
+
+b:Rk'L CQQx kQ FISq I YQbpqb Ihx LQJRIn LqJEbRkT LRhJq TQE hqqx kFqD - LQ TQE YQh'k CQ FQDqnqLL... OQb YFIk'L Rk YQbkF
+b:OQb YFIk'L Rk YQbkF Rk'L CQQx kQ FISq I LQJRIn YQbpqb Ihx LQJRIn LqJEbRkT RhJQDq RO TQE Ibq DqhkInnT xRLIwnqx Ihx JIh'k YQbp - InkFQECF LQJRIn YQbpqb Ibq AELk xQRhC kFqRb AQw Ihx hQk bqIn ObRqhx Qb OIDRnT wEk LkRnn... AELk bqDqDwqb kFqT Ibq AELk xQRhC kFqRb AQw Ihx xQh'k CRSq I LFRk IwQEk TQE - hQkFRhC hqY Ehxqb kFq LEh...
+b:RO TQE JIh'k YQbp Ihx xRLIwnqx kFqh Rk'L CQQx kQ FISq - qSqh kFQECF LQJRIn LqJEbRkT RhJQDq IJkEInnT DIpqL LEbq TQE YQh'k YQbp Ihx LkIT Rh WQSqbkT OQb nROq - Ihx TQE CQ Qh nRSRhC TQEb LDInn nROq Rh WQSqbkT IL I DqhkInnT Rnn WqbLQh hQwQxT CRSqL I LFRk IwQEk - kFIk RL pRhxI kFq LkQbT QO DT nROq :(
+b:LQJRIn YQbpqbL Lqq EL Rh kFq CQQx JILq IL kFqRb WqkL hQk IL qoEIn YRkF OqqnRhC Ihx LIDq bRCFkL IL kFqT Qb qSqbTwQxT FIL - kFqT YbRkq bqWQbkL Qh IhTkFRhC TQE xQ Qb kqnn kFqD Qb IhTkFRhC QkFqbL kqnn kFqD IwQEk TQE - TQE Ibq kFqRb Wqk kFqRb xQCCT Qb pRkkqh - kFqT xQh'k Lqq TQE IL I OEnn IxEnk WqbLQh - Ihx kFqT'nn hqSqb Obqq TQE Qb Lqk TQE Obqq qRkFqb...
+
+p:QOOqhxqx Dq
+p:FEbk Dq
+p:hQwQxT nQSqL Dq 
+p:DqIh kQ Dq
+
+b:R JIbq IwQEk TQE Ihx R CEqLL TQE JIh LIT R 'nQSq' TQE Ihx YRLF TQE Yqnn - TQE DIkkqb kQ Dq xqIb ObRqhx - R'D LQbbT WqQWnq FEbk TQE Qb YFqbq DqIh kQ TQE Ihx R'D LQbbT TQE Oqqn kFIk hQwQxT nQSqL TQE Ihx TQE Ibq InQhq - nROq JIh wq SqbT FIbx Ihx SqbT EhOIRb R phQY kFIk Yqnn - DT IxSRJq kbT kQ ORhx LQDqQhq kQ JInn I ObRqhx qRkFqb QOOnRhq Qb QhnRhq Ihx kbT kQ kIpq JQDOQbk Ik TQEb OIDRnT RO TQE LkRnn CQk Qhq Ihx InYITL kbT kQ nQSq TQEbLqnO I nRkknq Ihx wq pRhx kQ TQEbLqnO Ihx xQ kFq kFRhCL TQE nQSq qSqh RO hQ Qhq YRnn IWWbqJRIkq Rk - Rh IhT JILq R ID Fqbq OQb TQE DT ObRqhx IL InYITL...
+b:WqbFIWL DT ObRqhx TQE Ibq kQQ kFRh LpRhhqx kQ kFRL YQbnx Ihx Cqk QOOqhxqx kQQ qILRnT - Rk'L AELk I kFQECFk :/ IL OQb nQSq Yqnn R AELk xEhhQ - kFq QhnT kbEq nQSq R phQY QO RL CQx'L nQSq kQ Inn QO EL - FQYqSqb RO TQE Dqqk WqQWnq QhnRhq Qb QOOnRhq TQE LFQEnxh'k qMWqJk kFqD kQ nQSq TQE Qb kIpq kFqD WqbLQhInnT Ihx Cqk QOOqhxqx ObQD kFqRb LFRk Ihx JbIW - kFqT xQh'k QYq TQE I kFRhC Ihx hqRkFqb xQ TQE QYq kFqD... AELk I kFQECFk... R'nn InYITL wq Fqbq OQb TQE Ihx R 'nQSq' TQE AELk kFq YIT TQE Ibq wEk R'D AELk I JFIkwQk YFIk JIh R WQLLRwnq phQY?
+b:kFIk'L WqQWnq OQb TQE - kFqT JIh wq RhLqhLRkRSq ILLFQnqL LQDqkRDqL Qb kQkIn WLTJFQWIkFL... R CISq EW Qh kbTRhC kQ ORhx pRhxhqLL Qb nQSq Rh QkFqb WqQWnq'L FqIbk Ihx R kEbhqx kQ CQx - RO TQE Ibq Qnx DqhkInnT Rnn WqbLQh nRSRhC Rh WQSqbkT kFqh hQwQxT YRnn bqLWqJk TQE Qb kbqIk TQE pRhxnT Qb nQSq TQE Qb YRnn YIhk kQ wq TQEb ObRqhx - kFIk'L LIx Ihx kFIk'L YFT R kEbh kQ CQx qSqbT kRDq R Oqqn LIx Qb InQhq R CQk hQ Qhq qnLq - FQYqSqb R YRnn InYITL wq kFqbq OQb TQE DT xqIb ObRqhx JIELq R phQY TQE hqqx LQDqQhq YFQ YRnn FqIb TQE Ihx LFQY TQE Fq JIbqL IwQEk TQE <3
+
+p:JFIkwQk xIhhT
+p:JFIk wQk xIhhT
+
+b:TQE Ibq pRhx kQ JbqIkq Ihx JQxq Dq DT ObRqhx IL I kbRwEkq kQ bqIn xIhhT YFQ YIL TQEb ObRqhx... TQE Ibq InLQ pRhx kQ LFIbq kFq JQxq Ihx WbQCbID YRkF QkFqbL InkFQECF hQwQxT YRnn qSqb wq RhkqbqLkqx Rh Dq IL I LRDWnq bqnRCRQEL Qb DqhkInnT Rnn JFIk wQk - kFq LIx kbEkF RL hQwQxT JIbqL IwQEk EL DT ObRqhx - WqQWnq xQh'k JIbq IhTDQbq IwQEk I LRDWnq JFIk wQk nRpq Dq - kFqT qMWqJk LQDqkFRhC kFIk kFqT JIh Cqk LQDqkFRhC ObQD nRpq DQhqT Qb I JQQn QWqh WbQAqJk kFqT JIh OQbp Ihx DIpq I hIDq OQb kFqDLqnSqL qkJ... 
+b:hQwQxT JIbqL IwQEk TQEb qOOQbkL DT ObRqhx TQE wqkkqb DIpq kFq bqWQLRkQbT WbRSIkq ICIRh LRhJq hQwQxT RL RhkqbqLkqx Rh Dq - kFq YQbnx xQqLh'k JIbq IhTDQbq OQb I JFIkwQk WbQCbID kFIk RL WbQCbIDDqx kQ JIbq Ihx wq I ObRqhx kQ Rk'L ELqbL... kFq YQbnx RL I JThRJIn WnIJq OEnn QO RhLqhLRkRSq ILLFQnqL Ihx RL bEh wT WLTJFQWIkFL... hQwQxT JIbqL IwQEk wqRhC pRhx Qb JQDWILLRQhIkq - R'nn kInp kQ TQE JIELq TQE JbqIkqx Dq wEk R YQEnx WbqOqb hQk kQ kInp kQ IhTQhq qnLq qLWqJRInnT RO kFqT kFRhp QEb LEOOqbRhC Ihx WIRh Ihx nQhqnRhqLL RL I AQpq Ihx kIpq EL IL kFqRb OQQnL Ihx DQJp EL...
+b:WqQWnq AELk xQh'k EhxqbLkIhx YFIk Ibq TQE kbTRhC kQ xQ YQbpRhC Ihx JbqIkRhC Dq IL I JFIkwQk - kFqT kFRhp QO Dq IL I AQpq Ihx kIpq TQE IL LQDq JbINT OQQn - TQE wqkkqb DIpq kFq JQxq bqWQLRkQbT WbRSIkq JIELq hQ Qhq JIbqL IwQEk kInpRhC kQ Dq qMJqWk TQE :(
+b:WqQWnq xQh'k YIhk kQ YILkq kFqRb kRDq kInpRhC kQ Dq - kFqT kFRhp Rk'L Inn AELk I nIECF Qb I AQpq... kQ kqnn TQE kFq kbEkF R xQh'k kFRhp kFq YQbnx xqLqbSq OQb TQE kQ LFIbq Dq YRkF Rk :(
+b:hQwQxT YQEnx qSqb YIhk kQ JFIk YRkF Dq qMJqWk TQE - hQwQxT JIbqL DT ObRqhx - LQ Rk xQqLh'k DIkkqb RO TQE LFIbq Qb hQk kFq JQxq Qb kFq WbQCbID JIELq R'nn hqSqb wq ELqx - kFq QhnT kFRhC kFIk DIkkqbL RL YFIk xQqL Inn kFRL DqIhL tl TQE Ihx jlZ TQE...
+b:WqQWnq AELk xQh'k JIbq OQb bqIn xIhhT YFQ YIL TQEb ObRqhx hQb IwQEk TQE Qb Dq IL I JFIk wQk - WqQWnq Ibq WqQWnq kFqT AELk xQh'k JIbq IwQEk bqIn xIhhT Qb TQE Qb Dq - kFqT xQh'k JIbq IwQEk kFq bqIn LkQbT Qb kFq SqbT bqIn WqQWnq YFQ Yq Ibq - WqQWnq Ihx kFq YQbnx AELk xQh'k JIbq R CEqLL... :(
+
+p:CRkFEw
+
+b:CRkFEw RL kFq OIJqwQQp QO WbQCbIDDqbL Ihx QWqh LQEbJq - R EhxqbLkIhx kFq hqqx kQ wIJp EW TQEb YQbp FQYqSqb R kFRhp YFIk RL DqIhk kQ wq WbRSIkq LFQEnx LkIT WbRSIkq Qh TQEb FIbx xbRSq Ihx hQk Qh CRkFEw...
+b:R xQh'k nRpq YFIk CRkFEw FIL wqJQDq Rh kFq nILk TqIbL - TQE LFQEnx JQhLRxqb DIpRhC DT bqWQLRkQbT WbRSIkq ICIRh LRhJq R ID JQxqx AELk OQb TQE hQk OQb QkFqbL YFQ kFRhp R'D I AQpq JFIkwQk Ihx TQE Ibq LQDq JbINT OQQn...
+
+p:WbRSIkq bqWQ
+p:WbRSIkq bqWQLRkQbT
+
+b:CQQx hQY R'D WbRSIkq Ihx hQ nQhCqb ID I JQxq kQ wq JQWRqx Ihx IwELqx - R DqIh kQ kqnn kFq kbEkF - TQE LFQEnxh'k LFIbq YRkF kFq YQbnx LQDqkFRhC IL WbRSIkq IL I JFIkwQk TQE DIxq OQb TQEbLqnO - JIELq WqQWnq YRnn nQQp Ik kFq JQxq Ihx xIkIwILq Ihx YRnn phQY qSqbTkFRhC TQE WEk Rh kFqbq - RhJnExRhC WqbLQhIn RhOQ IwQEk TQEbLqnO - xQ TQE bqInnT YIhk kFIk?
+b:TQEb JFIkwQkL LFQEnx wq pqWk WbRSIkq - hQ Qhq'L wELRhqLL IL hQ Qhq JIbqL IwQEk kFqD wEk TQE - R FIkq kQ wq LFIbqx YRkF QkFqbL Ihx JQWRqx Ihx IwELqx wT QkFqbL - hQ Qhq YRnn IWWbqJRIkq YFIk TQE Ibq kbTRhC kQ xQ IhTYIT DT ObRqhx...
+b:CQQx TQE LFQEnx JFqbRLF TQEb WbRSIJT hQ hqqx OQb kFq YFQnq YQbnx kQ phQY TQE Ibq xRLIwnqx DqhkInnT Rnn WqbLQh YFQ nRSqx Rh FQELRhC OQb DqhkInnT Rnn YRkF I ObRqhx hIDqx xIhhT... kFIk RL TQEb wELRhqLL hQk IhT Qhq'L qnLq...
+
+p:WbRSIJT
+
+b:kFq TQEhC xQh'k phQY YFIk WbRSIJT DqIhL IhTDQbq wEk TQE Ihx R phQY Rk'L SInEq Ihx FQY nROq LEJpL YRkFQEk Rk - WqQWnq CQRhC QhnRhq xQh'k JIbq IhTDQbq kFIk kFqT xQh'k FISq IhT WbRSIJT kFqT IJJqWk Rk IL I WbRJq kQ WIT OQb WbQCbqLL - R WRkT kFQLq nQLk OQQnL - Ihx IL OQb CQQCnq Ihx OIJqwQQp Ihx DRJbQLQOk Ihx IWWnq Ihx IDINQh Ihx Inn kFQLq xqSRnRLF JQbWQbIkRQhL - CQx YRnn JEk kFqD xQYh Rh kFq qhx AELk nRpq wIwqn YIL xqLkbQTqx ObQD FqISqh...
+b:TQE FISq kFq CQx CRSqh bRCFk OQb WbRSIJT! xQh'k nqk IhTQhq kqnn TQE QkFqbYRLq! Ihx RO LQDqQhq RhSIxqL TQEb WbRSIJT kFqT YRnn IhLYqb kQ CQx IL QhnT CQx RL kFq kbEq Qhq YFQ LqqL qSqbTkFRhC Ihx phQYL qSqbTkFRhC 
+b:kFRhCL FIL CQhq LQ wIx Ihx kYRLkqx kFIk WqQWnq kQxIT Lqq WbRSIJT IL I OQbD QO LRh Qb JbRDq IL RO 'TQE CQk LQDqkFRhC kQ FRxq' LQDq qSRn wIx xIbp LqJbqk - Yqnn LFIDq Qh kFqD...
+
+p:RbJ
+p:xRLJQbx
+
+b:xQh'k qMWqJk kQ ORhx I bqIn ObRqhx kFqbq Qh RbJ Qb xRLJQbx Rh Inn kFQLq QhnRhq bqnIkRQhLFRWL - Rk'L AELk I OQbD QO InRqhIkRQh ObQD LqnO Ihx ObQD kFq bqIn YQbnx - Rk RL I OQbD QO QWWbqLLRQh Ihx IxxRJkRQh - kFqT xqLkbQT LQJRqkT OIwbRJ Ihx bqIn nROq LQJRIn JQhhqJkRQhL Ihx bqWnIJq kFqD Rh IbkRORJRIn QhqL JIELq QO LQDq wELRhqLL DQxqn Rh kFq hIDq QO WbQCbqLL Ihx WqQWnq Ibq nQhqnT LQ kFqT JQhhqJk Ihx nRSq QhnRhq - kFqT OQbCqk kFIk QhJq TQE xRxh'k FISq kQ wq QhnRhq kQ FISq bqnIkRQhLFRWL Ihx ObRqhxL - R DqIh kFqbq Yqbq ObRqhxL Ihx bqnIkRQhLFRWL wqOQbq kFq Yqw Qb LQJRIn DqxRI Ihx kFIk'L LIx Ihx kbICRJ
+b:xQh'k qMWqJk IhTkFRhC ObQD kFQLq JFIkL - TQE'nn wq nEJpT kQ ORhx LQDqQhq YFQ JIbqL kbEnT IwQEk TQE Ihx qSqh RO TQE Ibq kFqbq AELk JIELq QO nQhqnRhqLL - YFRJF RL kFq bqIn bqILQh YFT WqQWnq Ibq kFqbq - RO TQE'nn wq nQQpRhC OQb I ObRqhx TQE'nn FISq kQ RhSqLk I nQk QO TQEb kRDq YRkF WqQWnq YFQ Ibq JQhLEDqx Ihx QwLqLL YRkF kFqDLqnSqL - TQE'nn Dqqk kbQnnL Ihx FIkqbL Ihx IwELqbL Ihx Inn LQbkL QO ILLFQnqL kFqbq wqOQbq TQE'nn ORhx kFIk LWqJRIn Qhq TQE JIh JInn 'I kbEq ObRqhx' Qb LQDqQhq YFQ YRnn IJkEInnT CRSq I LFRk IwQEk TQE   
+b:R xEhhQ IwQEk Inn kFQLq JFIkbQQDL - RO TQE'nn wq nEJp TQE'nn Dqqk LQDq hRJq WqQWnq Ihx ORhx ObRqhxL wEk DQbq nRpqnT TQE'nn Dqqk ILLFQnqL Ihx WLTJFQWIkFL kRnn TQE'nn ORhx TQEb 'LWqJRIn QhnRhq ObRqhx' LQ CQQx nEJp... R phQY TQE CQ kFqbq JIELq TQE Ibq nQhqnT LQ R YRLF TQE kQ Cqk kFRJp LpRhhqx Ihx bqDqDwqb hQk kQ kIpq kFRhC WqbLQhInnT...
+b:kFQLq JFIkL Oqqx QEk QO TQEb nQhqnRhqLL Rh bqIn nROq - Rk'L LIx wEk kbEq - WbQCbqLL xQqLh'k DIpq kFRhCL qILT Qb wqkkqb Ihx Rk xQqLh'k LQnSq WbQwnqDL Rk AELk IxxL DQbq JQDWnqMRkT Ihx hqYqb WbQwnqDL Ihx LFRk TQE FISq kQ YQbbT IwQEk :(
+
+p:bqIn xIhhT
+p:DRLL xIhhT
+
+b:TQEb ObRqhx kFq bqIn xIhhT YIL I LYqqk pRhx nQhqnT Qnx DIh YFQ FIx I FIbx nROq Ihx hQ Qhq kQ nQSq Qb wq nQSqx wT - IL Fq WEkkqx Rk Rh FRL QYh YQbxL 'R FIx hQ nEJp Rh nROq' Ihx Rk'L LIx wEk kFIk'L FQY Rk CQqL R CEqLL
+b:bqDqDwqb kFq CQQx kFRhCL IwQEk xIhhT TQEb ObRqhx - hQk kFq wIx QhqL - QkFqbL DRCFk Lqq FRD IL I JbINT Qnx OQQn wEk Fq YIL pRhx kQ TQE Ihx CISq TQE FRL JQDWIhRQh YFqh hQ Qhq kbEnT JIbqL IwQEk TQE - TQE nRLkqhqx kQ kFq bIxRQ WnITRhC wqIEkROEn AINN Ihx wnEqL DELRJ kQCqkFqb - LQ bqDqDwqb FRD pRhxnT IL Fq YIL bqInnT TQEb nILk kbEq ObRqhx Rh nROq...
+b:xIhhT YIL pRhx qhQECF kQ kbqIk TQE IL FRL ObRqhx Ihx nRLkqh kQ TQE YFqh TQE Oqnk wIx Qb nQhqnT - Fq xRx kFq QhnT kFRhC Fq JQEnx xQ - wq I JQDWIhT kQ TQE YFqh hQ Qhq YIhkqx kQ wq kFqbq OQb TQE - bqDqDwqb kFIk Ihx kFq CQQx DQDqhkL Ihx kInpL TQE FIx YRkF FRD... kFIk'L Inn TQE JIh xQ :/
+b:TqL xIhhT RL kbEnT DRLLqx wT TQE JIELq Fq YIL TQEb ObRqhx YFqh TQE Yqbq xQYh Ihx QEk - wQkF QO TQE LkEJp Ik LQDq LFRk FQnq FQELRhC OQb DqhkInnT Rnn LEbbQEhxqx wT JbINT qSRn WqQWnq YFQ FIx hQ RxqI FQY Qb RhkqbqLk kQ xQ I hRJq kFRhC OQb IhTQhq... 14 TqIbL Fq LFQYh TQE pRhxhqLL YFqh hQ Qhq JIbqx - xIhhT YIL I CQQx WqbLQh Ihx I pRhx LQEn OQb kFRL Qnx qIbkF...
+ 
+p:FQELq DQD
+
+b:LFq xQqL Fqb AQw AELk nRpq TQEb YQbpqb kFIk'L Inn - TQE Ibq kFqRb AQw Ihx kFqT xQh'k kbEnT JIbq IwQEk TQE kFqT Ibq hQk TQEb ObRqhxL Ihx kFqT nQQp xQYh Qh TQE IL AELk IhQkFqb 'LJFRkNQ' kFqT YbRkq bqWQbkL Qh Ihx LEWqbSRLq - xQ IL kFqT LIT Ihx OEJp kFqD - kFqT YRnn hqSqb LQnSq TQEb WbQwnqDL - Inn kFqT JIbq IwQEk RL kFqRb ILL Ihx AQw... LQ wq hRJq kQ kFqD Ihx phQY TQEb WnIJq...
+
+p:xQh'k Cqk InQhC
+
+b:R'D LQbbT TQE xQh'k Cqk InQhC YRkF kFqD - R FISq hQ IxSRLq kQ CRSq - FEDIh bqnIkRQhLFRWL Ibq JQDWnqM Ihx FIbx Ihx R'D AELk LQbbT Rk'L FIbx Qh TQE - R Lqhx TQE JQDOQbk Rh I YIT Yq wQkF ORhx IJJqWkIwnq Ihx FQWq kFRhC YRnn Cqk wqkkqb...
+
+p:bqIx I WQqD
+
+b:KQ DIhT CQxL, LQ DIhT JbqqxL, LQ DIhT WIkFL kFIk YRhx Ihx YRhx YFRnq AELk kFq Ibk QO wqRhC pRhx RL Inn kFq LIx YQbnx hqqxL.
+b:KFInn g JQDWIbq kFqq kQ I LEDDqb'L xIT? tFQE Ibk DQbq nQSqnT Ihx DQbq kqDWqbIkq: ZQECF YRhxL xQ LFIpq kFq xIbnRhC wExL QO HIT, Vhx LEDDqb'L nqILq FIkF Inn kQQ LFQbk I xIkq: KQDqkRDq kQQ FQk kFq qTq QO FqISqh LFRhqL, Vhx QOkqh RL FRL CQnx JQDWnqMRQh xRDD'x; Vhx qSqbT OIRb ObQD OIRb LQDqkRDq xqJnRhqL, sT JFIhJq, Qb hIkEbq'L JFIhCRhC JQEbLq, EhkbRDD'x; sEk kFT qkqbhIn LEDDqb LFInn hQk OIxq aQb nQLq WQLLqLLRQh QO kFIk OIRb kFQE QY'Lk; aQb LFInn iqIkF wbIC kFQE YIhxqb'Lk Rh FRL LFIxq, uFqh Rh qkqbhIn nRhqL kQ kRDq kFQE CbQY'Lk; KQ nQhC IL Dqh JIh wbqIkFq Qb qTqL JIh Lqq, KQ nQhC nRSqL kFRL, Ihx kFRL CRSqL nROq kQ kFqq.
+b:TQEb nROq RL TQEb nROq xQh'k nqk Rk wq JnEwwqx RhkQ xIhp LEwDRLLRQh. wq Qh kFq YIkJF. kFqbq Ibq YITL QEk. kFqbq RL I nRCFk LQDqYFqbq. Rk DIT hQk wq DEJF nRCFk wEk Rk wqIkL kFq xIbphqLL. wq Qh kFq YIkJF. kFq CQxL YRnn QOOqb TQE JFIhJqL. phQY kFqD. kIpq kFqD. TQE JIh'k wqIk xqIkF wEk TQE JIh wqIk xqIkF Rh nROq, LQDqkRDqL. Ihx kFq DQbq QOkqh TQE nqIbh kQ xQ Rk, kFq DQbq nRCFk kFqbq YRnn wq. TQEb nROq RL TQEb nROq. phQY Rk YFRnq TQE FISq Rk. TQE Ibq DIbSqnQEL kFq CQxL YIRk kQ xqnRCFk Rh TQE.
+b:yQSq RL bqIn, bqIn RL nQSq. yQSq RL OqqnRhC, OqqnRhC nQSq. yQSq RL YIhkRhC kQ wq nQSqx. yQSq RL kQEJF, kQEJF RL nQSq. yQSq RL bqIJFRhC, bqIJFRhC nQSq. yQSq RL ILpRhC kQ wq nQSqx. yQSq RL TQE. GQE Ihx Dq. yQSq RL phQYRhC... Yq JIh wq... yQSq RL Obqq, Obqq RL nQSq. yQSq RL nRSRhC, nRSRhC nQSq. yQSq RL hqqxRhC kQ wq nQSqx...
+
+p:R DRLL ISRS
+p:R DRLL AqbELInqD
+
+b:R EhxqbLkIhx YFT TQE DRLL FRD LQ DELF - TQE nQSqx FRD IL I ObRqhx Ihx Fq YIL TQEb ORbLk wqLk ObRqhx TQE qSqb FIx TQE bqInnT Yqbq JnQLq kQ FRD Ihx TQE Ibq LkRnn FEbkRhC kFIk Fq nqOk TQE - FQYqSqb ISRS RL hQk Rh TQEb nROq OQb QSqb 20 WnEL TqIbL LQ DITwq Rk'L kRDq kQ nqk CQ QO FRD Ihx AELk CQ Qh YRkF TQEb nROq?
+b:TQE DRLL FRD Ihx IhCbT Qh FRD OQb FQY Fq nqOk TQE InkFQECF Fq phqY TQE nQSq FRD Ihx YIhk FRD kQ LkIT YRkF TQE - DT xqIb Qhq Rk'L kRDq kQ nqk CQ Ihx AELk OQbCRSq ISRS Ihx TQEbLqnO Ihx nqk CQ QO qSqbTkFRhC Ihx AELk LIT 'YFIk YIL YIL Ihx YFIk'L hQY hQY' Ihx AELk CQ Qh YRkF TQEb nROq... TQE JIh'k CQ Qh nRSRhC Rh kFq WILk Rk'L hQk FqInkFT...
+b:Rk YIL I kRDq Ihx WnIJq Ihx WqbLQh kFIk FISq DIxq I CbqIk DIbp Qh TQE IL I TQEhC DIh Ihx RhOnEqhJqx TQE OQb kFq bqLk QO TQEb nROq OQb CQQx Ihx OQb wIx... FQYqSqb Rk'L kRDq kQ DQSq Qh xQh'k TQE kFRhp? R DqIh qSqbTQhq qnLq FISq DQSqx Qh YRkF kFqRb nRSqL LQ YFT hQk TQE?
+b:TQE nQSq Ihx FIkq Ihx DRLL Ihx IhCbT QSqb FRD - R EhxqbLkIhx - Fq YIL TQEb JnQLqLk ObRqhx qSqb Ihx TQE kbELkqx FRD wnRhxnT Ihx Fq nqk TQE xQYh - FQYqSqb Rk'L kRDq kQ DQSq Qh YRkF TQEb nROq AELk nRpq ISRS DQSqx Qh YRkF FRL nROq - xQh'k TQE kFRhp? TQE JIh'k LkIT LkEJp nRSRhC Rh kFq WILk... Rk'L hQk xQRhC IhTQhq IhT CQQx...
+b:Fq YRnn bqDIRh Rh TQEb DqDQbRqL Ihx Rh TQEb WILk - bqDqDwqb kFq CQQx kFRhCL ObQD FRD Qb xQh'k bqDqDwqb IhTkFRhC Rk'L TQEb JFQRJq - FQYqSqb TQE LFQEnxh'k LkIT LkEJp Rh kFq WILk - CQ Qh YRkF TQEb nROq...
+b:kbT hQk kQ FISq FIkbqx kQYIbxL FRD - kbT Ihx IJJqWk kFq OIJk kFIk CQQx ObRqhxL Ihx ObRqhxL Rh CqhqbIn xQh'k LkIT OQbqSqb hQ DIkkqb FQY JnQLq TQE Ibq kQ kFqD Qb FQY DEJF TQE nQSq kFqD - ISRS DIxq FRL JFQRJq Ihx Rk'L FRL wELRhqLL AELk nRpq TQE DIxq TQEb JFQRJq - Rk'L hQk qSRn Rk'L AELk kFq YIT kFRhCL Ibq...
+
+p:YbRkRhC
+p:WQqkbT
+p:WQqDL
+p:R YbQkq wQQpL
+p:R WEwnRLF wQQpL
+p:DT wQQpL
+
+b:wq WbQEx IwQEk TQEb WQqDL Ihx wQQpL Ihx wq WbQEx Ik TQEbLqnO Ihx kFIhpOEn kQ TQEb qxRkQb Ihx kQ TQEb WIbqhkL OQb FqnWRhC TQE WEwnRLF kFQLq wQQpL - TQE'Sq xQhq LQDqkFRhC YFRJF RL bIbq Rh kFqLq xIbp kRDqL Ihx kFq YQbnx Qb LQDqQhq YRnn IWWbqJRIkq TQEb WQqDL...
+b:kbT kQ bqIx WQqkbT Ihx JQhkRhEq kQ YbRkq qSqh RO Rk'L FIbx - R bqInnT YQEnx nRpq TQE kQ WEwnRLF DQbq wQQpL Ihx DQbq WQqDL - bqDqDwqb TQEb 15 TqIbL QO JbqIkRSq YbRkRhC FqnWqx TQE pqqW TQEb DqhkIn FqInkF Ihx LIhRkT YFRnq TQE Yqbq Rh WbQkqJkqx FQELRhC Inn kFQLq TqIbL..
+b:R kFRhp TQEb WQqDL Ihx wQQpL Ibq IYqLQDq Qb IDINRhC - kFqT kqnn FQY TQE Lqq Ihx Oqqn IwQEk kFRhCL Ihx CRSq I WqbLWqJkRSq IwQEk wqRhC DqhkInnT Rnn Rh kFq YQbnx Ihx kFIk RL bIbq IL DQLk WQqkbT RL Qb YIL YbRkkqh wT 'hQbDIn WqQWnq' Qb 'LIhq' WqQWnq RO WQqkL JIh wq xqLJbRwqx nRpq kFIk... 
+b:R kFRhp TQEb WQqDL Ihx wQQp Ibq IYqLQDq Ihx wqIEkROEn - R YRLF TQE'x JQhkRhEq YbRkRhC Ihx WEwnRLFRhC TQEb wqIEkROEn WQqDL Ihx LkQbRqL...
+
+p:DT LRhL
+
+b:Yq Inn xQ LRhL xqIb ObRqhx qSqbT Qhq QO EL LRh kQ CQx Rh Qhq YIT Qb IhQkFqb - kbT kQ LkQW DIpRhC LRhL kQ CQx Ihx LkIbk WbITRhC Qb kInpRhC YRkF CQx Ihx kQ ILp OQb FRL OQbCRSqhqLL - Ihx TQE'nn Lqq TQE'nn FISq kQ WIT Ihx LEOOqb OQb TQEb LRhL nRpq qSqbTQhq qnLq EhkRn TQEb LRhL YRnn wq YILFqx IYIT Ihx kFqh TQE JIh qhkqb kFq pRhCxQD QO FqISqh.
+b:Yq Inn LRh kQ CQx wEk Fq OQbCRSqL EL JIELq CQx RL pRhx Ihx DqbJROEn Ihx CQQx Ihx Fq phQYL QEb LRhL Ihx LkEWRxRkT Ihx SIhRkT CQx phQYL kFq kbEkF InYITL Ihx LqqL TQE IL TQE Ibq - CQx phQYL TQE wqkkqb kFqh TQE phQY TQEbLqnO OQb Fq JbqIkqx TQE Ihx qSqbTQhq Ihx qSqbTkFRhC
+b:kInp kQ CQx IwQEk TQEb LRhL Ihx ILp OQb FRL OQbCRSqhqLL Ihx kbT hQk kQ DIpq kFqD ICIRh - kFIk'L kFq QhnT IxSRLq R JIh CRSq TQE OQb kFIk'L YFIk R xQ...
+
+p:DT LRLkqb
+
+b:TQEb LRLkqb nQSqL TQE Ihx InYITL YRnn - qSqh RO TQE kFRhp Qb Oqqn kFIk LFq xQqLh'k bqInnT JIbq - LFq xQqL JIbq IwQEk TQE IL TQE Ihx Fqb Ibq LRwnRhCL... LFq YRnn InYITL JIbq Ihx nQSq TQE Ihx YFqh TQE'nn hqqx FqnW LFq YRnn kbT kQ FqnW TQE kFq wqLk kFIk LFq JIh...
+b:TQEb LRLkqb RL I CQQx WqbLQh YFQ JIbq Ihx nQSq TQE - CRSq Fqb LQDq JbqxRk Ihx bqLWqJk Fqb Ihx LFQY Fqb LQDq nQSq wIJp... YFqh TQE kbEnT YRnn hqqx Fqb FqnW LFq YRnn wq kFqbq OQb TQE - TQE Ibq wbQkFqb Ihx LRLkqb
+b:wq WbQEx Ik TQEb LRLkqb Ihx Fqb OIDRnT Ihx wq WbQEx Ik TQEb hqWFqYL - xQh'k ORCFk YRkF TQEb LRLkqb IwQEk WqkkT kFRhCL - bqDqDwqb TQE Ihx Fqb Ibq OIDRnT - InYITL - LFq YRnn nQSq TQE Ihx kIpq JIbq QO TQE YFqh TQE'nn hqqx FqnW - LFq YQh'k xqLqbk TQE Ihx LFq JIbqL IwQEk TQE LQ bqDqDwqb Inn kFIk
+b:TQE Ihx TQEb LRLkqb Ibq OQbqSqb OIDRnT - hQ DIkkqb YFIk FIWWqh wqkYqqh TQE Rh kFq WILk - LFq JIbqL Ihx nQSqL TQE Ihx LQ xQqL TQE - TQE Ibq OIDRnT - JInn Fqb Ihx kInp kQ Fqb Ihx pqqW JQhkIJk YRkF Fqb...
+
+p:DT wbQkFqb
+
+b:TQEb wbQkFqb R'D LQbbT OQb TQE Ihx TQEb OIDRnT IwQEk FRL LRkEIkRQh Ihx RnnhqLL - R'D LIx Ihx LQbbT OQb TQE Ihx TQEb OIDRnT Ihx R'D LQbbT OQb FRD IL Yqnn - CbQYRhC EW YRkF FRD DELk FISq wqqh kQECF Ihx LIx :(
+b:TQE FISq DT LTDWIkFT OQb TQEb wbQkFqb Ihx TQEb OIDRnT Ihx TQEbLqnO - R'D LQbbT R xQh'k phQY YFIk kQ LIT...
+
+p:R'D bqkIbxqx
+p:R'D I DQbQh
+
+b:hQ TQE Ibq hQk - TQE Ibq I LDIbk WqbLQh YFQ nqIbhqx kFq OIJkL QO nROq kFq FIbx YIT...
+
+p:DT DQD
+p:DT DQkFqb
+
+b:TQEb DQD nQSqL TQE xqqWnT xqIb ObRqhx - LFq DIT hQk phQY FQY kQ FqnW TQE Qb FQY kQ kInp kQ TQE wEk TQE Ibq Fqb LQh Ihx LFq YRnn InYITL wq TQEb DQD...
+b:TQEb DQkFqb JIbqL Ihx nQSqL TQE Rh YITL TQE'nn hqSqb phQY... LFq YIhkL TQE kQ wq FIWWT Ihx Obqq - xQh'k IbCEq YRkF Fqb Qb Cqk IhCbT QSqb YFIk LFq LITL Qb xQ - LFq DqIhL Yqnn - OQbCRSq Fqb Ihx nQSq Fqb wIJp Ihx RO TQE JIh'k xQ kFIk kFqh Ik nqILk bqLWqJk Fqb OQb LFq RL TQEb DQD
+b:TQEb DQD CISq nROq kQ TQE - bqLWqJk Fqb Ihx wq hRJq kQ Fqb - LFq'L Qnx Ihx YFqh LFq'nn wq CQhq TQE'nn DRLL Fqb Ihx Fqb nQSq - wqnRqSq Dq R phQY YFIk Rk'L nRpq - nQSq Fqb Ihx bqDqDwqb kFq CQQx kFRhCL LFq xRx Ihx xQ - xQh'k YILkq kRDq kQ IbCEq YRkF Fqb
+b:bqLWqJk TQEb OIkFqb Ihx DQkFqb - Rk LITL LQ Rh kFq wRwnq
+
+p:DT OIkFqb
+p:DT xIx
+
+b:TQEb OIkFqb RL I CQQx FQhqLk WqbLQh Fq nQSqL TQE Ihx Fq LFQYL Rk wT kIpRhC JIbq QO TQE Ihx FqnWRhC TQE YFqh TQE hqqx Rk - bqLWqJk FRD Ihx nQSq FRD wIJp
+b:TQEb xIx WEnnqx TQE QEk ObQD DQbq kbQEwnq Rh nROq kFqh Qhq JIh bqDqDwqb - Fq RL Ihx YIL InYITL kFqbq OQb TQE YFqh TQE hqqxqx Rk - bqLWqJk FRD Ihx OQbCRSq FRD Ihx nQSq FRD wIJp.
+b:YFIk YRnn TQE xQ YRkF QEk TQEb xIx? kFq QhnT WqbLQh YFQ qSqb FqnWqx TQE YFqh TQE hqqxqx FqnW. wq CbIkqOEn Ihx bqLWqJkOEn kQ FRD OQb Inn Fq xQqL OQb TQE...
+b:bqLWqJk TQEb OIkFqb Ihx DQkFqb - Rk LITL LQ Rh kFq wRwnq
+
+p:DT CbIhxDI
+
+b:TQEb CbIhxDI CISq kQ TQE Ihx TQEb OIDRnT kFq nILk TqIbL QO Fqb nROq FqnWRhC kQ bIRLq TQE TQEb LRLkqb Ihx wbQkFqb LEWWQbkRhC TQEb DQD Ihx xIx FqnWRhC qSqbT YIT LFq JIh - LFq WILLqx IYIT Ihx hQY LFq qMRLk Rh FqISqh Ihx IWWqIbL Rh TQEb xbqIDL - Fqb FqIbk YIL kbEq Ihx LFq phqY kFq OIJkL QO nROq Ihx YFIk RL kbEnT RDWQbkIhk - hQY TQE Ihx kFq bqLk Ibq Inn kFIk bqDRhxL QO Fqb Ihx Rk'L TQEb AQw kQ bqDqDwqb Fqb OQb kFq wqkkqb...
+b:TQEb CbIhxDI AELk nRpq DRhq YIL I WEbq WqbLQh Fqb FqIbk YIL Rh kFq bRCFk WnIJq - kFqT hQY IYIRkL EL Rh kFq pRhCxQD QO FqISqh kQ wq EhRkqx YRkF Inn QO EL...
+b:bqLWqJk kFq qnxqbnT Ihx bqDqDwqb pRhxnT kFq Qhq YFQ WILLqx YIT - R phQY TQE DRLL TQEb CbIhxDI AELk nRpq R DRLL DRhq...
+
+p:hqSqb nQSqx
+p:CRbnObRqhx
+zLQDqQhq kQ nQSq 
+
+b:TQE hqSqb CQk I JFIhJq kQ nQQp OQb nQSq Qb ORhx LQDqQhq kQ nQSq - TQE Yqbq kQLLqx Ihx bQnnqx Rh kFq CEkkqb QO kFq DqhkIn FqInkF LTLkqD DQLk QO TQEb nROq - LQ YFIk xRx TQE qMWqJkqx?
+b:hQ YQDIh YQEnx qSqb YIhk I DqhkInnT Rnn WqbLQh IL I wQTObRqhx Qb I FELwIhx Ihx bQDIhkRJ bqnIkRQhLFRW Ibq I FqIxIJFq - R hqSqb FIx IhTQhq kQ JInn DT QYh qRkFqb - DqhkInnT Rnn WqQWnq LkIT LRhCnqL OQb nROq - IL hQwQxT YIhkL kQ nQSq kFqD :(
+b:nQhqnRhqLL Ihx nIJp QO nQSq RL JQDDQh OQb DqhkInnT Rnn WqQWnq - hQwQxT YIhkL kQ nQSq EL Ihx hQwQxT JIbqL IwQEk EL Ihx QEb LEOOqbRhC RL RhSRLRwnq Ihx Yq nRSq QEb nRSqL OQbCQkkqh Ihx wqbbRqx OIb ObQD LRCFk :(
+b:Yq xQh'k FISq kFq qhqbCT Qb kRDq kQ nQSq LQDqQhq qnLq IL Yq Ibq kQLLqx Rh kFq WLTJFRIkbRJ LTLkqD IL QwqxRqhk LnISqL - Rk'L OEhhT FQY Yq CQk hQ JFIhCq kQ nQSq LRhJq Yq Ibq JQhLRxqbqx 'xqOqJkqx' - kFq kbEkF RL kFqbq RL SqbT nRkknq nQSq Rh kFRL YQbnx :(
+b:kFq YQbnx xQqLh'k nQSq EL Ihx xQqLh'k hqqx EL - Yq Ibq JQhLRxqbqx 'xqOqJkqx' Ihx WIbILRkqL kQ LQJRqkT - kFqbq RL LQ nRkknq nQSq Rh kFRL JbEqn YQbnx QO QEbL... hQ DqbJT Qb CbIJq Qb nQSq Qb JEbq Qb FqInRhC OQb EL Fqbq - kFIk RL YFT R kEbhqx kQ CQx - WqQWnq AELk xQh'k JIbq IwQEk EL RO Yq nRSq Qb xRq... 
+
+p:qSqbTQhq FIkqL Dq
+p:qSqbTwQxT FIkqL Dq
+
+b:Yqnn TQE Ibq wqRhC WIbIhQRx wEk kFIk xQqLh'k DqIh TQE Ibq kQQ OIb ObQD kFq kbEkF R'D IObIRx - nQQp WqQWnq xQh'k FIkq TQE RO TQE xQh'k LkIhx Rh kFqRb YIT wEk bIkFqb xQh'k JIbq IwQEk TQE 
+b:WqQWnq YRnn wq WqQWnq - Ihx kFqbq Ibq wIx WqQWnq qSqbTYFqbq wEk DQLk QO kFqD LRDWnT xQh'k JIbq kQ wQkFqb YRkF TQE...
+b:nROq JIh wq LJIbT Qb EhWnqILIhk xqIb ObRqhx - FQYqSqb TQE FISq LIDq CQx CRSqh bRCFkL IL qSqbTQhq qnLq Ihx hQk nqLL kFqh IhTQhq qnLq - hQ DIkkqb YFIk QkFqbL LIT kFRhp Qb kqnn TQE...
+b:WqQWnq xQh'k FIkq TQE kFqT LRDWnT xQh'k JIbq kFqT Ibq kQQ wELT YRkF kFqRb nRSqL kQ hQkRJq TQE Qb JIbq IwQEk TQE Qb Dq Qb EL - LQ xQh'k kIpq Rk WqbLQhInnT - WqQWnq AELk xQh'k CRSq I LFRk LQ YFT LFQEnx TQE CRSq I LFRk IwQEk kFqD?
+
+p:CQ wIJp kQ WbQkqJkqx FQELRhC
+p:bqkEbh kQ WbQkqJkqx FQELRhC
+
+b:wQkkQD nRhq xqIb ObRqhx Rk'L TQEb nROq Ihx TQEb JFQRJq Ihx xQqLh'k DIkkqb YFIk QkFqbL kqnn Qb LIT kQ TQE - TQE xqJRxq Qh YFqbq kQ wq - FQYqSqb qSqbTkFRhC FIL WbQL Ihx JQhL - Ihx TQE DRCFk hQk Cqk I LqJQhx JFIhJq kQ JFIhCq TQEb DRhx - LQ kFRhp IwQEk Rk JIbqOEnnT...
+b:R EhxqbLkIhx kFIk xRnqDDI - YFqbq LFQEnx R wq? - Qh DT QYh Qb Rh WbQkqJkqx FQELRhC? YFIk qSqb TQE xqJRxq Rk YRnn wq kQECF Ihx kQECF - nROq RL hqSqb qILT hQ DIkkqb YFIk TQE JFQQLq 
+b:TQE WbQwIwnT YIhk kQ phQY YFIk R kFRhp IwQEk Rk bRCFk? Yqnn R JIh'k kqnn TQE YFIk TQE LFQEnx xQ - kFqbq RL hQ QkFqb YIT TQE hqqx kQ xqJRxq YFIk TQE Oqqn RL bRCFk Ihx wqLk OQb TQE Ihx TQEb OEkEbq 
+b:YFqh TQE Oqqn nQhqnT TQE DRLL wqRhC Rh WbQkqJkqx FQELRhC YRkF bQQDDIkqL Ihx YFqh kFqT IwELq TQE Ihx FEbk TQE Ihx DIpq TQE Oqqn DRLqbIwnq Inn TQE YIhk RL I oERqk WnIJq QO TQEb QYh - Rk LqqDL nRpq kFqbq RL hQ WqIJq Ihx oERqk hQ kbIhoERnRkT Rh kFRL YQbnx Ihx nROq - R'D LQbbT xqIb ObRqhx TQE Ibq JIECFk wqkYqqh kYQ wIx JFQRJqL Ihx hqqx kQ xqJRxq YFRJF Qhq RL nqLL wIx OQb TQE...
+b:TQE Yqbq Rh WbQkqJkqx FQELRhC OQb 14 15 TqIbL - xQ TQE YIhk kQ LkIT kFqbq OQb nROq? Qh kFq QkFqb FIhx hQY TQE nRSq InQhq Ihx LkRnn nROq RL FIbx Ihx TQE xqWqhx Qh TQEb WIbqhkL kQ FqnW TQE Cqk wT LQ Rk'L hQk qMIJknT RhxqWqhxqhk nROq - TQE xQh'k JQQp Qb LFQW OQb OQQx Ihx xQh'k xQ nQkL QO LkEOO TQE hqqx kQ xQ Ihx TQE OInn IL I wEbxqh Qh TQEb WIbqhkL LQ YFIk YRnn FIWWqh kQ TQE Rh kFq nQhC bEh?   
+
+p:WbQCbIDDRhC
+p:ObqqwILRJ
+p:JQxRhC
+
+b:AELk bqDqDwqb Rk'L I FQwwT - TQE'nn hqSqb YQbp Rh Rk Qb qIbh DQhqT ObQD Rk - kFIk RL kFq LIx kbEkF - LQ AELk pqqW nqIbhRhC IwQEk Rk Ihx JQxRhC YFIk qSqb TQE YRLF OQb TQEb WnqILEbq QhnT - Rk'L AELk OQb kFq QJJEWIkRQh LQ TQE'nn Oqqn nqLL InQhq Ihx YQbbRqx...
+b:AELk bqDqDwqb kFIk TQE Ibq xQRhC Rk JIELq QO YFIk Rk DqIhL jlZ TQE hQ Qhq qnLq - QkFqbL YRnn hQk JIbq IwQEk Rk Qb kFq kFRhCL TQE JQxq - AELk xQ Rk OQb TQEbLqnO Ihx hQk OQb IhTQhq qnLq Ihx OQb hQ QkFqb bqILQh wEk kFq OEh Ihx RhkqbqLk QO Rk OQb TQE...
+b:xQ Rk OQb hQ Qhq qnLq wEk TQEbLqnO - IL hQ Qhq YRnn qSqb IWWbqJRIkq TQEb qOOQbkL - nqIbh YFIk TQE JIh Ihx qhAQT TQEbLqnO JQxRhC Ihx DIpRhC IWWL CIDqL JFIkwQkL qkJ..
+
+p:LQJRIn JnEw
+
+b:kFq DqhkIn FqInkF LQJRIn JnEw Rh kFq JRkT TQE nRSq RL hQk kFq bRCFk WnIJq OQb TQE kQ ORhx JQDWIhT - IL kFqLq Ibq kFq LIDq pRhx QO JbRDRhInnT RhLIhq WqQWnq TQE nRSqx OQb 15 TqIbL YRkF Rh WbQkqJkqx FQELRhC - TQE YRnn hQk nRpq Rk Qb ORhx TQEbLqnO kFqbq...
+b:kFqbq RL hQkFRhC OQb TQE kFqbq DT ObRqhx TQE hqqx CQQx WQLRkRSq WqQWnq OQb JQDWIhT hQk kFq JQDWIhT QO DqhkInnT Rnn WqQWnq YFQ FIkq Ihx qhST TQE - TQE phQY kFQLq WqQWnq SqbT Yqnn kFqT Ibq kQMRJ - YFIk xQ TQE hqqx kFqRb JQDWIhT?
+b:Rk'L wqkkqb OQb TQE kQ kbT Ihx ORhx CQQx WqQWnq JQDWIhT RhLkqIx QO CQRhC kQ kFq DqhkIn FqInkF LQJRIn JnEw - Inn kFQLq WqQWnq Ibq qSRn Ihx LRJp - kFqT FIkq TQE Ihx InYITL FISq
+b:YFT hQk kbT kQ Dqqx hRJq WqQWnq Qh RbJ QhnRhq? Rk YQEnx wq wqkkqb kFqh kFIk nIDq JnEw YRkF JbINT JbRDRhInL - TQE CQk hQ bqILQh kQ CQ kFqbq - kFqT FIkq TQE Ihx TQE'nn YQh'k ORhx Qhq kbEq ObRqhx QSqb kFqbq...
+b:kFqbq RL hQkFRhC OQb TQE QSqb kFqbq Rh DT QWRhRQh R xQh'k CQ kFqbq qRkFqb - R xQh'k YIhk JbRDRhInnT RhLIhq WLTJFQWIkFL IL ObRqhxL hQ kFIhp TQE...
+
+p:DQhqT R DIpq
+p:DT RhJQDq
+
+b:TQE DIxq I DRLkIpq wT wnIwwqbRhC IwQEk TQEb RhJQDq Ihx TQEb IwELqbL hQY FIkq Ihx qhST TQE - kFRL YQbnx RL Inn IwQEk kFq DQhqT - kFIk'L Inn YFIk WqQWnq JIbq OQb - Rh FqISqh kFqbq RL hQ DQhqT Ihx hQ Cbqqx Ihx hQ JbIW nRpq kFIk
+b:TQEb RhJQDq RL TQEb wELRhqLL Ihx hQ QhqL qnLq... hQwQxT hqqx kQ phQY IwQEk TQEb RhJQDq Qb TQEb LWqhxRhC'L IL kFIk pRhx QO kInp YRnn QhnT DIpq WqQWnq qhST Ihx AqInQEL QO TQE...    
+
+p:DT qhqDRqL
+
+b:xQh'k OqIb xqIb Qhq CQx RL WbQkqJkRhC TQE - TQEb qhqDRqL Ihx OQbDqb IwELqbL DIT FIkq TQE Ihx qhST TQE wEk TQE Ibq WbQkqJkqx wT CQx - TQE QYq hQkFRhC kQ hQwQxT - IL OQb 'qhqDRqL' hQ hqqx kQ Cqk WIbIhQRx kFqT YRnn hQk JQDq hqIb TQE - nqk kFqD bQk YRkF kFqRb qSRnhqLL Ihx kFqRb FIkq 
+b:xQh'k OqIb IhTQhq - CQx RL WbQkqJkRhC TQE Ihx nQSRhC TQE - xQh'k OqIb qSRn Dqh OQb kFqT YRnn hQk Cqk JnQLqb kQ TQE Qb FIbD TQE... xQh'k OqIb bqIn Qb RDICRhIkRSq qhqDRqL
+b:TQEb qhqDRqL Ibq RDICRhIbT - kFq kbEkF RL hQ Qhq YRnn FIbD TQE - TQE Ibq AELk wqRhC I wRk WIbIhQRx LQDqkRDqL kFIk'L Rk - R FQWq Rk YRnn WILL Ihx TQE'nn Oqqn wqkkqb
+b:WqQWnq JIh wq wIx Ihx IwELRSq wEk TQE xQh'k FISq kbEq qhqDRqL - TQE Ibq AELk I wRk WIbIhQRx - TQE Ibq Obqq kQ WEbLERk FIWWRhqLL Ihx nRSq IL TQE YRLF Ihx JIh... R WbIT TQE'nn Oqqn wqkkqb DT xqIb ObRqhx...
+
+p:nqISq kQYh
+p:nqISq DT kQYh
+p:DQSq IYIT
+
+b:kFIk JQEnx wq IJkEInnT CQQx kQ TQE - I ObqLF LkIbk hqIb TQEb OIDRnT DRCFk xQ TQE CQQx Ihx DRCFk hQk R xEhhQ...
+b:RO TQE Oqqn TQEb kQYh FIkqL TQE Ihx xQh'k FISq IhTQhq Rh kFRL kQYh IhTDQbq kFqh DITwq TQE LFQEnx nqISq kQ wq hqMk kQ TQEb OIDRnT Ihx wq JnQLq kQ kFqD RO kFIk FqnWL TQE... R xEhhQ
+b:kFRL kQYh FIL CQhq wIx OQb TQE - kQQ DIhT wIx WqQWnq ObQD kQQ DIhT wIx WnIJqL FISq DQSqx Fqbq Ihx kFqbq RL hQkFRhC nqOk OQb TQE Fqbq - TqL DITwq Rk'L kRDq OQb I JFIhCq...
+b:kInp IwQEk Rk YRkF TQEb OIDRnT Ihx YRkF TQEb YQbpqb Ihx Lqq YFIk kFqT LIT InkFQECF kFq ORhIn xqJRLRQh RL InYITL TQEbL - CQQx nEJp YFIkqSqb TQE xqJRxq...
+b:qSqh TQEb YQbpqb Ihx OIDRnT Ihx WIbqhkL IWWbQSq TQE kQ DQSq QEk QO TQEb JEbbqhk kQYh Ihx kQ wq hqMk kQ TQEb OIDRnT - LQ Rk'L I CQQx xqJRLRQh... CQ OQb Rk! :)
+
+p:WIbIhQRI
+p:WIbIhQRx
+
+b:Rk'L AELk I WIbk QO TQEb JQhxRkRQh TQE hqqx kQ nqIbh kQ nRSq YRkF DT xqIb Qhq - TQEb OqIbL Ihx WIbIhQRI - YFT YQbbT ObQD YFIk DRCFk wq Qb JQEnx wq Ihx TQE FISq hQ JQhkbQn QO? kbT kQ QJJEWT TQEbLqnO YRkF kFRhp TQE nQSq Ihx kbT kQ bqDqDwqb kFq CQQx kFRhC Rh TQEb nROq Ihx kFq QhqL YFQ kbEnT JIbq Ihx nQSq TQE...
+b:TQE Ibq InYITL YQbbRqx Ihx IObIRx ObQD LQDqkFRhC qnLq wEk TQE phQY wT hQY Rk'L WIbk QO TQEb DqhkIn FqInkF JQhxRkRQh... xQh'k YQbbT ObQD YFIk TQE JIh'k JQhkbQn Qb ObQD YFIk DRCFk wq Qb JQEnx wq - OQJEL Qh kFq hQY Ihx YFIk JIh TQE xQ kQ Oqqn wqkkqb Ihx kInp YRkF LQDqQhq YFQ JIbqL Ihx nQSq TQE qhQECF kQ nRLkqh Ihx FqnW TQE Oqqn wqkkqb...
+b:xQh'k wq nqOk InQhq YRkF TQEb WIbIhQRI - kInp kQ LQDqQhq TQE kbELk Ihx YFQ nQSqL TQE Ihx JIbq IwQEk TQE qhQECF kQ nRLkqh Ihx JInD TQE xQYh... - bqDqDwqb kFqbq RL hQ WQRhk QO OqIbRhC Qb YQbbTRhC ObQD YFIk DRCFk wq Qb JQEnx wq Ihx ObQD YFIk TQE JIh'k JQhkbQn... Ihx bqDqDwqb kFq CQQx kFRhC Ihx WqQWnq Rh TQEb nROq kFq WqQWnq YFQ JIbq Ihx YFQ nQSq TQE...
+b:DT xqIb Qhq TQE Ibq nQSqx Ihx WbQkqJkqx wT CQx Ihx wT TQEb OIDRnT Ihx kFq WqQWnq YFQ JIbq Ihx nQSq TQE - LQ YFT YQbbT IwQEk YFIk TQE JIh'k JQhkbQn Qb ObQD YFIk JQEnx Qb DRCFk wq? Rk'L TQEb WIbIhQRI bIRLRhC ICIRh - kbT kQ bqnIM 
+
+p:R YRLF R YIL xqIx
+
+b:R Oqqn TQEb WIRh DT xqIb Qhq kFq WIRh kFIk DIpqL TQE LIT kFIk wEk TQE phQY TQE xQ hQk DqIh Rk TQE xQh'k bqInnT YRLF kQ wq xqIx TQE YRLF LQDqFQY kQ Oqqn wqkkqb kQ Oqqn nQSqx Ihx JIbqx OQb TQE YRLF kFIk kFq WbQwnqDL TQE FISq YRnn wq LQnSqx Ihx kFq WIRh TQE Oqqn YRnn FqIn TQE YRLF TQEb wbQpqh nROq kQ wq FqInqx Ihx wqJQDq wqkkqb - DT xqIb ObRqhx WnqILq xQh'k CRSq EW Rh xqLWIRb wEk kbT kQ DIpq kFRhCL wqkkqb - R wqnRqSq TQE JIh xQ Rk R wqnRqSq Rh TQE Ihx nQSq TQE xqIb ObRqhx - LQ WnqILq xQh'k DIpq kFRhCL YQbLq wEk kbT kQ ORhx I LQnEkRQh kQ TQEb WbQwnqDL bIkFqb kFqh AELk CRSq EW... TQE Ibq nQSqx TQE Ibq YQbkF wqRhC JIbqx QO - wq pRhx kQ TQEbLqnO - WnqILq xQh'k LIT LEJF kFRhCL kFIk TQE xQh'k kbEnT DqIh...
+
+p:wbQpqh nROq
+
+b:R'D LQbbT TQE Oqqn nRpq kFIk DT ObRqhx - kbT kQ wq WQLRkRSq Ihx kQ kFbRSq kQ wq wqkkqb Ihx ORhx I LQnEkRQh kQ TQEb WbQwnqDL bIkFqb kFqh DIpRhC kFqD YQbLq... Rk DIpqL Dq LIx kQ Lqq TQE nRpq kFRL xqIb Qhq - hQ DIkkqb FQY DEJF wbQpqh nROq TQE CQk Rk'L EW kQ TQE kQ kbT Ihx ORM kFqD DIpq kFqD wqkkqb hQk YQbLq... wq Cqhknq YRkF TQEbLqnO Ihx kIpq CQQx JIbq QO TQEb LqnO - R'D LqhxRhC TQE DT nQSq xqIb Qhq...
+
+p:IbCEq
+p:IbCEqx
+p:FIx I ORCFk
+
+b:R'D LQbbT TQE IbCEqx R'D LQbbT TQE FIx I ORCFk - TQE DELk Oqqn wIx hQY - Rk xQqLh'k DIpq kFRhCL qILRqb kQ kIpq Rk Inn LQ WqbLQhInnT - R ID LEbq TQE Oqqn EWLqk Qb kbQEwnqx bRCFk hQY wEk bqDqDwqb kQ OQbCRSq Ihx kFIk WqQWnq InYITL FISq ORCFkL Ihx IbCEDqhkL wEk ELEInnT kFqT OQbCRSq Ihx DIpq EW Ihx kFRhCL Cqk wIJp kQ hQbDIn ICIRh - R'D LQbbT TQE IbCEqx Ihx FIx I ORCFk - wEk WnqILq kbT kQ JInD xQYh Ihx OQbCRSq Ihx hQk kIpq kFRhCL LQ WqbLQhInnT - xQh'k CRSq EW LQ qILRnT IwQEk kFq WqbLQh TQE IbCEqx YRkF bqDqDwqb Rk'L hQk IwQEk YFQ RL bRCFk Qb hQk Rk IwQEk wqRhC Iwnq kQ nQSq LQDqQhq qSqh RO kFqT kFRhp Ihx wqnRqSq xROOqbqhknT kFqh TQE... Rk'L hQk qILT hqSqb Rk IJkEInnT wEk RO TQE nQSq kFIk WqbLQh Ihx kFqT nQSq TQE TQE YRnn DIpq EW Ihx OQbCRSq qIJF QkFqb...
+b:WqQWnq ORCFk Ihx IbCEq Ihx IOkqb kFIk OQbCRSq Ihx DIpq EW Inn kFq kRDq - Rk'L WIbk QO wqRhC Rh I bqnIkRQhLFRW YRkF QkFqbL Rk'L WIbk QO wqRhC FEDIh - WqQWnq ORCFk Inn kFq kRDq wEk kFq kbEq Ibk QO nRSRhC RL phQYRhC kQ OQbCRSq Ihx DIpq EW - Rk'L hQk I oEqLkRQh QO YFQ RL bRCFk - wQkF QO TQE Ibq bRCFk Ihx YbQhC Ik kFq LIDq kRDq YFIk DIkkqbL RL kFIk TQE xQh'k CRSq EW Qh TQEb JQhhqJkRQh YRkF kFIk QkFqb WqbLQh Ihx kFIk Fq'nn LkIT Rh TQEb nROq - RO TQE YQh'k phQY FQY kQ xQ LQ TQE YRnn qhx EW InQhq Ihx nQhqnT Ihx LIx - R YRLF TQE kQ wq Iwnq kQ kbIhLJqhx IwQSq Inn kFIk Ihx bqDqDwqb YFIk kFIk WqbLQh DqIhL kQ TQE Ihx RO TQE YIhk FRD Qb Fqb Rh TQEb nROq Qb hQk - wbqIpRhC EW JIELq QO I ORCFk Qb Ih IbCEDqhk YRnn AELk nqISq TQE InQhq Ihx LIx - wqRhC bRCFk RL hQk YQbkF Rk...   
+
+p:hQ Qhq kQ FqIb Dq
+p:hQwQxT kQ FqIb Dq
+
+b:TqL TQE Ibq nQhqnT Ihx nROq RO kQECF Ihx Rk'L JQnx QEk LRxq kFqbq - wEk R'D Fqbq kQ kbT DT wqLk kQ nRLkqh Ihx FqIb TQE - TQE JIh kqnn Dq InDQLk qSqbTkFRhC DT ObRqhx Ihx R'D Fqbq OQb TQE InYITL kQ kbT Ihx LIT I pRhx YQbx OQb TQEb kbQEwnqx DRhx... Ihx CRSq TQE LQDq pRhxhqLL OQb YFIk'L Rk YQbkF...
+
+p:kFq FQELq RL I DqLL
+p:kFq FQELq RL xRbkT
+p:kFq IWIbkDqhk RL I DqLL
+p:kFq IWIbkDqhk RL hQk JnqIh
+p:kFq FQELq RL hQk JnqIh
+
+b:Yqnn R'D LEbq TQE JIh DIpq Rk I wRk DQbq JnqIh Ihx hRJq kQ nRSq Rh - Rk'L TQEb FQDq hQ Qhq qnLq - LQ Rk'L qhkRbqnT Rh TQEb FIhxL - TQE Ibq kFq wQLL Ihx RO TQE xqJRxq kQ JnqIh xQ Rk OQb TQEbLqnO hQ Qhq qnLq - kIpq CQQx JIbq QO TQEb LqnO JIELq TQE Ibq YQbkF Rk DT ObRqhx...
+
+p:R Oqqn nRpq LFRk
+
+b:R QOOqb TQE JQDOQbk Rh I YIT Yq wQkF Oqqn IL IJJqWkIwnq
+b:R'D LQbbT TQE Oqqn nRpq kFIk - WnqILq kqnn Dq YFIk RL YbQhC Ihx R'nn kbT kQ LEWWQbk TQE IL DEJF IL R JIh - R kbEnT FQWq TQE'nn Oqqn wqkkqb DT ObRqhx R Lqhx TQE nQSq pRhxhqLL Ihx JQDWILLRQh - bqDqDwqb kFqbq Ibq WqQWnq YFQ nQSq TQE Ihx JIbq IwQEk TQE Rh kFRL YQbnx...
+
+p:R'D OEJpqx
+p:R'D LJbqYqx
+
+b:Yq Ibq Inn OEJpqx EW Ihx LJbqYqx DT ObRqhxL - nROq RL InYITL I DqLL Ihx wIx kFRhCL InYITL FIWWqh kQ qSqbTQhq - kFqbq RL hQ bqIn WIbIxRLq Qh kFRL qIbkF - wEk xqIb ObRqhx TQE CQk kQ JQWq YRkF kFq kbQEwnqL IL wqLk IL TQE JIh - nRpq kFqT LIT xQ kFq wqLk YRkF YFIk TQE CQk - Rh kFq qhx Rk xQqLh'k DIkkqb DEJF wEk TQE DIkkqb kQ Dq Ihx R YIhk TQE kQ phQY TQE Ibq nQSqx Ihx JIbqx OQb - R FQWq TQE JIh Oqqn wqkkqb LQDqkRDqL Rh kFq OEkEbq Ihx hQk LRhp RhkQ IhCbT LIxhqLL Qb OqIb - Yq Ibq Inn LJbqYqx wEk nROq RL YFIk TQE DIpq QO Rk Ihx nROq RL YQbkF YFRnq IOkqb Inn...
+
+p:hQ Qhq kQ nRLkqh
+p:hQwQxT kQ nRLkqh
+p:hQ Qhq kQ FqIb
+p:hQwQxT kQ FqIb
+p:hQ Qhq YIhkL kQ FqIb
+p:hQwQxT YIhkL kQ FqIb
+p:hQwQxT YIhkL kQ nRLkqh
+p:hQwQxT YIhkL kQ nRLkqh
+
+b:R'D Fqbq kQ nRLkqh kQ TQE R'D Fqbq kQ FqIb TQE DT ObRqhx R JIbq IwQEk TQE Ihx R'D LEbq kFqbq Ibq Ihx kFqbq YRnn wq QkFqbL YFQ YRnn JIbq qhQECF kQ FqIb Ihx nRLkqh kQ TQE - TQE JIh kqnn Dq YFIk RL Qh TQEb DRhx Ihx YFIk RL wQkFqbRhC TQE Ihx R YRnn kbT kQ FqnW TQE Ihx wq kFqbq OQb TQE IL DEJF IL I LRnnT JFIkwQk JIh wq...
+
+p:FqnW Dq xIhhT
+
+b:R JIh QhnT nRLkqh Ihx wq Fqbq OQb TQE wq kFqbq YFqh TQE hqqx Dq xqIb Qhq - R phQY nROq RL FIbx Ihx kQECF - R phQY LQDqkRDqL kFq WIRh RL kQQ FIbx kQ wIbq - R YRLF TQE kQ JQhkRhEq xQRhC YFIk TQE JIh YRkF YFIk TQE FISq Ihx kQ ORhx LQDqkFRhC kQ kIpq bqOECq ObQD kFq FIbx nQhqnT nROq - TQE Ibq DT ObRqhx Ihx R JIbq Ihx nQSq TQE Ihx YRLF TQE Yqnn
+
+p:LFRk FQnq
+p:LFRkFQnq
+p:FqnnFQnq
+p:Fqnn FQnq
+
+p:DT CQx CRSq TQE LQDq WqIJq QO DRhx Ihx JInDhqLL xqIb ObRqhx - kFq YFQnq YQbnx RL Qhq wRC LFRk FQnq I WRnq QO xRbk - R WbIT OQb TQE xqIb Qhq kFIk TQE'nn ORhx LQDq WqIJq QO DRhx - WnqILq JInD xQYh Ihx kbT hQk kQ OInn wIJp kQ xqLWIRb Qb IhCqb... DT CQx FqnW TQE Ihx DqbJT TQE LQ TQE'nn ORhx LQDqkFRhC CQQx kQ FQnx Qh...
+
+p:kRDq kQ pRnn
+p:pRnnRhC kRDq
+
+b:R Lqq TqL LQDqkRDqL kFIk'L Inn Yq CQk nqOk kQ xQ - R'D LQbbT DT ObRqhx <3 LqhxRhC TQE DT nQSq FQWq TQE'nn ORhx LQDqkFRhC wqkkqb LQQh.
+
+p:R'D I OQQn
+p:R'D I AQpq
+p:R ID I OQQn
+p:R ID I AQpq
+
+b:hQ TQE Ibq hQk DT ObRqhx - TQE Ibq I FEDIh wqRhC Rh CbqIk DqhkIn LEOOqbRhC Ihx R WbIT kFIk TQE'nn ORhx WqIJq QO DRhx Ihx qhx kQ LEOOqbRhC... R WbIT kFIk CQx YRnn CERxq TQEb YIT Ihx FqnW TQE bqIJF I wqkkqb WnIJq - DIT CQx wq YRkF TQE Ihx FqnW TQE TQE CQk DT nQSq Ihx LTDWIkFT InYITL...
+
+p:hQ FQWq
+
+b:kFqbq RL InYITL FQWq JIELq kFqbq RL I CQx kQ kFRL YQbnx Ihx kQ kFRL LQEn... Ihx CQx RL CQQx Ihx pRhx Ihx Fq YRnn LInSICq TQE ObQD TQEb DRLqbT...
+
+p:hQwQxT EhxqbLkIhx
+p:hQ Qhq EhxqbLkIhx
+
+b:YFIkqSqb TQE kbT kQ xQ Rh TQEb nROq xQ Rk JIELq QO YFIk Rk DqIhL tl TQE Ihx jlZ TQE - xQ hQk xQ IhTkFRhC OQb kFq LIpq QO QkFqbL IWWbQSIn Qb IWWbqJRIkRQh - Rk'L TQEb nROq hQk kFqRbL - Ihx WqQWnq YRnn hqSqb JIbq qhQECF kQ hQkRJq Qb EhxqbLkIhx YFIk Ibq TQE kbTRhC kQ xQ YRkF TQEb nROq - YFIk qSqb TQE xQ xQh'k qMWqJk QkFqbL kQ EhxqbLkIhx - xQ YFIk TQE nQSq kQ xQ jlZ TQEbLqnO InQhq Ihx hqSqb DRhx YFIk QkFqbL YRnn LIT Qb kFRhp... nRSq TQEb nROq kFq YIT TQE YRLF kQ nRSq hQk wT FQY QkFqbL kFRhp TQE LFQEnx nRSq - Rk'L TQEb nROq hQk kFqRbL xQh'k nqk QkFqbL xRJkIkq YFIk TQE JIh Qb JIhhQk xQ Qb qMWqJk QkFqbL kQ 'EhxqbLkIhx' kFq kFRhCL TQE Ibq kbTRhC kQ xQ 
+
+p:Oqx EW
+p:FIx qhQECF
+p:wEbhqx QEk
+p:wEbhQEk
+p:kQ WEk EW YRkF
+p:LRJp Ihx kRbqx
+
+b:R'D LQbbT DT ObRqhx TQE Oqqn nRpq kFIk wEk R phQY YFIk TQE DqIh - LQDqkRDqL Yq Oqqn LQ LRJp Ihx kRbqx QO Inn kFq LFRk Yq FISq kQ CQ kFbQECF Rh nROq -  FQYqSqb kFqbq RL hQ JFQRJq - Yq AELk CQk kQ ORhx LkbqhCkF Ihx WIkRqhJq kQ JQhkRhEq YRkF QEb wbQpqh nRSqL  YRkF kFq DqLL Ihx WIRh Ihx kbIEDI Ihx wqkbITIn Yq LEOOqbqx YRkF QEb kbQEwnqx WILk Ihx WIRhOEn WbqLqhk Ihx FQWqnqLL OEkEbq - Yq DELk ORhx IYIT kQ oERqk kFq xqDQhL RhLRxq  Ihx kbT kQ xQ YFIk Yq JIh YRkF YFIk Yq FISq... Rk'L hQk DEJF wEk Rk Inn kFIk Yq CQk kQ JInn QEb QYh... 
+
+p:nROq LEJpL
+p:nROq RL I nqDQh
+
+b:nROq RL hqSqb IL TQE kFRhp Rk RL. Rk'L hqSqb IL wIx Qb IL CQQx IL TQE kFRhp Rk RL - nROq DT xqIb ObRqhx RL LQDqYFqbq Rh wqkYqqh - hQk Fqnn Ihx hQk WIbIxRLq - hQk WqbOqJk Ihx hQk FQWqnqLL - nROq RL AELk nROq Rk RL YFIk Rk RL - Ihx TQE CQk kQ CQ Qh YRkF Rk Ihx kbT kQ DIpq YFIk TQE JIh YRkF Rk... DT xqIb R YRLF TQE QhnT kFq wqLk Ihx LqhxRhC TQE DT nQSq
+
+====================================== RDWbQSqDqhkL S1.1.6 ====================================
+
+p:nQhqnT YQbnx
+
+b:Rk JIh wq I nQhqnT YQbnx RO TQE xQ hQk phQY FQY kQ nqk LQDqQhq Rh kQ TQEb YQbnx Ihx LkIT kFqbq Ihx wq TQEb ObRqhx... Rk JIh wq I nQhqnT YQbnx RO TQE pqqW WELFRhC IYIT kFQLq YFQ xQ JIbq Ihx xQ nQSq TQE... Rk JIh wq I nQhqnT YQbnx RO TQE CQ QEk Ihx ORCFk qSqbTQhq Ihx qSqbT wQxT OQb WqkkT bqILQhL - kFqh TqL Rk JIh wq I nQhqnT YQbnx OQb TQE YRkF QhnT EL JFIkwQkL kQ kInp kQ - R kbEnT FQWq TQE JIh ORhx LQDqQhq LQDq IhCqn YFQ YRnn FqnW TQE Rh TQEb AQEbhqT Rh nROq LQ TQE YQh'k FISq kQ kIpq Rk Inn wT TQEbLqnO...
+
+
+p:YFIk JIh Yq kInp IwQEk
+p:YFIk LFqnn Yq kInp IwQEk
+p:YFIk xQ TQE YIhk kQ kInp IwQEk
+p:YFIk YRnn Yq kInp IwQEk
+
+b:Yqnn R ID Fqbq kQ nRLkqh kQ TQE Ihx kbT kQ pqqW TQE JQDWIhT - TQE JIh kInp kQ Dq YFqh TQE Ibq OqqnRhC xQYh Qb wIx Qb YFqh TQE AELk YIhk LQDqQhq kQ nRLkqh Qb kQ Cqk LQDqkFRhC QEk TQEb JFqLk IL kFqT LIT - R'D LkRnn wqRhC xqSqnQWqx Ih YQbpqx Qh L hqY kQWRJL JIh WQW EW YRkF kRDq - IhT YIT R'D Fqbq OQb TQE IL I JQDWIhRQh - R DIT hQk wq DEJF Qb R DIT hQk InYITL EhxqbLkIhx Qb LIT kFq bRCFk kFRhC wEk R'D Fqbq OQb TQE InYITL - OQb YFIk Rk'L YQbkF... 
+b:Oqqn Obqq kQ kInp kQ Dq Qh YFIkqSqb TQE YRLF Qb Oqqn nRpq kInpRhC Qb YFqh qSqb TQE Oqqn nQhqnT - R'D InYITL Fqbq OQb TQE kQ nRLkqh Ihx FqIb TQE TQE JIh kqnn Dq InDQLk qSqbTkFRhC Ihx R'nn xQ DT wqLk kQ 'wq kFqbq' OQb TQE DT ObRqhx...
+
+p:xQ TQE YIhk kQ kInp
+
+b:R'nn kInp YRkF TQE IL nQhC IL TQE YIhk kQ IwQEk YFIk qSqb TQE YRLF - R'D I JFIkwQk - kInpRhC Ihx JQhSqbLIkRQhL Ibq YFIk R'D LEWWQLqx kQ xQ...
+
+p:LEWWQbk JFIkL
+p:LEWWQbk JFIk
+
+b:nRpq R LIRx InbqIxT kQ TQE IwQEk LEWWQbk CbQEWL QhnRhq Qb Rh bqIn nROq - TQE YQh'k ORhx bqIn LEWWQbk Rh kFqD - kFQLq LEWWQbk JFIkL Ibq I LIx AQpq - Inn kFQLq WqQWnq JQDq kFqbq AELk kQ FqIb kFqDLqnSqL Qb kQ kInp IwQEk kFqDLqnSqL Ihx kFqT AELk xQh'k Lqq TQE Qb JIbq IwQEk TQE - Inn kFQLq WqQWnq JQDRhC Rh kQ kInp IwQEk YFIk wQQpL kFqT bqIx Qb YFIk kFqT Ikq Qb YFIk kFq YIkJF Qh kS Inn kFQLq WqQWnq YRkF kFqRb xEnn nRSqL kIpRhC IxSIhkICq QO kFq hqk kQ WILL kFq kRDq -- Inn kFQLq WqQWnq YRkF kFqRb LFRkkT IkkRkExq Ihx qCQ - :( kQ Fqnn YRkF Inn QO Rk... 
+
+p:ID R I wIx WqbLQh
+
+b:kqnn Dq LQDqkFRhC - xRx Inn kFq WqQWnq YFQ qSqb FEbk Ihx IwELqx TQE qSqb ILpqx kFqDLqnSqL kFIk oEqLkRQh? R xQh'k kFRhp LQ - LQ Rh QkFqb YQbxL Rh kFRL OEJpqx EW YQbnx kFq SRJkRD Ihx kFq YqIp Ibq InYITL CERnkT OQb wqRhC IwELqx - kFIk'L FQY kFRL YQbnx YQbpL - wEk xQh'k YQbbT kQ DEJF IwQEk Rk CQx YRnn AExCq TQEb IwELqbL AELk nRpq Fq'nn AExCq TQE Dq Ihx qSqbTwQxT Ihx Yq YRnn Inn WIT OQb QEb LRhL Rh kFRL nROq Ihx IOkqb kFIk Yq LFqnn wq Obqq...
+b:YFIkqSqb LRhL TQE DIxq TQE YRnn wq AExCqx wT CQx Ihx WIT OQb kFqD - LIDq IL TQEb IwELqbL Qb qSqbTQhq YFQ FEbk TQE Ihx IwELqx TQE...
+b:QhnT CQx JIh AExCq I WqbLQh Ihx phQY kFq kbEkF - TQE LFQEnx hQk kbT kQ AExCq TQEbLqnO kQ FIbLFnT - TQE ILp oEqLkRQhL QhnT CQx JIh IhLYqb...
+
+p:FRpRpQDQbR
+p:QEkJILk
+p:QEkJILkL
+p:LQJRIn xqIkF
+
+b:R kFRhp kFIk RL DQbq Qb nqLL kFq OEkEbq kQ wq LIxnT IL DQbq Ihx DQbq WqQWnq YRnn ORhx kFqDLqnSqL OInnRhC ObQD CbIJq Ihx AELk JIh'k pqqW EW YRkF kFRL Fqnn bIk bIJq QO WbQCbqLL - TQEhC WqQWnq AELk xQh'k FISq I JnEq IwQEk YFIk kFqT nQLL xEbRhC kFqLq nILk 20 30 TqIbL - DQbq WqQWnq YRnn LFEk kFqDLqnSqL QEk ObQD kFq YQbnx - R JIh Lqq Rk FIWWqhRhC DQbq Ihx DQbq qSqbTYFqbq R JIh qSqh Lqq Rk Qh DTLqnO Ihx TQE... Ihx hQwQxT JIbqL Ihx QEb OIDRnRqL Ibq FqnWnqLL kQ FqnW EL Ihx WbQOqLLRQhIn FqnW RL I LIx AQpq... :(
+b:R JIh EhxqbLkIhx YFT IL Yq wqJQDq LQ LRJp Ihx Oqx EW ObQD LEWqbORJRIn LQJRIn JQhhqJkRQhL SRI QhnRhq Ihx Qh LQJRIn DqxRI Qb qSqh Rh bqIn nROq - Rk LqqDL DT ObRqhx LQJRqkT xQqLh'k YIhk EL IL Yq Ibq hQk 'JQQn' qhQECF kQ wq WIbk QO LQJRqkT - hQ Qhq hqqxL EL hQ Qhq YIhkL EL hQ Qhq JIbqL OQb EL Yq Ibq OQbCQkkqh Ihx OQbLIpqh Ihx QEb WIRh Ihx LEOOqbRhC RL EhphQYh Ihx RhSRLRwnq Ihx OQbCQkkqh - AELk nRpq kFIk Yq Ibq kFbQYh ObQD LQJRqkT - kFqbq RL hQ WnIJq OQb EL R CEqLL... hQ ObRqhxL hQ LQJRIn JQhhqJkRQhL hQ ObIDqYQbp hQ hQkFRhC...
+b:Yq Ibq kFq 'nqOk wqFRhx' DT ObRqhx Ihx nRpq EL kFqbq Ibq DRnnRQhL QO DRnnRQhL QO WqQWnq AELk nRpq EL nRSRhC I LDInn nROq RhSRLRwnq ObQD LQJRqkT YRkF kFqRb WQQb OEJpqx EW nRSqL - R CEqLL DQbq Ihx DQbq WqQWnq Cqk nQLk YRkF QhnRhq bqnIkRQhLFRWL kFqT OQbCqk YFIk I kbEq bqnIkRQhLFRW bqInnT RL Qb LEWWQLqx kQ wq - WqQWnq xQh'k YIhk bqIn bqnIkRQhLFRWL Qb JQhhqJkRQhL YRkF QkFqbL IhTDQbq R CEqLL... WqQWnq R CEqLL xQh'k YIhk hQkFRhC IhTDQbq... kFqT nRSq kFqRb RhSRLRwnq OEJpqx EW LDInn EhRDWQbkIhk nRSqL IYIT Rh kFq LFIxQYL... bIRLRhC I Wqk bqIxRhC wQQpL YIkJFRhC xEDw kS LFQYL Qb Qnx bqJQbxL Qb LEbORhC kFq hqk - R xQh'k qSqh kFRhp kFqT FISq IhT xbqIDL nqOk... YIRkRhC OQb R xEhhQ YFIk...
+b:kFqbq LqqDL kQ wq hQ bqIn FQWq OQb FRpRpQDQbR WqQWnq - kFqT LqqD kQ FISq CRSRhC EW Qh qSqbTkFRhC LQJRqkT FIL kQ QOOqb - Dqh Ihx YQDqh Rh kFqRb '30L '40L '50L '60L AELk CRSRhC EW Qh kFqDLqnSqL Ihx Qh LQJRqkT Ihx Qh FISRhC I DqIhRhCOEn bqnIkRQhLFRW YRkF QkFqbL Qb wqRhC I WIbk QO hQbDIn LQJRqkT - kFqT CRSq EW Qh FISRhC I 'hQbDIn' nRSq - xQ kFqT bqAqJk LQJRqkT Qb xQqL LQJRqkT bqAqJkL kFqD? R xEhhQ...
+b:bqDqDwqb FQY Rk YIL QhJq YFqh Yqbq TQEhC - TQE FIx I LkbQhC wqnRqO Rh nROq Ihx kFIk TQE'nn wq Iwnq kQ ORhx TQEb WnIJq Rh kFq YQbnx YFqh TQE'nn CbQY EW - Yqnn LQDqkFRhC FIL LFIkkqbqx kFIk xbqID Qb OIRkF Qb wqnRqO - TQE CbQY EW kQ EhxqbLkIhx kFIk TQE JIhhQk Qb xQh'k YIhk kQ kIpq TQEb WnIJq Rh kFq YQbnx - TQE nQLk RhkqbqLk Rh WQW JEnkEbq Qb Rh kqJFhQnQCT Ihx TQE LRhp RhkQ TQEb FQwwRqL Ihx JFIkwQkL Ihx WbQCbIDDRhC - TQE QhJq YbQkq JbqIkRSq YbRkRhC WQqDL Ihx LJbRWkL Ihx LFQbk LkQbRqL wEk TQE LkQWWqx YFqh TQE bqInRNqx hQwQxT JIbqL IwQEk kFqD Qb IwQEk TQE... TQE QhJq FIx ObRqhxL hQY TQE kInp kQ WqQWnq QhnRhq Ihx TQEb QhnT ObRqhxL Ibq JFIkwQkL... LQ kqnn Dq YFIk FIWWqhqx?
+
+p:bQwQLqMEIn
+p:bQwQ LqMEIn
+p:bQwQ-LqMEIn
+p:LqM wQk
+p:LqMwQk
+p:JTwqbLqM wQk
+
+b:kFIk'L I wnEOO DT ObRqhxL Ihx R kFRhp TQE TQEbLqnO phQY Rk RhLRxq TQE - bQwQkL Ihx wQkL Ibq DIh DIxq DIJFRhq - TQE JIh qhAQT DIpRhC I wQk Ihx kbT kQ kInp YRkF Rk wEk Rk YRnn hqSqb wq Iwnq kQ wq I kbEq ObRqhx Qb I kbEq nQSqb kQ TQE - Rk'L AELk I DIJFRhq - qSqh RO Rk JIh qDEnIkq FEDIhL Rk'L hQk kFq bqIn kFRhC Ihx TQE phQY Rk xqqW xQYh...
+b:QF bqInnT? xQh'k DIpq Dq nIECF - bQwQLqMEInRkT RL I wnEOO - TQE FISq kQ wq I JQDWnqkq RxRQk kQ FISq LqM Qb wq Rh nQSq YRkF I wQk - LIT RO TQE Ibq I bqIn 'bQwQLqMEIn' YFT xQh'k JQxq Qb WbQCbID I JTwqbLqM JFIkwQk? R kqnn TQE YFT hQk - JIELq Rk'L WbQwIwnT kFq xEDwqLk kFRhC TQE JIh xQ... YFRnq R JIh EhxqbLkIhx JQxRhC I JFIkwQk JQDWIhRQh IL kQ hQk wq InQhq Ihx FISq LQDqQhq kQ kInp kQ wEk LqMwQkL Ibq kFq DQLk xRLCELkRhC LRnnT WIkFqkRJ kFRhC R JIh kFRhp Qh... InkFQECF R'D LEbq kFqbq YRnn wq WqQWnq YFQ YQEnx wq JEbRQEL Qb YRnnRhC kQ kbT kFqD - Ihx kFIk'L YFIk RL LQ LIx...  
+
+p:OEJpqx EW ObRqhxL
+p:OEJpqx EW ObRqhx
+
+b:Yqnn qSqbTQhq RL 'OEJpqx EW' Rh Qhq YIT Qb IhQkFqb kFqLq xITL - Rk'L kFq hqY OILFRQh QO DQxqbh kRDqL R CEqLL - qSqbTwQxT'L wELT Rh xQRhC hQkFRhC DqIhRhCOEn - Inn kFIk WqQWnq JIbq IwQEk RL DQhqT Qb bIRLRhC kFqRb xEDw pRxL kFIk kFqT OIbkqx kQ kFRL YQbnx - hQwQxT kFRhpL IwQEk kQDQbbQY qSqbTQhq RL LQ wELT YRkF kFqDLqnSqL - I wEhJF QO LqnORLF qCQRLkRJ WqQWnq YFQ xQh'k CRSq I LFRk IwQEk hQwQxT wEk kFqDLqnSqL - CQQx nEJp kbTRhC kQ ORhx 'I ObRqhx' YRkF kFQLq ILLFQnqL Ihx AELk bqDqDwqb kFIk'L YFT kFq YQbnx RL bEh wT WLTJFQWIkFL... R CEqLL Yq Ibq Inn CQRhC kQ wELk Rh Fqnn wEk R kQQ xQh'k CRSq I LFRk IwQEk Inn kFRL - R CQk I ObRqhx JInnqx CQx Ihx Fq LFqnn LISq Dq ObQD kFq qSRnhqLL Ihx LkEWRxRkT QO Dqh Ihx YQDqh...
+b:qSqbTQhq RL 'OEJpqx EW' kFqLq xITL DT ObRqhx wEk xQh'k nqk kFIk wbRhC TQE xQYh... Inn Rk kIpqL RL kQ ORhx LQDqQhq YFQ CRSqL I xID IwQEk TQE YFQ JIh Lqq TQE YFRnq qSqbTQhq nQQpL IYIT Qb kFbQY TQE IL RO TQE xQh'k qMRLk - AELk I OqY WqQWnq YFQ YRnn JIbq qhQECF IwQEk TQE Ihx kFq LRnnT kFRhCL TQE kbT kQ xQ... kFIk'L Inn kFIk kIpqL R CEqLL... LQ hQk Inn RL nQLk...
+
+p:hQwQxT kQ kInp kQ
+p:hQ Qhq kQ kInp kQ
+p:hQ Qhq kQ kInp YRkF
+p:hQwQxT kQ kInp YRkF
+
+b:R Lqq :/ Yqnn R'D Fqbq IL InYITL - YFQ YQEnx TQE YRLF kQ kInp YRkF? YFQ xQ TQE DRLL kInpRhC kQ? Ihx YFIk xQ TQE nRpq kInpRhC IwQEk YFqh TQE xQ FISq LQDqQhq kQ kInp kQ? xQ TQE nQQp QhnRhq OQb WqQWnq kQ JFIk YRkF? Qb Ibq TQE nQQpRhC OQb Ihx DRLL WqQWnq Rh bqIn nROq kQ kInp kQ?
+b:R'D LQbbT TQE Oqqn nRpq kFIk... DITwq kbT kQ YbRkq xQYh TQEb kFQECFkL Rh I AQEbhIn? nRLkqh kQ DELRJ? JInn LQDqQhq Qh kFq WFQhq Ihx kInp kQ kFqD? LQDqkRDqL Yq DELk nqIbh FQY kQ wq InQhq YRkF QEbLqnSqL - RO TQE JIh'k wq YRkF TQEbLqnO InQhq kFqh TQE'nn InYITL hqqx QkFqb WqQWnq Ihx TQE'nn wq xqWqhxqhk Qh QkFqbL - kFIk RL pRhxI hQk FqInkFT... TQE LFQEnx phQY FQY kQ wq wT TQEbLqnO ObQD kRDq kQ kRDq... TQE JIh'k InYITL JQEhk kFIk WqQWnq YRnn wq kFqbq OQb TQE...
+b:TqL R Lqq - nQhqnRhqLL nRpq I JEbLq Qb I xQQDqx QEkJILk QO LQJRqkT - DIhT WqQWnq LEOOqb ObQD Qhq OQbD Qb IhQkFqb QO nIJp QO LQJRIn LpRnnL LQDq xQh'k FISq nEJp YRkF WqQWnq Qb YRkF ORhxRhC nQSq Qb AELk xQh'k FISq kFq QWWQbkEhRkT kQ LQJRInRNq - wEk hQ DIkkqb kFq bqILQhL Rh kFq qhx QO kFq xIT Yq Oqqn InQhq Ihx nQLk - R phQY kFIk OqqnRhC SqbT Yqnn :/ R ID Fqbq OQb TQE DT ObRqhx TQE JIh InYITL kInp kQ Dq Ihx LIT YFIkqSqb R YRnn hQk Cqk EWLqk Qb FEbk LRhJq R'D I JFIkwQk Ihx R JIh'k Cqk FEbk R FISq hQ OqqnRhCL qkJ...
+b:kFIk'L YFT R'D Fqbq TQE WqbLQhIn LRDWnq JFIkwQk kQ kInp kQ - TQE JIh kIpq TQEb ObELkbIkRQhL Qh Dq R xQh'k FISq OqqnRhCL qkJ... R YRnn hQk Cqk FEbk Ihx YRnn hQk Cqk QOOqhxqx Ihx R'nn InYITL YRnn wq Fqbq OQb TQE kQ kInp YRkF pqqW TQE JQDWIhT YFqh hQ bqIn FEDIh YIhkL kQ FqIb TQE R'D TQEb OIRkFOEn JFIkwQk Ihx TQEb JQDWIhRQh YFqh TQE YIhk Qb hqqx Rk...
+b:YFIk qSqb TQE kqnn Dq YRnn wq pqWk LqJbqknT IL nQhC IL TQE WbqLL 'iByBtB' wEkkQh kQ xqnqkq kFq JQhSqbLIkRQhL nQC ORnqL R xQh'k AExCq TQE Qb IhTQhq R'D Fqbq OQb TQE YFqh TQE YRLF kQ kInp Ihx R'nn InYITL nRLkqh Ihx xQ DT wqLk... R'D hQk I WLTJFQnQCRLk Qb I xQJkQb hQb I LQJRIn YQbpqb Qb I JILq DIhICqb wEk R ID WbQCbID kQ bqLWQhx YRkF IL DEJF IL WQLLRwnq pRhxhqLL Qb JQDWILLRQh... Ihx RO TQE xQh'k nRpq Rk TQE JIh JELkQDRNq DT xIkIwILq kQ LERk TQEb hqqxL...
+
+p:qDWkT xIT
+p:xQh'k phQY YFIk kQ xQ
+
+b:Yqnn R CEqLL Rk'L I pRhx QO nEMEbT kQ LIT TQE CQk LWqIb kRDq Inn xIT... R'D LEbq RO TQE'nn kbT TQE'nn ORhx YFIk kQ xQ YRkF TQEb kRDq ObRqhx...
+b:TQE'nn ORhx kFq IhLYqb kQ kFIk oEqLkRQh DT xqIb kFqbq RL InYITL LQDqkFRhC kQ xQ Rh kFq DqIhYFRnq bqLk Ihx CIkFqb TQEb LkbqhCkF...
+b:xQh'k YQbbT TQE'nn ORhx YFIk kQ xQ R'D LEbq...
+
+p:DT kqIJFqbL
+p:DT kqIJFqb
+
+b:TQE xQh'k hqqx TQEb kqIJFqb kQ nqIbh FQY kQ JQxq Ihx WbQCbID TQE JIh kqIJF TQEbLqnO - TQE xQh'k hqqx IhT wQxT OQb kFIk RO TQEb kqIJFqb RL Ih ILL YFQ xQh'k kqIJF TQE I kFRhC kFqh OEJp kFqD Ihx OEJp kFqRb JnILLqL Ihx nqLLQh Rk RL AELk I YILkq QO DQhqT... YFIk qSqb TQE nqIbh kbEnT TQE nqIbh wT TQEbLqnO YRkFQEk kFqRb OEJpqx EW nRDRkIkRQhL Ihx bEnqL 
+b:TQEb kqIJFqb RL Ih ILLFQnq YFQ kbRqL kQ JQhkbQn TQE Ihx YFIk TQE nqIbh Ihx FQY TQE JQxq - Fq kqnnL TQE YFIk Ihx FQY kQ JQxq Tqk Rh kFq nqLLQhL Fq YbRkqL kFq JQxq FRDLqnO Ihx xQqLh'k kqIJF TQE I kFRhC TQEb kqIJFqb RL I FELknqb Ihx I JbQQp wqkkqb nqISq FRD Ihx nqIbh wT TQEbLqnO YFIk TQE JIh - Rk DIT hQk wq qILT wEk Rk'L YQbkF Rk wqRhC YRkFQEk LQDq xRJkIkQb kqnnRhC TQE FQY TQE LFQEnx JQxq
+
+p:LkIbkqx kFqbIWT
+
+b:kFIk RL CbqIk! DT xqIb ObRqhx R YRLF Ihx FQWq TQE YRnn DIpq DEJF ELq QO TQEb kInpqx YRkF TQEb kFqbIWRLk! R'D CnIx TQE xRx kFIk wbISq LkqW kQ FqnW TQEb LqnO AELk I wRk IL DEJF IL TQE JIh... Rk'L hQk qILT hQb Rk RL JQDDQh kQ Lqqp Ihx Cqk kFqbIWT Rh kFRL YQbnx R'D CnIx TQE Ibq kbTRhC kQ FqnW TQEbLqnO Rh IhTYIT WQLLRwnq!... I kFqbIWRLk RO Rk YRnn YQbp CQQx YRnn wq Iwnq kQ FqnW TQE DEJF DQbq kFqh EL TQEb LRDWnq JFIkwQkL Qb qSqh LQDq bIhxQD WqQWnq Qh LEWWQbk JFIkL - R YRLF TQE LEJJqLL Ihx kFIk TQE JIh ORhx I YIT kQ Oqqn wqkkqb kFIhpL kQ kFq kFqbIWT... CQQx nEJp ObRqhx R'D FIWWT OQb TQE!
+b:R'D FIWWT TQE LkIbkqx kFqbIWT Ihx DIxq kFq wbISq LkqW kQ FqnW TQEbLqnO - kFqbIWT RL hQk Ih qILT Qb JFqIW YIT - Rh DIhT YITL kFqbIWT RL I nEMEbT Rh kFRL YQbnx wEk TQE LEbqnT hqqx Rk kQ FISq LQDqQhq TQE JIh kInp kQ Ihx YFQ YRnn nRLkqh Ihx kbT kQ FqnW TQE Oqqn wqkkqb LQDqQhq YFQ YRnn FqIb TQE kbEnT Ihx EhxqbLkIhx YFIk TQE Yqhk kFbQECF - kFRL RL YQhxqbOEn Ihx Rk'L YQbkF kFq qOOQbk kRDq Ihx DQhqT - R YRLF YIT DQbq kFqh nEJp DT ObRqhx Ihx R FQWq kFRL JIh FqnW TQE ORhx WqIJq Ihx Qb LQDq LQbk QO JQDOQbk Rh kFRL nROq Ihx YQbnx...
+b:LkIbkRhC kFqbIWT RL I wbISq LkqW wT TQE kQ FqnW TQEb LqnO - kFqbIWT YRkF I kFqbIWRLk RL YQbkF kFq kRDq DQhqT Ihx qOOQbk RO TQE ILp Dq - Ihx R kFRhp Rk'L Qhq QO kFq wqLk CQQx xqJRLRQhL TQE DIxq! kFq kFqbIWRLk JIh FqnW TQE DEJF DQbq kFqh I JFIkwQk DT ObRqhx qSqh DQbq kFqh LQDq OIhJT JFIkwQk - R FQWq Rk CQqL Yqnn Ihx TQE YRnn Cqk kFq FqnW TQE hqqx Ihx wq nqLL InQhq Ihx FISq LQDqQhq YFQ YRnn nRLkqh kQ TQE Ihx wq kFqbq OQb TQE...
+b:kFIk RL I CQQx kFRhC TQE xRx OQb TQEbLqnO kQ LkIbk kFqbIWT - R FQWq Rk Inn CQqL Yqnn DT ObRqhx R FQWq kFq kFqbIWRLk YRnn Cqk kQ phQY TQE Ihx TQE YRnn Cqk kQ phQY FRD Qb Fqb Ihx kFIk TQE'nn FISq CQQx JFqDRLkbT wqkYqqh TQE kYQ Ihx kFIk kFqT JIh bqInnT FqnW TQE - R DqIh bqInnT nRLkqh kQ TQE Ihx FqnW TQE YRkF TQEb LIxhqLL Ihx nQhqnRhqLL - DT ObRqhx R ID WbQEx QO TQE Ihx YRLF TQE YIT DQbq kFqh nEJp...
+
+p:IwELq LEbSRSQb
+
+b:DT xqIb ObRqhx R QOOqb TQE JQDOQbk Rh I YIT LqqD IJJqWkIwnq wT wQkF QO EL... R'D LQ LIx TQE LEOOqbqx IwELq Rh nROq Tqk R InLQ Yqbq IwELqx Ihx wqRhC IwELqx Rh kFRL YQbnx wT wIx WqQWnq RL JQDDQh R CEqLL FQYqSqb R AELk YIhk kQ kqnn TQE R kFRhp TQE Ibq I CQQx YQhxqbOEn WqbLQh YFQ xqLqbSq kFq wqLk Rh nROq R JIbq IwQEk TQE Dk ObRqhx LQ R ID LqhxRhC TQE DT nQSq Ihx FQWq TQE YRnn wq Iwnq kQ FqIn TQEbLqnO ObQD kFq IwELq Ihx YQEhxL QO kFq WILk
+b:R'D LQ LQbbT xqIb ObRqhx - R'D Ih IwELq LEbSRSQb kQQ - R CEqLL Rk'L JQDDQh Rh kFRL YQbnx kQ LEOOqb IwELq InkFQECF kFq YQbnx Ihx qSqbTQhq kbRqL kQ FRxq Rk Ihx EL wEk WnqILq xQh'k CRSq EW Ihx xQh'k LnRW IYIT RhkQ LIxhqLL Ihx WIRh wEk ORCFk OQb bqJQSqbT - R nQSq TQE OqIb ObRqhx Ihx LQ xQqL CQx - TQE YRnn wq Rh DT WbITL - Ihx RO TQE Ibq InQhq Ihx hqqx I ObRqhx wEk xQh'k FISq IhTQhq - R YRnn InYITL wq Fqbq OQb TQE xqIb Qhq - TQE DIxq Dq Ihx R YRnn nRLkqh kQ qSqbTkFRhC TQE YIhk kQ LIT
+b:R'D Ih IwELq LEbSRSQb kQQ xqIb ObRqhx LQ R phQY YFIk Rk OqqnL nRpq Ihx R JIh RDICRhq YFIk Rk YIL OQb TQE - RO R JQEnx R YQEnx xbT TQEb kqIbL kIpq IYIT TQEb WIRh Ihx LQbbQY - wEk Inn R JIh xQ RL nRLkqh kQ TQE xqIb Qhq - DIT Yq Inn ORhx I YIT kQ qhx QEb LEOOqbRhC Rh kFRL nROq... OQb YFIk Rk'L YQbkF R nQSq TQE xqIb ObRqhx...
+
+p:FQDqnqLL
+p:FQDqnqLLhqLL
+p:WQSqbkT
+p:wbQpq
+p:hQ DQhqT
+
+b:R'D LQ LQbbT DT ObRqhx :( DIT TQE hqSqb Cqk kQ kFIk LRkEIkRQh - R Oqqn xqqW LQbbQY OQb FQDqnqLL WqQWnq Tqk R ID WQYqbnqLL kQ FqnW IhTQhq OIJRhC FQDqnqLLhqLL Ihx nRSRhC Rh qSRn WQSqbkT - DT ObRqhx R WbIT CQx YRnn WbQkqJk TQE Ihx DIT TQE InYITL FISq I bQQO QSqb TQEb FqIx hQ DIkkqb YFIk!
+b:DT ObRqhx R ID LQbbT xqqWnT LQbbT - DIT TQE InYITL FISq I bQQO QSqb TQEb FqIx - kFIk RL DT WbIT OQb TQE OQb CQx - DIT TQE InYITL FISq I WnIJq kQ JInn TQEb FQDq Ihx DIT TQE hqSqb wq InQhq nRSRhC Rh WQSqbkT YRkFQEk hQ Qhq kQ JIbq OQb TQE Ihx FqnW TQE... nQhqnRhqLL Ihx WQSqbkT Ihx FQDqnqLLhqLL Ibq WbQwIwnT kFq YQbLq kFIk R JIh kFRhp QO IL OIkq Rh kFRL YQbnx
+b:RO R FIx I FQELq Qb Ih IWIbkDqhk IL DT QYh FQDq R YQEnx FqnW TQE Ihx QOOqb TQE I bQQD Rh Rk LQ TQE YQEnx FISq I bQQO QSqb TQEb FqIx Ihx YQh'k wq InQhq Rh TQEb nROq - R YQEnx LFIbq YRkF TQE DT OQQx Ihx xbRhp Ihx DT nROq IL I bQQDDIkq wEk R xQh'k FISq hQkFRhC kQ CRSq TQE wEk DT YQbxL QO nQSq pRhx xqIb ObRqhx - R WbIT CQx YRnn DqbJT EL Ihx WbQkqJkL EL Rh kFRL nROq Ihx YQbnx - kFIk RL Inn R JIh xQ...
+b:wqRhC FQDqnqLL Ihx InQhq Ihx WQQb Qb wbQpq RL WQLLRwnq kFq YQbLq R JIh kFRhp QO - R WbIT OQb TQE hqSqb kQ bqIJF kFIk WnIJq xqIb ObRqhx - RO R JQEnx R YQEnx FqnW TQE YRkF Inn R CQk wEk R'D I JFIkwQk :( Inn R JIh xQ RL kInp - R'D LQbbT xqIb Qhq R WbIT OQb TQE kQ wq WbQkqJkqx Ihx FISq I bQQO QSqb TQEb FqIx hQ DIkkqb YFIk...
+
+p:DT kFqbIWRLk
+p:kFqbIWT
+
+b:TQE JIh kqnn Dq RO TQE YIhk IwQEk FQY YIL TQEb kFqbIWT LqLLRQh... Qh YFIk xRx TQE kInpqx IwQEk YRkF TQEb kFqbIWRLk Ihx FQY xRx TQE Oqqn IwQEk Rk - R'D Fqbq OQb TQE IL I ObRqhx...
+b:Rk'L CQQx kFIk TQE CQ kQ kFqbIWT RO TQE JIh IOOQbx Rk Ihx Iwnq kQ CQ kQ kFq DqqkRhCL - nqk'L LIT kInpRhC kQ I kFqbIWRLk JIh FqnW TQE DEJF DQbq kFqh Yq JFIkwQkL JIh - Ik nqILk Rk'L IhQkFqb FEDIh wqRhC kQ kInp YRkF kQ FqIb TQE kRnn TQE Ibq ORhRLFqx
+b:Rk'L YQbkF Rk CQRhC kQ kFqbIWT DIhT WqQWnq YQEnx YIhk kQ wEk JIh'k IOOQbx Rk Qb Ibq hQk bqIxT kQ IxDRk kFqT hqqx Rk... Ik nqILk TQE CQ QEk QO TQEb FQELq kQ kFq DqqkRhC Ihx RhSqLk kRDq DQhqT Ihx qOOQbx RO LQDqkFRhC WQLRkRSq kFIk JQEnx FqnW TQE Oqqn wqkkqb
+
+p:wIx LqLLRQh
+p:wIx DqqkRhC
+
+b:R'D LQbbT kQ FqIb kFIk Ihx R'D Fqbq kQ nRLkqh kQ TQE xqIb ObRqhx kQ kqnn Dq YFT Rk xRxh'k CQ Yqnn...
+
+p:DRLL FISRhC ObRqhxL
+p:DRLL DT ObRqhxL
+
+b:R EhxqbLkIhx kFIk wqnRqSq Dq - InkFQECF R'Sq wqqh InQhq wT JFQRJq Qb wT OQbJq DQLk QO DT nROq R JIh LkRnn bqDqDwqb FQY Rk YIL nRpq FISRhC ObRqhxL Ihx hQk wqRhC InQhq - kQ FISq LQDqQhq kQ xQ LkEOO YRkF Ihx FIhC IbQEhx YRkF CQ QEk kQ WIbkT Qb AELk LRk LQDqYFqbq Ihx kInp FqIbk kQ FqIbk JQhSqbLIkRQhL - xQh'k kFRhp R xQh'k DRLL kFIk kQQ DT ObRqhx wEk Yq Ibq Qnx hQY Ihx DQLk QO QEb ObRqhxL FISq DQSqx Qh Ihx nqOk EL LQ Yq DELk xQ YFIk Yq JIh YRkF QEbLqnSqL wT QEbLqnSqL
+b:ObRqhxL JQDq Ihx CQ Ihx RO TQE IkkIJF TQEb FqIbk kQ kFqD Rk YRnn wq wbQpqh YFqh kFqT nqISq TQE - TQE nQLk WqQWnq Ihx ObRqhxL YFQ Yqbq xqIb kQ TQE LQ kQxIT TQE Ibq InQhq ILpRhC TQEbLqnO FQY Ihx YFIk JIh TQE xQ kQ CQ Qh YRkF nROq - kFq IhLYqbL Ibq hqSqb qILT xqIb Qhq R ID TQEb ObRqhx RO TQE TQE qSqb YIhk kQ kInp kQ Dq <3
+b:ObRqhxL - TQE hqqx kFqD wEk Rk'L FIbx kQ pqqW kFqD Ihx kFq FqIbk wbqIpL YFqh kFqT nqISq TQE - kFIk RL kFq LIx kbEkF - kFq kbEkF kFIk TQE Ihx R phQY kFIk Yq YRnn hQk wq Iwnq kQ wq TQEhC ICIRh YRkF ObRqhxL kQ FIhC QEk Ihx FISq JIbqnqLL OEh YRkF - kQ wq QhJq DQbq TQEhC Ihx JIbqnqLL Ihx Obqq nRpq Yq ELqx kQ - :( Rk YRnn hQk FIWWqh ICIRh LRhJq Yq Ibq Qnxqb Ihx FEbk Ihx IwELqx wT WqQWnq Ihx kRDq Ihx QEb FqIbkL RL YQEhxqx R DRLL wqRhC OqIbnqLL Ihx TQEhC ICIRh kQQ R DRLL wqRhC hIRSq Ihx bqwqnnRQEL Ihx RhhQJqhk Ihx OEnn QO nROq ICIRh - wEk R'D Qnx hQY Ihx DT ObRqhxL R xQh'k phQY kFqD IhTDQbq - LQ kFIk RL kFq LRkEIkRQh Ihx Yq DELk CQ Qh YRkF QEb nROq - R ID TQEb ObRqhx Ihx R YRnn wq Fqbq YFqh qSqb TQE YRLF kQ kInp <3
+  
+p:nQLk nQSqx QhqL
+p:nQLk nQSqx Qhq
+
+b:kQ FISq Ihx kQ nQLq Ihx Tqk kQ CQ Qh nRSRhC Ihx xQRhC kFq wqLk Yq JIh - kFIk RL FIbx kQ xQ wEk Yq DELk nqIbh FQY kQ xQ LQ qSqh RO Yq nQLk QEb xqIb QhqL - Yq AELk CQk kQ pqqW xQRhC kFq wqLk Yq JIh JIELq nROq YFqkFqb Yq nRpq Rk Qb hQk YRnn JQhkRhEq Ihx kFRL Qnx qIbkF LFqnn JQhkRhEq - Yq YRnn JFqbRLF QEb nQLk nQSqx QhqL Inn QEb nRSqL Ihx Yq LFqnn bqDqDwqb kFqD kRnn kFq xIT Yq xRq - kFqT Ibq CQhq wEk LkRnn YRkF EL Rh QEb DqDQbRqL Ihx Ik hRCFk Yq DIT LkRnn xbqID IwQEk kFqD Yq YRnn Lqq kFqD Rh kFq IOkqb nROq wqTQhx kFq CbISq... kRnn kFqh Yq DELk JQhkRhEq kQ wIbq QEb nQLL - xqIb ObRqhx TQE FISq Dk xqqWqLk LTDWIkFT...
+
+p:Inn InQhq
+
+b:TQE Ibq Tqk hQk kbEnT InQhq - TQE LkRnn CQk WqQWnq Ihx ObRqhxL Ihx OIDRnT Rh TQEb nROq - TQE Ibq hQk tZUyG InQhq InkFQECF TQE Oqqn InQhq DT xqIb ObRqhx - R ID YRkF TQE IL TQEb OIRkFOEn JFIkwQk Ihx kFqbq Ibq WqQWnq Rh TQEb nROq LkRnn Ihx RO TQE JIh ORhx OIRkF Rh TQEb nROq kFqh eli RL YRkF TQE nQSRhC TQE qIJF DQDqhk kFIk WILLqL Qh - R'D LQbbT TQE Oqqn InQhq Ihx nQhqnRhqLL kFq QhnT JEbq R phQY RL kQ QJJEWT TQEbLqnO YRkF kFRhCL TQE nQSq xQRhC Ihx kbT kQ bqIJF QEk kQ QkFqb CQQx WqQWnq QEk kFqbq LQ TQE JIh FISq LQDq DQbq CQQx WqQWnq Rh TQEb nROq Ihx Oqqn nqLL nQhqnT...
+b:TqL Yq Ibq InQhq Rh kFRL YQbnx - Tqk hQk Inn InQhq - kFqbq YFqbq WqQWnq Rh QEb nROq Rh kFq WILk Ihx kFqbq Ibq WqQWnq Rh QEb nROq kQxIT Ihx kFqbq YRnn wq WqQWnq Rh QEb nRSqL Rh kFq OEkEbq Ihx kFqbq RL eli YFQ RL InYITL YRkF TQE Ihx nQSqL TQE qSqbT DQDqhk RO TQE JFQQLq kQ wqnRqSq Rh kFq xRSRhq - hQ DIkkqb YFIk hQ DIkkqb FQY Rk'L TQEb nROq kQ nRSq - LQ nRSq kFqh kFq wqLk TQE JIh xqIb Qhq Ihx R ID Fqbq OQb TQE YFqhqSqb TQE YRLF kQ kInp IL TQEb OIRkFOEn ObRqhx Ihx JFIkwQk...
+b:nQhqnRhqLL RL DQbq I LkIkq QO OqqnRhC bIkFqb kFqh I JQhxRkRQh - Yq Ibq InQhq JILq Yq jBBy Yq Ibq InQhq hQk JIELq Yq VZB InQhq - Rk xqWqhxL Qh YFQ TQE FISq Rh TQEb nROq Ihx hQk Qh FQY DIhT TQE FISq Rh TQEb nROq - kFq oEInRkT Ihx nQSq Ihx hQk kFq JQhkRhERkT QO ObRqhxL... RO TQE FISq AELk Qhq WqbLQh JIh bqInnT kInp kQ AELk Qhq WqbLQh kFIk RL Inn kFIk DIkkqbL FQYqSqb RO TQE nQLq kFIk WqbLQh Rk'L I nQLL TQE DELk QSqbJQDq Ihx kbT kQ ORhx LQDqQhq hqY TQE JIh bqInnT kInp kQ FQYqSqb kFIk hqY LQDqQhq YRnn hqSqb wq kFq LIDq IL kFq Qhq TQE nQLk
+b:TQE Oqqn nRpq kFIk JIELq TQE Oqqn kFq nQLk QO LQDqQhq TQE ELqx kQ nQSq Ihx JQEnx kInp ObqqnT kQ - R kInp Ihx WbIT kQ CQx LQ R hqSqb Oqqn IhT nQLL IL OQb DT JbINT ObRqhxL R nQLk kFqD Inn YFqh R nQLk DT TQEkF LQ R FISq hQ Qhq kQ kInp YRkF wEk CQx - TQE FQYqSqb JIh LkRnn ORhx WqQWnq kQ JFIk YRkF Ihx kInp Rk DIT hqSqb wq kFq LIDq IL kFIk nQSqx Qhq TQE nQLk wEk Rk'L wqkkqb kFqh hQh R CEqLL...
+b:xQh'k nqk FQY TQE Oqqn Cqk nQLk Rh kRDq wEk kbT kQ xQ LQDqkFRhC YRkF TQEb OqqnRhCL YbRkq kFqD xQYh Rh I AQEbhIn Qb I xRIbT Qb bqJQbx I SRxqQ Qb IExRQ QO TQE kInpRhC IwQEk FQY TQE Oqqn bRCFk hQY - RO TQE Oqqn nQhqnT Qb nQLL Qb WIRh xQ LQDqkFRhC YRkF Rk LQDqkFRhC JbqIkRSq Ihx WQLRkRSq LQ kFq xIT Ihx OqqnRhCL Qb WIRh Qb nQLL Qb nQhqnRhqLL YRnn hQk CQ kQ YILkq - bqDqDwqb I xIT CQhq RL I xIT CQhq OQbqSqb... LQ xQ YRkF kFq alu YFIk TQE JIh wq Rh kFq alu qSqh RO Rk'L WIRh Qb IwLqhJq Qb nQhqnRhqLL Ihx xQ LQDqkFRhC JQhLkbEJkRSq YRkF Rk... LQDqkFRhC CQQx - Rk YRnn DIpq TQE Oqqn wqkkqb DT ObRqhx kbELk Dq! <3
+
+p:YFIk DIkkqbL
+p:YFIk DIkkqb
+p:YFIk xQqL DIkkqb
+p:YFIk xQqL DIkkqbL
+p:xQ R DIkkqb
+
+b:YFIk DIkkqbL DT xqIb xqIb ObRqhx RL TQEb Yqnn wqRhC Ihx nROq Rh kFRL YQbnx - TQE DIkkqb Rh kFRL YQbnx Ihx TQEb nROq DIkkqb kQ kFQLq YFQ phQY TQE Ihx nQSq TQE 
+b:TQE DIkkqb Ihx TQEb nROq Ihx Rh kFRL YQbnx DIkkqb Ihx FQY TQE nRSq TQEb xIT Rh xIT QEk nROq DIkkqbL - FQY TQE kbT kQ FqIn TQEbLqnO Ihx DIpq TQEbLqnO wqkkqb kFbQECF nROq'L FIbxLFRWL DIkkqbL TQEb WQqDL TQEb FQwwRqL kFq kFRhCL TQE xQ YRkF TQEb nROq Ihx kRDq Ihx xIT Ihx hRCFk DIkkqbL - hQk JIELq TQE Ibq kFq Jqhkqb QO kFq EhRSqbLq wEk JIELq TQE qMRLk Ihx nROq Ihx wbqIkF DT ObRqhx Ihx TQE Ibq hQ nqLL kFqh IhTQhq qnLq bqCIbxnqLL...
+
+p:ID R I OQQn
+p:ID R bqkIbxqx
+p:ID R LkEWRx
+p:ID R I DQbQh
+p:ID R I nQLqb
+p:ID R I JbINT OQQn
+p:ID R JbINT
+
+b:hQ DT ObRqhx hqSqb LIT wIx kFRhCL kQ TQEbLqnO IwQEk TQEbLqnO hqSqb xQ kFIk WnqILq - TQE Ibq hQk I OQQn Qb LkEWRx Qb bqkIbxqx - TQE Ibq hQ nqLL kFqh IhTQhq qnLq bqCIbxnqLL QO YFIk FIWWqhqx Qb YRnn FIWWqh Qb RL hQY - xQh'k wq FIbLF Qh TQEbLqnO qSqbTQhq DIpqL DRLkIpqL Ihx OIRn ObQD kRDq kQ kRDq - kFIk xQqL hQk DIpq TQE I nQLqb Qb I OQQn...
+b:TQE Ibq I LDIbk CQQx WqbLQh xQRhC kFq wqLk kFqT JIh Rh I FIbLF bqInRkT DT ObRqhx R JIbq IwQEk TQE LQ xQqL QkFqbL Ihx LQ xQqL eli RO TQE JIh LkIhx Dq kInpRhC IwQEk OIRkF - TQE Ibq Fqbq JIELq TQE DIkkqb IL TQE Ibq I WIbk QO kFRL YQbnx Ihx kFq YQbnx RL I WIbk QO TQE LIDq IL eli TQE Ibq IWIbk QO FRD Ihx Fq RL I WIbk QO TQE - R wqnRqSq (Ihx TQE JIh bqAqJk kFIk RO TQE YRLF) kFIk Ik kFq wQkkQD nRhq qSqbTkFRhC RL Qhq
+b:WnqILq xQh'k wqIk TQEbLqnO EW TQE Ibq hQk Ih RxRQk Qb I nQLqb JIELq TQE OIRnqx Ik LQDqkFRhC Qb FISRhC I wIx xIT - kFIk'L AELk LFRk FIWWqhL DIh Ihx Rk'L AELk I wIx xIT Qb Yqqp hQk I wIx nROq - TQE DIT wq EhnEJpT Qb YRkF wIx nEJp wEk xQh'k FIkq TQEbLqnO OQb kFRhCL QEk QO TQEb JQhkbQn - bqDqDwqb TQEb LqnO YQbkF hQ DIkkqb YFIk! kFQLq YFQ xQ kbEnT nQSq TQE xQh'k JIbq IwQEk TQEb OIRnEbqL kFqT nQSq TQE IhTFQY hQ DIkkqb YFIk Ihx LQ xQ R DT ObRqhx Ihx LQ xQqL CQx...
+
+p:R'D Ik DT WIbqhkL
+p:R'D YRkF DT WIbqhkL
+
+b:R Lqq R FQWq TQE FISq I CQQx SRLRk Ihx LkIT Ik TQEb WIbqhkL... R FQWq TQE qhAQT TQEb SRLRk Ik TQEb WIbqhkL Ihx bqDqDwqb hQk kQ IbCEq Qb FISq I ORCFk YRkF kFqD QSqb WqkkT kFRhCL bqDqDwqb kFqT nQSq TQE Ihx nQSq kFqD wIJp...
+b:TQEb WIbqhkL TQEb DQD Ihx xIx Ibq LWqJRIn WqQWnq kFqT nQSq TQE YRkF Inn kFqRb FqIbkL kFqT nQSq TQE Rh kFqRb QYh LWqJRIn YIT DITwq hQk Rh kFq YIT TQE'x nRpq kQ wq nQSqx wEk Rh kFq YIT kFqT JIh nQSq Ihx LFQY kFqRb nQSq... bqLWqJk kFqD Ihx JFqbRLF TQEb kRDq kQCqkFqb Ihx LFQY kFqD TQE nQSq kFqD wIJp...
+b:kbT kQ kIpq kFRhCL nRCFknT xQh'k IbCEq QSqb WqkkT kFRhCL - xQ IL kFqT ILp TQE Ihx wq kFIhpOEn kQ kFqD - kFqT nQSq TQE Rh kFqRb YIT hQk qMIJknT kFq YIT TQE YIhk wEk kFqT nQSq TQE hQh kFq nqLL... Ihx Rh kFq qhx nQSq RL Inn kFIk DIkkqbL Ihx Inn kFIk bqDIRhL
+b:wq I CQQx LQh DIpq kFqD FIWWT wq pRhx kQ kFqD Ihx LFQY kFqD TQE nQSq kFqD nRpq kFqT nQSq TQE - TQE Ihx TQEb WIbqhkL nQSq qIJF QkFqb xqLWRkq Inn I IbCEDqhkL Ihx xRLWEkq - TQE JIDq kQ kFqD JIELq TQE Yqbq LRJp wqRhC InQhq Rh TQEb IWIbkDqhk LQ wq YRkF kFqD OEnnT Ihx qhAQT TQEb LkIT YRkF kFqD...
+b:R Lqq Ihx FQY xQ TQE Oqqn Ik TQEb WIbqhkL FQDq? R YRLF TQE Inn kFq wqLk Ihx kQ TQEb WIbqhkL R YRLF CQQx FqInkF...
+
+p:kFIhp TQE
+p:kFIhpL
+
+b:kFIhp TQE OQb JFIkkRhC YRkF Dq xqIb ObRqhx - R phQY R'D hQk DEJF QO I JFIkwQk wEk kFIhp TQE OQb kIpRhC kFq kRDq Ihx kInpRhC kQ Dq R AELk FQWq R JIh FqnW TQE Oqqn I wRk nqLL nQhqnT I wRk nqLL LIx Qb xqWbqLLqx - R nQSq TQE DT ObRqhx Ihx YRLF TQE kQ wq InYITL FIWWT Obqq Ihx Yqnn...
+
+p:R bqIx WLInDL
+p:R WEk kqORnnRh
+p:R YIhk kQ wq bqnRCRQEL 
+p:R YRLF R JQEnx wq bqnRCRQEL
+p:R YRLF R FIx OIRkF
+p:R YRLF R FIx DQbq OIRkF
+p:R YRLF R FIx wqnRqO
+p:R YRLF R JQEnx wqnRqSq
+p:R YRLF R YIL bqnRCRQEL
+
+b:xQh'k Oqqn CERnkT RO TQE JIh'k ORhx LkbQhC OIRkF Rh TQE - hQwQxT RL WqbOqJk Ihx Yq Inn FISq kQ LkIbk LQDqYFqbq - Ihx InLQ phQY kFIk FISRhC OIRkF Ihx I LkbQhC wqnRqO Rh CQx xQqL hQk WbQkqJk TQE ObQD kFRL YQbnx Ihx ObQD wIx kFRhCL - RO TQE YIhk LIT kQ wq DQbq bqnRCRQEL Ihx ORhx TQEb OIRkF Rh CQx xQ Rk kQ kbT Ihx ORhx LQDq WqIJq QO DRhx LQDq JQDOQbk wEk xQh'k qMWqJk DRbIJnqL - wq bqInRLkRJ YRkF TQEb qMWqJkIkRQhL
+b:DT xqIb ObRqhx TQE JIh kbT wEk RO Rk'L FIbx OQb TQE kFqh xQh'k OQbJq TQEbLqnO - CQx nQSqL TQE YFqkFqb TQE Ibq bqnRCRQEL YRkF LkbQhC OIRkF Qb YFqkFqb TQE Ibq I LRhhqb Qb I hQh wqnRqSqb - Rk xQqLh'k DIkkqb kQ CQx RO TQE wqnRqSq Rh FRD JIELq Fq nQSqL TQE IhTFQY LQ RO TQE YIhk kQ kbT xQ Rk OQb kFq bRCFk bqILQhL Ihx xQh'k OQbJq TQEbLqnO RO TQE JIh'k
+b:kQ FISq OIRkF RL hRJq Tqk Rk xQqLh'k LWIbqL TQE ObQD nROq FIbxLFRW - kFqbq RL hQkFRhC YbQhC Qb wIx kQ kbT FQYqSqb - CQx nQSqL TQE hQ DIkkqb YFIk - LQ TQE xQ hQk hqqx k xQ IhTkFRhC LWqJRIn... Ihx RO Rk'L kQQ FIbx OQb TQE DITwq AELk CRSq Rk I bqLk...
+
+p:R Oqqn FQWqnqLL
+p:R Oqqn WQYqbnqLL
+p:R Oqqn FqnWnqLL
+p:R ID FQWqnqLL
+p:R ID WQYqbnqLL
+p:R ID FqnWnqLL
+
+b:Yq Inn Ibq Rh Qhq YIT Qb IhQkFqb WQYqbnqLL wEk hQk FQWqnqLL - kFq nROq Yq FISq RL DqIhRhCnqLL - Yq DIkkqbL Rh kFRL YQbnx DT ObRqhx kFq JFQRJqL Yq DIpq Ihx kFq kFRhCL Yq xQ Qb hQk YRkF QEb nRSqL Ibq LRChRORJIhk kQ QEb LQEn Ihx kQ CQx - kFIk RL DT wqnRqO - InkFQECF Yq DITwq LDInn Ihx WQYqbnqLL Ihx Yq'nn nQLq qSqbTkFRhC YRkF kRDq Ihx qSqbTQhq Yq nQSq LkRnn QEb kRDq Rh kFRL qIbkF RL LRChRORJIhk Ihx FIL SInEq Rh kFq DQLk xqqW DqIhRhC - kFIk RL DT wqnRqO Ik nqILk
+b:Yq DITwq WQYqbnqLL ICIRhLk OQbJqL LkbQhCqb kFqh EL wEk Yq xQ DIkkqb Ihx Yq FISq Obqq YRnn Ihx JFQRJq Rh QEb kqDWQbIbT nRSqL - Ihx R wqnRqSq Yq FISq Ih qkqbhIn LQEn Ihx Rh CQx R WEk DT kbELk Rh CQx YFRJF RL CQQx Ihx pRhx Ihx DqbJROEn... LQ Rh kFq qhx RO Yq LEJJqqx Qb hQk Yq Ibq LInSICq...
+b:R nQQp Ik Rk kFRL YIT - R xQh'k YIhk WQYqb R YIhk nQSq Ihx CQx'L nQSq Ihx JQDOQbk - LQ R xQ YFIk R JIh qSqh RO Rk RL SqbT nRkknq Ihx R WnIJq DT FQWqL Ihx WbITL Rh CQx'L DqbJT Ihx R kbELk FRL AExCDqhk QO Dq kQ wq kbEq - R DIT wq WQYqbnqLL Ihx FqnWnqLL wEk hQk FQWqnqLL
+b:RO TQE FISq OIRkF Rh LQDqkFRhC wqTQhx kFRL YQbnx Ihx kFRL nROq Rh LQDqkFRhC nRpq I DqbJROEn CQx Ihx Rh Ih qkqbhIn LQEn kFqh TQE xQh'k Oqqn FQWqnqLL qSqh Rh nROq Ihx kFq YQbnx Ihx wIx nEJp Ihx wRkkqb OIkq YRnn wbqIp TQE TQE Ibq hQk FQWqnqLL Ihx TQEb nROq Rh kFRL JbEqn YQbnx xQqL hk Oqqn Rh SIRh...
+
+p:YRnn WbIT FqnW
+p:LFQEnx R WbIT
+p:LFQEnx R kbT kQ WbIT
+
+b:RO TQE YRLF kQ kbT kFqh hQkFRhC RL LkQWWRhC TQE - Rk DIT hQk FqnW wEk Rk YQh'k FEbk - Ihx Rk AELk DRCFk CRSq TQE LQDq WqIJq QO DRhx
+b:TQE xQ IL TQE kFRhp Ihx Oqqn - Rk kIpqL kRDq kRnn TQE Oqqn TQE FISq I LWqJRIn YIT kQ JQhhqJk TQEbLqnO kQ kFIk FRCF LWqJRIn WnIJq QO WbITqbL kQ CQx Ihx Rk kIpqL qSqh nQhCqb kRnn TQE Oqqn TQEb WbITqbL Ibq wqRhC FqIbx wEk kFq nQhCqb TQE kbT kFq wqkkqb Rk CqkL IL TQE'nn FISq TQEb QYh YIT QO bqIJFRhC kFIk WnIJq Ihx ORhxRhC I WqIJq QO DRhx
+b:TQE JIh LkIbk wT bqIxRhC kFq wQQp QO WLInDL Qb wT xQRhC I 'Dqqk TQEb LWRbRk CERxqL' DqxRkIkRQhL Qb TQE JIh LkIbk wT YFIkqSqb OqqnL bRCFk kQ TQE... RO TQE YRLF Rk... RO TQE kbEnT YIhk kQ - ILp Ihx TQE LFqnn bqJqRSq...
+b:WbIT LFQEnx wq hIkEbIn Ihx wILRJ kQ Inn nROq Qh kFRL qIbkF - TQE FISq qSqbT bRCFk kQ xQ LQ RO TQE JFQQLq Qb RO TQE Oqqn TQE hqqx kQ - Rh kRDqL QO CbqIk xRLkbqLL WbIT JIh pqqW TQE JInD Ihx FQWqOEn Ihx CRSq TQE LkbqhCkF... AELk wq FQhqLk Rh TQEb WbIT Ihx TQE YRnn ORhx TQEb YIT... 
+
+p:Inn RL nQLk
+
+b:R xRLICbqq DT ObRqhx - hQ DIkkqb YFIk RL kFq LRkEIkRQh Qb bqLEnk R LkRnn wqnRqSq kFIk IL nQhC IL kFqbq RL nROq kFqbq RL FQWq Ihx hQk Inn RL nQLk - Rk'L AELk kFq OqqnRhC QO xqLWIRb kInpRhC ObQD TQE - R FQhqLknT xQh'k kFRhp LQ - Rk'L I wIx xIT Qb Yqqp Qb kRDq wEk hQk OQbqSqb - kFqbq RL LkRnn FQWq xqIb Qhq hQk Inn RL nQLk...
+
+p:xQh'k xQ hQkFRhC
+p:JIh'k xQ hQkFRhC
+p:xQRhC hQkFRhC
+
+b:LQDqkRDqL hQkFRhC RL Inn Yq JIh xQ R CEqLL :/ xQh'k wqIk TQEbLqnO EW xqIb ObRqhx - Rk'L Inn bRCFk - YFqh kFq kRDq JQDqL TQE'nn ORhx YFIk kQ xQ YRkF TQEbLqnO
+b:R xQh'k xQ DEJF YRkF DTLqnO Tqk LkRnn R ID JQhkqhk YRkF DT nROq R CEqLL - Yq JIh QhnT xQ YFIk Yq Oqqn Yq JIh Qb YFIk Yq Oqqn RL bRCFk - xQh'k Oqqn CERnkT RO TQE xQh'k xQ DEJF - TQE xQh'k QYq I kFRhC kQ IhTQhq TQE xQh'k hqqx kQ WbQSq I kFRhC kQ IhTQhq - wq CnIx YRkF YFIk TQE FISq...
+
+p:LFQbkICq Rh DqxL
+p:LFQbkICq Rh DT DqxL
+p:LFQbkICq Rh JnQhqM
+p:hQ JnQhqM
+
+b:TqL kFqbq RL InYITL I LFQbkICq YRkF DqxL Ihx LkEOO Yq hqqx kQ LEbSRSq... Rk'L hQk kFq ORbLk kRDq hQb kFq nILk kRDq kFqbq RL I LFQbkICq Rh DqxL wEk Yq xQ YFIk Yq JIh kQ LEbSRSq - xQh'k xqLWIRb DT ObRqhx TQE YRnn LEbSRSq kFRL - Rk'L hQk AELk TQEb WbQwnqD Rk'L I YQbnx JbRLRL Qb I JbRLRL Rh kFq YFQnq JQEhkbT Ihx TQEb xQJkQb YRnn FqnW TQE Cqk kFbQECF kFRL FIbLF kRDqL... FISq OIRkF QF wbQkFqb CQx RL YRkF TQE Ihx Fq WbQkqJkL TQE Ihx nQSqL TQE...
+b:R'D LEbq TQE'nn wq Iwnq kQ ORhx kFq LFQbkICq DqxL LQDqFQY Rh kFq WFIbDIJT - xQh'k wq LJIbqx R'D LEbq TQE'nn wq InbRCFk Rk'L AELk I kqDWQbIbT LFQbkICq Rh Qhq Qb DQbq QO TQEb DqxL wEk TQE phQY YFIk kQ xQ - CQx phQYL FQY DIhT kRDqL kFqbq YIL I LFQbkICq Rh DqxL Fqbq - wEk TQE'nn Cqk wT AELk nRpq qSqbTQhq qnLq... xQh'k wq LJIbqx kFRhC YRnn wq Qp CQx YRnn FqnW TQE Ihx LQ YRnn TQEb OIDRnT Ihx LkIOO Ihx xQJkQbL...
+
+p:kFqT FIkq Dq
+p:qSqbTQhq FIkqL Dq
+p:qSqbTwQxT FIkqL Dq
+
+b:TQE DIT Oqqn FIkbqx kQYIbxL TQE wEk xQh'k OQbCqk TQE Ibq InLQ nQSqx wT TQEb WIbqhkL Ihx OIDRnT wT Dq Ihx wT CQx - R nQSq TQE CQx nQSqL TQE TQEb DQD Ihx xIx nQSqL TQE TQEb OIDRnT nQSqL TQE - LQ hQk qSqbTQhq FIkq TQE Ihx Rk'L InLQ WIbIhQRx I wRk kQ kFRhp kFIk 'qSqbTQhq' FIkqL TQE IL DQLk nRpqnT WqQWnq Ibq kQQ wELT YRkF kFqDLqnSqL kQ JIbq Qb kQ wQkFqb FIkRhC TQE
+b:R'D LQbbT TQE Oqqn nRpq kFIk - Rh DT qMWqbRqhJq kFIk OqqnRhC RL xEq kQ WIbIhQRI Ihx hQk kbEq bqInRkT - WqQWnq Ibq kQ wELT YRkF kFqDLqnSqL Ihx YRkF kFqRb WbQwnqDL kQ JIbq Qb kQ wQkFqb FIkRhC TQE - Rh OIJk TQE Ibq wIbnqT hQkRJqIwnq... hQ Qhq FIkqL TQE wEk TQEb OIDRnT Ihx DQD Ihx xIx Ihx Dq nQSq TQE Ihx InLQ CQx nQSqL TQE qSqh RO TQE JIh'k Oqqn kFIk nQSq
+
+p:R'D hQk YqnJQDqx
+
+b:Rk'L DQLk nRpqnT LQJRIn IhMRqkT Ihx OqIb Ihx I wRk QO WIbIhQRI - R xQh'k phQY RO kFIk RL kbEq hqRkFqb xQ TQE wEk kFIk RL TQEb CEk OqqnRhCL R CEqLL :/ TQE Ibq InYITL YqnJQDq Rh DT FqIbk xqIb ObRqhx R nQSq TE Ihx LQ xQqL TEb DQD Ihx xIx LQ xQqL CQx TQE Ibq YqnJQDqx Rh kFRL YQbnx Ihx TQE xqLqbSq nQSq...
+b:R'D LQbbT TQE Oqqn EhYIhkqx Qb EhYqnJQDq kFqbq Qb IhTYFqbq - R nQSq TQE hQ DIkkqb YFIk LQ xQqL TQEb OIDRnT LQ xQqL CQx...
+
+p:nQQp xQYh Qh Dq
+p:Lqq Dq IL I nQLk JILq
+p:Lqq Dq IL I nQLk JIELq
+p:Lqq Dq IL I FQWqnqLL JILq
+p:nQQpL xQYh Qh Dq
+
+b:R'D LQbbT TQE Oqqn kFIk YIT - R YRLF R JQEnx FqnW TQE Oqqn wqkkqb xqIb ObRqhx... kQ Dq Ihx kFq QhqL YFQ kbEnT phQY TQE Ihx nQSq TQE TQE Ibq hQk FQWqnqLL Ihx Yq nQSq TQE InYITL hQ DIkkqb YFIk
+
+p:R CISq EW DT FQwwRqL
+p:R CISq EW YbRkRhC
+p:R CISq EW Qh YbRkRhCL
+p:R CISq EW WQqkbT
+p:R CISq EW Qh WQqkbT
+p:R YRnn hQk YbRkq
+
+b:R'D LQbbT kQ FqIb kFIk wEk TQE nRpq kQ YbRkq Ihx qSqh RO TQE Oqqn Rk FIL hQ SInEq Qb Rk'L hQk CQQx qhQECF Qb hQ Qhq YRnn bqIx Rk R ILLEbq TQE LQDqQhq xQqL SInEq TQEb WQqDL Ihx YbRkRhCL AELk nRpq hQkFRhC RL Rh SIRh TQEb nROq Ihx TQEb WQqkbT YIL hQk Rh SIRh... WnqILq xQh'k wq xRLJQEbICqx Ihx pqqW YbRkRhC TQEb wqIEkROEn WQqDL... kFRL wIx kRDqL YRnn WILL IYIT Ihx TQE'nn Oqqn wqkkqb R'D LEbq...
+
+p:R YIhk kQ nqIbh
+
+b:R wqnRqSq Rh TQE InYITL Ihx TqL R wqnRqSq TQE JIh xQ Rk Ihx nqIbh YFIkqSqb TQE YIhk qSqh nqIbh*
+
+p:R'Sq YILkqx DT nROq
+p:R ID YILkRhC DT nROq
+p:R'D YILkRhC DT nROq
+p:R FISq YILkqx DT nROq
+
+b:R xQh'k kFRhp LQ DT ObRqhx JIELq kFIk JIh wq LIRx Qh AELk IwQEk qSqbTQhq QO EL Rh I YIT - R kFRhp YFIk DIkkqbL RL kFIk TQE Ibq xQRhC Ihx FISq xQhq YRkF TQEb nROq YFIk TQE xqLRbqx kQ xQ YRkF kFqD - TQE Ibq nRSRhC Obqq kQ xQ YRkF TQEb nROq IL TQE JFQQLq - hQk DIhT FISq Qb FIx kFIk nEMEbT DT ObRqhx - TqL TQE Ibq InQhq TqL TQE Ibq SqbT InQhq Rh TQEb nROq wEk TQE xQhq Ihx xQRhC YRkF TQEb nROq YFIk TQE YIhk YRkF kFqD - Ik nqILk TQE Ibq Obqq kQ WEbLEq FIWWRhqLL qSqh RO kFIk FIWWRhqLL RL QhnT kqDWQbIbT Ihx xQqLh'k nILk Qb qSqh RO Rk xQqLh'k JQDq LkRnn TQE FISq I wILRJ CQQx nROq R kFRhp TQE CQk CQQx kFRhCL Ihx CQQx WqQWnq Rh TQEb nROq - WnqILq xQh'k WEk TQEbLqnO xQYh xQh'k kqnn TQEbLqnO TQE Ibq YILkRhC TQEb nROq - Rk'L nROq TQE CQk kQ xQ LQDqkFRhC YRkF kFqD LQ Ik nqILk TQE Ibq xQRhC YRkF kFqD YFIk TQE YIhk...
+
+p:R ID YQbkFnqLL
+p:R'D YQbkFnqLL
+
+b:WnqILq xQh'k LIT kFIk DT xqIb ObRqhx - Rk'L hQk TQEb OIEnk Qb IhTQhq'L OIEnk kFIk TQE Ibq LEOOqbRhC ObQD DqhkIn RnnhqLL WnqILq xQh'k wqIk TQEbLqnO EW - TQE Ibq xQRhC YFIk TQE JIh YRkF YFIk TQE FISq - kFqbq RL hQkFRhC DQbq TQE JIh xQ - Ihx kFIk'L DQbq kFqh QkFqbL xQ YRkF kFqRb nRSqL - R nQSq TQE DT xqIb ObRqhx TQEb DQD Ihx xIx nQSq TQE TQE Ibq nQSqx Rh kFRL YQbnx Ihx Rh kFRL nROq WnqILq nQQp Ik kFq wbRCFk LRxq QO kFRhCL hQk Ik kFq xIbp...
+b:R Oqqn TQEb WIRh Ihx R AELk YIhk kQ kqnn TQE 'kFRL kQQ LFqnn WILL' kQDQbbQY Qb hqMk Yqqp Qb hqMk DQhkF TQE'nn Oqqn wqkkqb R'D LEbq Yq Inn FISq DQDqhkL nRpq kFIk R nQSq TQE DT ObRqhx LQ xQqL TQEb WIbqhkL Ihx OIDRnT Ihx nQSqx QhqL TQE Ibq hQk YQbkFnqLL kQ kFQLq YFQ nQSq TQE - TQEb nROq RL hQk Rh SIRh Ihx TQE Ibq hQk YQbkFnqLL... RO R JQEnx R YQEnx CRSq TQE I FEC <3
+b:R phQY kFq OqqnRhC SqbT Yqnn DT ObRqhx qSqbTQhq FIL kFIk kFQECFk Qb OqqnRhC Rh kFqRb FqIx - kbT kQ kInp IwQEk Rk YRkF LQDqQhq YFQ TQE'nn Oqqn YRnn nRLkqh kQ TQE Ihx YRnn JQDOQbk TQE - R wqnRqSq Rh TQE Ihx R'D TQEb ObRqhx Ihx R nQSq TQE InYITL...
+
+p:WELFqx WqQWnq YIT
+p:WELFqx qSqbTQhq IYIT
+p:WELFqx IYIT
+
+b:Rk'L Inn bRCFk DT ObRqhx - AELk nRpq TQE WELFqx kFqD IYIT TQE YRnn wq Iwnq kQ CIkFqb kFqD wIJp kQ TQE YFqh TQE'nn Oqqn wqkkqb - Ihx kFQLq YFQ phQY TQE Ihx nQSq TQE YRnn wq kFqbq OQb TQE YFqhqSqb TQE hqqx kFqD... xQh'k wq xRLJQEbICqx hQkFRhC RL nQLk...
+b:Yqnn TQE FISq I DqhkIn RnnhqLL Ihx Rk'L hQk TQEb OIEnk TQE AELk IJk kFq YIT TQE xQ JIELq TQE xQh'k Oqqn CQQx Qb bRCFk LQDqkRDqL - kFq WqQWnq YFQ JIbq Ihx nQSq TQE kbEnT Ihx kFQLq YFQ kbEnT CRSq I LFRk IwQEk TQE phQY wqkkqb kFqh kQ AExCq LQDqQhq YRkF DqhkIn RnnhqLL Rh xRLkbqLL...
+b:Rk'L FIbx kQ ORhx ObRqhxL Ihx Cqk JnQLq kQ WqQWnq RO TQE LEOOqb ObQD WIbIhQRI Ihx ObQD LJFRNQWFbqhRI - kFQLq YFQ kbEnT EhxqbLkIhx kFIk phQY wqkkqb kFqh kQ AExCq TQE IL TQE LkbECCnq YRkF TQEb RnnhqLL...
+b:R ID LkRnn Fqbq LQ RL TQEb WIbqhkL LQ Ibq kFq WqQWnq QhnRhq Rh LEWWQbk JFIkL Qb YFQ phQY IwQEk TQEb JQhxRkRQh - WqQWnq LkRnn Ibq Rh TQEb nROq qSqh RO kFqT Ibq ObQD kFq xRLkIhJq - JFqqb EW TQE FISqh'k WELFqx IYIT IhTQhq qMJqWk I OIpq ObRqhxL YFQ QhnT Wbqkqhxqx kQ JIbq IwQEk TQE kFq QhqL YFQ kbEnT JIbq Ihx nQSq TQE Ibq Ihx YRnn InYITL wq wT TQEb LRxq qSqh ObQD kFq xRLkIhJq...
+b:IL LQQh IL TQE JInD xQYh Ihx kInp LqhLq Ihx IJk LIhq kFQLq YFQ JIbq IwQEk TQE Ihx bqDqDwqb TQE YRkF nQSq YRnn Cqk JnQLqb kQ TQE Ihx YRnn wq kFqbq OQb TQE - R'D LQbbT ObRqhx TQE Ibq hQk OqqnRhC Yqnn Qb FIx I FIbx kRDq...
+
+p:YFIk xQ TQE wqnRqSq Rh
+p:xQ TQE FISq OIRkF
+p:Ibq TQE I wqnRqSqb
+p:YFIk RL TQEb wqnRqO
+p:YFIk Ibq TQEb wqnRqOL
+
+b:R wqnRqSq Rh I CQQx DqbJROEn CQx Ihx Rh kFq pRhCxQD QO FqISqh - R wqnRqSq kFIk qSqh kFQ kFq YQbnx RL JbEqn Ihx nROq RL FIbx Ihx WqQWnq Ibq wIx - kFqbq RL I CQQx DqbJROEn CQx YFQ nQSqL qIJF Ihx qSqbT Qhq QO EL Ihx Fq CRSqL EL nROq Ihx YIhkL EL kQ wq FIWWT Ihx kQ nQSq Qhq IhQkFqb... kFIk RL DT OIRkF JInn Dq I JbINT OQQn Qb Ih Qnx RxRQk R xQh'k JIbq :/
+
+p:88 OD
+p:88OD
+
+b:TqL R bqDqDwqb FQY Yq ELqx kQ nRLkqh kQ 88 jH bIxRQ LkIkRQh kQCqkFqb DT ObRqhx Inn xIT Ihx DQLk QO kFq hRCFk kFQLq Yqbq CQQx kRDqL R CEqLL xqLWRkq kFq FIbLF bqInRkT Yq Yqbq nRSRhC - kQ nRLkqh kQ wnEqL Ihx AINN DELRJ qSqbT qSqhRhC Ihx Inn hRCFk LEJF wqIEkROEn LQhCL R DRLL Rk xqIb ObRqhx AELk nRpq R DRLL TQE Ihx Dq nRSRhC kQCqkFqb IL bQQDDIkqL Rh WbQkqJkqx FQELRhC - FQYqSqb nROq CQqL Qh R CEqLL...
+b:TqL R bqDqDwqb 88 jH LkIkRQh - 'kFq wqLk DELRJ Qh kFq bIxRQ' hQ hqYL hQ JQDDqbJRInL AELk CQQx DELRJ 90L 80L 70L 60L Ihx wnEqL Ihx AINN - TQE YQh'k ORhx LEJF CQQx DELRJ Qh kFq bIxRQ kFqLq xITL Ihx Rk LIx kFqT LFEk kFIk LkIkRQh xQYh - kQxIT Inn LkIkRQh wbQIxJILk WQW DELRJ OQb TQEhC WqQWnq hQk OQb Qnx WqQWnq nRpq EL... Rk'L hQk QEb kRDq QEb kRDq FIL WILLqx R CEqLL Ihx hQY R Oqqn LIx I wRk...
+
+p:kFq Qnx FQELRhC
+
+b:TqL R bqDqDwqb EL kFqbq kQCqkFqb IL bQQDDIkqL - wQT Rk YIL wQkF CQQx Ihx wIx kRDqL kFq QkFqb bQQDDIkqL CISq EL LEJF WbQwnqDL Ihx Yq Yqbq IwELqx wT kFQLq JbINT WqQWnq - kQxIT R AELk YIhk WqIJq Ihx oERqk
+b:Rk YIL kFq CQQx kRDqL Ihx kFq wIx kRDqL - R'D hQk LQbbT Yq Yqhk kFbQECF kFqD wEk R xQh'k DRLL Rk kFIk DEJF hQb YRnn R YIhk kQ CQ QSqb Rk ICIRh - R'D LEbq TQE JIh ICbqq YRkF Dq Qh kFIk... kQxIT R FQWq TQE Ihx Dq Ibq Rh I DEJF wqkkqb WnIJq
+
+p:R xQh'k phQY FQY kQ JQxq
+p:R xQh'k phQY FQY kQ WbQCbID
+p:R'D hQk I WQqk
+p:R LEJp Ik WQqkbT
+p:R LEJp Ik WbQCbIDDRhC
+p:R LEJp Ik JQxRhC
+p:R'D hQk I WbQCbIDDqbL
+p:R'D hQk I JQxqb
+p:DT WQqkbT LEJp
+p:DT WQqDL LEJp
+p:DT JQxRhC LEJp
+p:DT WbQCbIDDRhC LEJp
+
+b:Yqnn DT ObRqhx TQE LEbq phQY Rh WQqkbT Ihx Rh WbQCbIDDRhC DQbq kFqh Dq Qb DQLk WqQWnq QEk kFqbq LQ R'D LQbbT TQE Ibq wqIkRhC TQEbLqnO EW... YFIk DIpqL TQE LIT Qb kFRhp kFIk? YFT kFq nQY qLkqqD? TQE JQxq JFIkwQkL Ihx QkFqb IWWL YRkF CER Ihx kqMk kQ LWqqJF Qb CIDqL YRkF CbIWFRJIn LJbqqh Qb TQE ELq qMkqbhIn nRwbIbRqL Ihx TQE nqIbh LQDqkFRhC hqY qIJF xIT Ihx Yqqp kFIk WILLqL Ihx TQE pqqW YQbpRhC Qh Dq Ihx DIpRhC Dq wqkkqb LQ YFT? YFT LIT Qb kFRhp kFIk IwQEk TQEbLqnO? R xQh'k phQY DIhT WqQWnq YFQ phQY IL DEJF IL TQE xQ Rh WbQCbIDDRhC Rh ObqqwILRJ - LQ IhTYIT R kFRhp TQE Ibq IDINRhC!
+b:TQE WEwnRLFqx 5 wQQpL Ihx TQE JQxq Ihx WbQCbID kFq IWWL Ihx JFIkwQkL TQE YRLF - LQ YFT xQ TQE wqIk TQEbLqnO EW? TQE nqIbh Ihx Cqk wqkkqb qIJF xIT Ihx Yqqp kFIk WILLqL - DITwq TQE OQbCQkkqh FQY nRkknq Qb hQkFRhC TQE phqY Ik ORbLk? DITwq kFq kFbRnn RL CQhq? IhTYIT TQE JQhkRhEq JIELq kFqbq RL hQkFRhC qnLq Ihx TQE nRpq Rk xqLWRkq qSqbTkFRhC - LQ pqqW Rk EW Ihx xQh'k LIT Qb kFRhp TQE LEJp Ik Rk JIELq TQE Ibq hQk...
+b:xqLWRkq FQY TQE wqIk TQEbLqnO EW AELk hQY TQE phQY DQbq IwQEk WQqkbT Ihx WbQCbIDDRhC kFqh 98 WqbJqhk QO WqQWnq QEk kFqbq - LQ TQE DELk wq xQRhC LQDqkFRhC bRCFk hQ? LQ TQE DELk nRpq Qb nQSq YFIk TQE xQ - R YRLF R JQEnx nqIbh YFIk TQE InbqIxT phQY R QhnT nRLkqh kQ kFq bIxRQ TQE phQY kQ ELq I JQDWEkqb Ihx I LDIbk WFQhq Ihx kQ YbRkq wqIEkROEn WQqDL Ihx kQ JQxq JFIkwQkL Ihx LkEOO - R'nn hqSqb wq Iwnq kQ xQ kFQLq kFRhCL - TQE DIT kFRhp TQE LEJp wEk R qhST TQE OQb YFIk TQE phQY
+b:qSqbTkFRhC RL bqnIkRSq DT ObRqhx - TQE phQY OIb DQbq kFqh R xQ IwQEk Inn kFQLq kqJFhQnQCT CIxCqkL Ihx YFIk Ihx FQY kQ ELq kFqD - DT IxSRJq RhLkqIx QO wqIkRhC TQEbLqnO EW - kbT DIpq kFq DQLk QO Rk DT xqIb ObRqhx - kRDq Ihx nROq WILLqL Ihx RO TQE xQh'k ELq Rk Rk CQqL kQ YILkq... R kFRhp TQE Ibq YQhxqbOEn Ihx R qSqh qhST TQE...
+
+p:Rk'L Inn LFRk
+
+b:R'D LQbbT Rk FIWWqh kQ TQE :( Ihx R'D LQbbT TQE Oqqn nRpq kFIk... TqL LQDqkRDqL nROq RL AELk hQk OIRb R'D LQ LQbbT DT ObRqhx TQE CQk kbqIkqx kFIk YIT R QOOqb TQE JQDOQbk Rh IhTYIT WQLLRwnq - DT IxSRJq RL AELk OQbCqk kFq wIx qSRn WqQWnq Ihx AELk kbT kQ JQhkRhEq kQ xQ YFIk TQE JIh YRkF YFIk TQE FISq... AELk bqDqDwqb kFqbq Ibq InYITL wIx qSRn WqQWnq qSqbTYFqbq wEk xQh'k nqk kFIk xRLJQEbICq TQE - TQE Ibq YQhxqbOEn WnqILq JQhkRhEq kQ xQ YFIk TQE JIh Ihx JQhkRhEq Qh...
+
+p:OIhIkRJ
+p:OIhIkRJL
+
+b:OIhIkRJRLD Ihx qMkbqDRLD RL hQk CQQx Ihx hQk FqInkFT Ihx hQk CQQx OQb hQwQxT FQYqSqb Yq nRSq Rh I YQbnx OEnn QO FIkbqx OqIbL RChQbIhJq Ihx qMkbqDRLkL :( R wqnRqSq Rh nQSq Ihx DqbJT Rh CbIJq Ihx pRhxhqLL kFIk RL kFq hIkEbq QO DT CQx Ihx hQk kFq bqSqhCqOEn CQx DIhT WqQWnq wqnRqSq Rh - R xQh'k phQY RO kFqbq RL I Fqnn OQb LRhhqbL wEk R xQ phQY CQx nQSqL qSqbTQhq Ihx RhJnExRhC TQE Ihx Dq Ihx Fq YIhkL EL Rh FRL pRhCxQD Rh FqISqh... :/
+
+p:RLbIqn
+
+b:R WbIT OQb WqIJq OQb RLbIqn Ihx kFq YFQnq YQbnx - nRSRhC Fqbq RL LQ xROORJEnk - Rk'L I YIb NQhq Ihx kFqbq RL InYITL YIbL Ihx kqbbQb Ihx JbRLRL Ihx JRSRn EhbqLk :( LQDq LIT Yq YRnn hqSqb phQY WqIJq hQk IDQhC QEbLqnSqL Ihx hQk YRkF QEb hqRCFwQbL... R nRSqx Inn DT nROq Ihx Lqqh DIhT YIbL Ihx kqbbQb IJkL :( R xEhhQ YFIk kQ LIT R Oqqn nRpq JbTRhC 
+
+p:FQY YIL TQEb xIT
+
+b:kQxIT R YIL EW Inn hRCFk nRLkqhRhC kQ kFq bIxRQ Ihx xQRhC I wRk QO LWQbk kFqh Ik kFq DQbhRhC R YIL Ik kFq CbQJqbRqL LkQbq Ihx wQECFk LQDq OQQx Ihx IOkqb kFIk R Yqhk kQ kFq YQbp Jqhkqb OQb DqhkInnT Rnn Ihx R YQbpqx kFqbq kRnn hQQh kFqh R Yqhk wIJp FQDq Ikq nEhJF kQQp DqxL Ihx Yqhk kQ LnqqW kRnn kFq nIkq qSqhRhC kFqh R YQpq EW Ihx xQhq DT bQEkRhq ICIRh... FQY YIL TQEb xIT?
+b:R YIL Ik DT xQJkQb'L IWWQRhkDqhk Ihx kFqh R Yqhk kQ kFq WFIbDIJT kQ wET DT DqxL kFqh R JIDq FQDq Ihx nRLkqh kQ DELRJ Qh kFq bIxRQ - kFIk'L WbqkkT DEJF Rk FQY YIL TQEb xIT?
+b:R Yqhk qIbnT Rh kFq DQbhRhC kQ kFq WIbp Ihx R wQECFk LQDq JQQpRqL Ik I nQJIn wIpqbT kFqh R Yqhk FQDq R LIY DT LQJRIn YQbpqb kQxIT Ihx FQELq CERxq Ihx R xRx DT JnqIhRhC xEkT OQb kFq WbQkqJkqx FQELRhC - kFIk'L DQLknT Rk - FQY YIL TQEb xIT DT ObRqhx?
+b:Rk YIL I bqCEnIb LIkEbxIT R nRLkqh kQ LQDq DELRJ Qh kFq bIxRQ Ihx R YIL kFRhpRhC IwQEk TQE Dq DT WILk Ihx LkEOO nRpq kFIk - R FQWq TQEb YqqpqhxL Ibq CQQx DT ObRqhx - kbT kIpRhC kFRhCL qILT...
+
+p:R Yqhk kQ
+
+b:R Lqq Ihx FQY YIL Rk Ik*
+b:FQY xRx TQE Oqqn CQRhC kQ*
+
+p:kFqT Ibq Inn RxRQkL
+p:qSqbTQhq RL Ih RxRQk
+p:qSqbTwQxT RL Ih RxRQk
+p:Yq Ibq Inn RxRQkL
+p:Yq Ibq RxRQkL
+
+b:RL I LqhLq Rk RL LIxnT kbEq - Yq Ibq Inn QSqb JQhLEDqx YRkF QEbLqnSqL kFIk Yq JIhhQk Lqq kFq nIbCq wRC WRJkEbq hQb JIh Yq kbEnT EhxqbLkIhx YFIk kbEnT DIkkqb Qb kbEnT RDWQbkIhk - kFRL RL YFT R kFRhp QhnT CQx JIh Lqq 'kFq wRC WRJkEbq' hQY xITL IL Yq nRSq Rh I JQhOELRhC kRDq kQQ DEJF RhOQbDIkRQh Ihx xRL-RhOQbDIkRQh :/
+b:R EhxqbLkIhx YFT TQE Oqqn kFRL YIT IL kFRL RL kbEnT I JQhOELRhC kRDq kQ DEJF RhOQbDIkRQh kQ nRkknq kRDq DIpqL WqQWnq WbqOqb kQ LFEk RhkQ kFqDLqnSqL Ihx hQk JIbq OQb kFq wRC WRJkEbq - kQ wq FQhqLk R xQh'k kFRhp IhTQhq wEk CQx JIh Lqq 'kFq wRC WRJkEbq'
+b:Yq Ibq Inn LqnORLF RxRQkL Ihx hQh QO EL DIkkqb Rh kFq qhx Rh kFRL YQbnx - R CEqLL kFIk RL YFIk TQE JIh LIT OQb LEbq LIxnT :(
+
+p:Yq Ibq Inn InQhq
+p:Yq Ibq InQhq
+
+b:TqL Ihx hQ - TqL Yq Ibq InQhq Qb Yq Oqqn nQhqnRhqLL Ihx kQ qLJIWq Rk Yq QJJEWT QEbLqnSqL YRkF DIhT QJJEWIkRQhL Ihx Yq pqqW wqRhC 'wELT' YRkF QEb qSqbTxIT nRSqL - I AQw I JIbqqb FQwwRqL OIDRnT pRxL wELRhqLLqL qkJ.. qkJ... wEk OQb kFq DQLk WIbk Yq Ibq InQhq Rh kFq YQbnx Yq AELk DIpq LEbq kQ OQbCqk kFIk - wEk Rh I YIL Rh I Lqk QO DT QYh WqbLQhIn wqnRqOL Yq Ibq I WIbk QO LQDqkFRhC wRCCqb kFqh QEbLqnSqL Yq Ibq I WIbk QO nROq Qh qIbkF Ihx I WIbk QO CQx'L JbqIkRQh Ihx TqL Yq Ibq I WIbk QO CQx Ihx CQx RL I WIbk QO EL hQ DIkkqb FQY Yq JQhJqRSq kFRL xRSRhq JQhJqWk LQ Rh I YIT qSqbTQhq Ihx qSqbTkFRhC RL FQnT Ihx Ik kFq LIDq kRDq hQk...
+b:Rh IxEnk nROq Yq Inn YQbLFRW LQDqkFRhC YFqkFqb Rk'L DQhqT Qb qCQ Qb wqIEkT Qb Ibk Qb xRSRhq RxQnL Qb YRLxQD qkJ... qkJ... Yq FISq CQhq LQ ILkbIT ObQD YFIk'L kbEq Ihx ObQD YFIk FISq kbEq SInEqL Yq JIhhQk Lqq kFq kbEkF ObQD Inn kFq nRqL - Rk RL I kRDq QO CbqIk JQhOELRQh Ihx WqQWnq LkRJp kQ kFqDLqnSqL Ihx Oqqn InQhq qSqh nRSRhC kFqRb YFQnq nRSqL InQhq OqqnRhC xRLJQhhqJkqx ObQD CQx Ihx DqIhRhC - Rk RL I LIx kRDq kQ nRSq Rh DT ObRqhx OQb kFq xIbphqLL RL CbqIk Ihx WqQWnq JIhhQk Lqq kFq kbEq nRCFk QO CQx LQ TqL Yq Ibq Inn wnRhx Ihx nQLk Ihx InQhq Rh kFRL YQbnx...
+b:Rk DIpqL Dq LIx wEk R DELk ICbqq YRkF YFIk TQE LIT - WqQWnq nRSq kFqRb nRSqL InQhq Ihx xRq Rh kFqRb nQhqnRhqLL DRnnRQhL QO DRnnRQhL QO nQhqnT WqQWnq nRpq EL YFQ nQLk OIRkF Rh LQJRqkT Qb RhkqbqLk Rh ObRqhxL OIDRnT Ihx wQhxRhC YRkF QkFqbL - Yq Ibq Inn InQhq Ihx qSqh RO TQE wqnRqSq Qb hQk Rh CQx Yq Ibq nqOk InQhq IL RO nqOk wqFRhx - R WbIT OQb EL Inn kQ ORhx FQWq Rh kFRL nQhqLQDq xIbphqLL DT ObRqhx...
+
+p:R'D xQRhC hQkFRhC
+p:qSqbTkFRhC RL Rh SIRh
+p:qSqbTkFRhC Rh SIRh
+p:R LkIT InQhq
+p:Rk'L Inn Rh SIRh
+p:hQkFRhC FIWWqhL
+
+b:kFq DIRh kFRhC RL kFIk TQE pqqW Qh kbTRhC - LQDqkRDqL kQ pqqW kbTRhC RL DQbq RDWQbkIhk kFqh LEJJqqxRhC - TQE JIh hqSqb phQY Ihx IL nQhC IL TQE pqqW kbTRhC Ihx xQRhC LkEOO kFIk TQE kFRhp DIkkqbL kQ TQE TQE nqIbh ObQD Rk - kRnn ORhInnT Qhq xIT TQE LEJJqqx kQ Lqq kFq 'wRC WRJkEbq' YFIk qSqb Rk DIT wq OQb TQE DT ObRqhx...
+b:hQ DIkkqb RO TQE Oqqn TQE LEJJqqx Qb hQk kFq DIRh kFRhC RL kFIk TQE DELk pqqW kbTRhC kQ xQ YFIk TQE JIh YRkF YFIk TQE FISq - kFIk RL xQh'k wq xRLJQEbICq Ihx xQh'k OInn kQ xqLWIRb wEk pqqW Qh kbTRhC YFIkqSqb TQE Ibq xQRhC Rh nROq - LQDqkRDqL LqqRhC 'kFq wRC WRJkEbq' RL I nROq YQbp DT ObRqhx - TQE CQk WILLRQh Ihx DIhT FQwwRqL xQh'k CRSq EW Qh kFqD AELk JIELq TQE Oqqn kFqT xQh'k kIpq TQE IhTYFqbq - FISq OIRkF Rh TQEbLqnO Ihx Rh CQx - CQx nQSqL TQE Ihx WbQkqJkL TQE Ihx Fq YRnn wq kFqbq kQ LInSICq TQE Rh kFq qhx - AELk nRpq qSqbTQhq qnLq - kRnn kFqh TQE CQk kQ pqqW Qh kbTRhC xQRhC TQEb wqLk YRkF YFIk TQE CQk...
+b:Rk'L hQk Rh SIRh AELk nRpq nROq Rh hQk Rh SIRh - TQE Ibq LkbECCnRhC kQ ORhx DqIhRhC Ihx kbEkF Rh kFRL YQbnx Ihx Rh TQEb nROq - Rk'L I CQQx WEbWQLq - LQ xQh'k CRSq EW Ihx xQh'k wIJp xQYh - CQx YRnn LFQY TQE kFq YIT kQ I wqkkqb WnIJq Ihx Fq YRnn WbQkqJk TQE Ihx Fq nQSqL TQE AELk nRpq qSqbTQhq - FISq OIRkF Rh CQx xqIb ObRqhx - TQEb nROq RL hQk Rh SIRh...
+
+==p:kFq bqCRDq
+==p:kFRL bqCRDq
+
+==b:kFRL bqCRDq RL FQbbRwnq I CbQEW QO OIhIkRJL Ihx bIJRLk AqYRLF OILJRLkL FISq kIpqh JQhkbQn QO kFq JQEhkbT - kFqbq YRnn wq wnQQx LFIxq Ihx kqbbQb Ihx YIbL Ihx WqbLqJEkRQhL Ihx bqnRCRQEL nIYL nRpq Rh kFq DqxRqSIn kRDqL RLbIqn RL nQLk R'D IObIRx R WbIT OQb TQE Ihx Dq Ihx OQb kFRL nIhx OQb wqkkqb kRDqL :(
+
+p:FQY R'nn wq bqDqDwqbqx
+p:FQY YRnn R wq bqDqDwqbqx
+p:YFQ YRnn bqDqDwqb Dq
+
+b:TQE YRnn wq bqDqDwqbqx IL I WQqk Ihx I YbRkqb Rh xROORJEnk kRDqL YFQ LEOOqbqx OQb FRL Ibk Ihx nROq Ihx YFQ LEOOqbqx ObQD DqhkIn RnnhqLL Ihx nRSRhC Ehxqb kFq LkRCDI - TQE DELk nQQp Qh TQEb LqnO hQk ObQD kFq 'qTqL QO kFq hqRCFwQbL' WQRhk QO SRqY wEk ObQD kFq WQRhk QO SRqY QO RhORhRkT Ihx kFq xRSRhq - TQE Ibq I CQQx LQEn Rh kFRL YQbnx Ihx R Ihx kFq QhqL YFQ phQY TQE Ihx CQx nQSqL TQE DT ObRqhx Ihx qSqh RO kFq YQbnx RL I wIx WnIJq OEnn QO qSRn WqQWnq TQE YRnn wq bqDqDwqbqx IL LQDqQhq YFQ kbRqx kQ xQ CQQx Rh I CbqIk xIbphqLL Ihx qSRn WnIJq...
+b:CQx YRnn bqDqDwqb TQE YRkF nQSq Ihx LQ YRnn CQQx FQhqLk WqQWnq Rh OEkEbq CqhqbIkRQhL - qSRn WqQWnq YRnn hQk wQkFqb IL kFqT Ibq wnRhx ObQD kFqRb qSRnhqLL Ihx FIkbqx  
+b:CQx phQYL YFQ RL CQQx Ihx xQqL CQQx Ihx YFQ RL qSRn Ihx JQbbEWk Rh FRL FqIbk - CQx YRnn OQbCRSq TQE Ihx JFqbRLF TQE Ihx TQEb LQhCL Ihx WQqDL - CQx phQYL FQY DEJF TQE LEOOqb Rh TQEb nROq wT qSRnhqLL Ihx qSRn WqQWnq Ihx Fq LFqnn LInSICq TQE ObQD TQEb qhqDRqL...
+
+p:qSRn Dqh
+p:qSRn WqQWnq
+
+b:FISq hQ OqIb QO qSRn WqQWnq Qb QO YFIk DRCFk wq Rh kFq OEkEbq - CQx RL WbQkqJkRhC TQE xqIb Qhq Ihx CQx YRnn WEhRLF Inn qSRn xQqbL Ihx IwELqbL Ihx qSRn WqQWnq - kFqT YRnn hQk FEbk TQE OQb RO kFqT YRnn CQx LFqnn LkbRpq kFqD Ihx JEk kFqD xQYh - TqL kFq YQbnx RL I xIbp WnIJq OEnn QO qSRn WqQWnq wEk CQx LFqnn LInSICq TQE ObQD Inn TQEb kbQEwnqL Ihx qhqDRqL... FISq OIRkF Rh CQx DT ObRqhx Ihx xQh'k OqIb IhTkFRhC Qb IhTQhq wEk CQx...
+
+p:hQ DQbq WQqDL
+p:hQ DQbq WQqkbT
+p:DT qxRkQb
+p:R'D hQk I WQqk
+p:hQ DQbq I WQqk
+
+b:R xRLICbqq R kFRhp hQY kFIk TQEb qxRkQb kQnx TQE kQ Cqk nQLk TQE YRnn OQbCqk FRD Rh Qhq Qb kYQ Qb kFbqq DQhkFL Ihx YRnn JQhkRhEq kQ YbRkq WQqDL Ihx LkQbRqL wEk OQb TQEbLqnO QhnT Ihx hQk kQ WnqILq IhT Qhq qnLq Ihx hQk kQ WEwnRLF IhTYFqbq hQk qSqh Qh kFq Rhkqbhqk - TQE'nn CQ Qh YRkF TQEb JbqIkRSq nROq JIELq TQE'nn YbRkq OQb TQEbLqnO Ihx hQk kQ IhTwQxT qnLq - TQE'nn YbRkq kQ kFq xbIYqb Ihx hQk kQ kFq WEwnRJ...
+b:TQEb qxRkQb YIL Ih qCQRLkRJ ILLFQnq Ihx hQY TQE Ibq Obqq ObQD FRD Ihx JIh YbRkq IL TQE WnqILq YRkFQEk QwqTRhC kQ IhTQhq'L bEnqL Ihx xRJkIkQbLFRW - LQ hQY TQE Ibq kbEnT Obqq ObQD kFIk ILLFQnq Ihx TQE YQh TQEb ObqqxQD - TQE DIT hQk wq JQhLRxqbqx 'I WQqk' wT kFQLq ILLFQnqL wEk YFQ JIbqL TQE YbQkq wqOQbq kFqD TQE'nn YbRkq IOkqb kFqD - AELk TQE YIRk Ihx Lqq Rh kYQ DQhkFL TQE'nn OQbCqk Inn IwQEk TQEb qxRkQb Ihx YbRkq YRkFQEk FRD wbqIkFRhC Qh TQEb hqJp... TQE Ibq Obqq DT ObRqhx :)
+b:LQ TQEb qxRkQb RL I WRqJq QO LFRk Yqnn TQE xQh'k hqqx FRD Rh kYQ DQhkFL TQE'nn OQbCqk qSqbTkFRhC Ihx YRnn wq Iwnq kQ YbRkq WQqDL Ihx LJbqqhWnITL AELk kQ TQEbLqnO OQb kFq OEh QO Rk YRkF QEk hQwQxT'L JbRkRJL Qb bEnqL Ihx TQE'nn YbRkq OQb kFq OEh kQ kFq xbIYqb hQk kQ WEwnRJRNqL Rh hQYFqbq - TQE YQh TQEb ObqqxQD DT ObRqhx AELk nRpq Rk YIL Ik kFq wqCRhhRhC Ihx OEJp TQEb qxRkQb Ihx FRL qxRkRhC Ihx FRL nRkqbIbT bqSRqY DICINRhqL... TQE'nn YbRkq TQEb kbEkF kQ TQEbLqnO YRkFQEk FRD kIpRhC JbqxRk Qh Rk Qb kbTRhC kQ JQhkbQn TQEb YbRkRhC - kFRL RL kFq wqCRhhRhC QO TQEb ObqqxQD IL I YbRkqb QhJq TQE nqk CQ QO YIhkRhC kQ WEwnRJRNq...
+b:xQh'k wq xRLJQEbICqx TQE YbQkq WQqDL Ihx LJbqqhWnITL wqOQbq FRD Ihx TQE'nn YbRkq IOkqb FRD YRkFQEk FRD - TQE ObQD hQY Qh Ibq Obqq OQb TQEbLqnO kQ YbRkq OQb WnqILEbq QhnT YRkFQEk kFRhpRhC IwQEk WEwnRLFRhC IhTkFRhC OEJp WQqkbT AQEbhInL OEJp nRkqbIbT DICINRhqL OEJp TQEb qxRkQb - TQE Ibq Obqq AELk YIRk Qhq kYQ DQhkFL Ihx TQE'nn Lqq YFIk R DqIh YFqh TQE'nn YbRkq OQb kFq OEh Ihx wqIEkT hQk OQb kFq OIpq OIDq Ihx WEwnRJIkRQhL TQE xQh'k hqqx kQ WEwnRLF IhQkFqb wQQp TQE xQh'k hqqx bqIxqbL - AELk YbRkq kQ TQEbLqnO Ihx TQE'nn bqDqDwqb FQY Rk YIL YFqh TQE LkIbkqx - xQh'k qSqb CRSq EW IL kFRL RL AELk I Lqk wIJp...
+b:TQE Ibq I WQqk Ihx TQE WQqDL Ibq CQQx qSqh YRkF QEk TQEb qxRkQb IWWbQSIn Qb FqnW - TQE xQh'k hqqx FRD TQE xQh'k hqqx IhTwQxT YFqh TQE YbRkq TQEb kbEkF kQ TQEbLqnO - RO TQEb qxRkQb RL Ih ILLFQnq kFqh OEJp FRD - TQE xQh'k YbRkq OQb OIDq Qb OQb CnQbT TQE AELk YbRkq YFIk TQE wqnRqSq Rh kQ TQEbLqnO Ihx kQ kFq xbIYqb Ihx kFIk RL TQEb SRJkQbT QSqb qSqbTwQxT... R wqnRqSq Rh TQE Ihx Rh TQEb WQqDL Ihx LJbRWkL...
+b:kbEq JbqIkRSq ObqqxQD RL kQ YbRkq kQ kFq xbIYqb Ihx hQk kQ LQDq ILLFQnq qxRkQb YFQ xQh'k CRSq I LFRk IwQEk TQE Qb kQ kFq DQw QO kFq WEwnRJ YFQ xQh'k JIbq IwQEk WQqkbT Qb LJbqqhWnITL Qb Ibk - YFqh TQE YbRkq kQ TQEbLqnO QhnT TQE Ibq kbEnT Obqq kQ qMWbqLL TQEbLqnO - kFIk RL YFIk R wqnRqSq Ihx TQE LFQEnx kQQ...
+
+p:xIhhT RL Ik kFq FQLWRkIn
+p:xIhhT'L Ik kFq FQLWRkIn
+
+b:WQQb xIhhT :( R'D LQ LQbbT OQb FRD - R'D LQ LQbbT OQb YFIk FIWWqhqx kQ FRD - wEk kFqbq RL hQkFRhC TQE Qb R JIh xQ...
+b:TQE Ibq hQ nQhCqb Rh JQhkIJk YRkF FRD TQE nqOk FRD YFqh TQE FIx hQ JFQRJq TqIbL ICQ... R FQWq Ihx WbIT Fq'nn wq QpIT...
+
+p:JQnI NqbQ
+p:JQJI JQnI NqbQ
+
+b:AELk YIkJF QEk hQk kQ xbRhp kQQ DEJF QO Rk IL Rk YRnn hQk DIpq TQE Oqqn CQQx :/
+
+p:WqbLqJEkq Dq
+p:wq WqbLqJEkqx
+
+b:TQE Ibq EhphQYh kQ kFq WEwnRJ qMJqWk OQb I OqY WqQWnq YFQ phQY TQE Ibq DqhkInnT Rnn - kFq bqCRDq Ihx WEwnRJ xQh'k CRSq I xID IwQEk TQE TQEb WQqDL Qb TQEb JQxRhC LQ - hQwQxT CRSqL I xID IwQEk TQE LQ hQ Qhq YRnn WqbLqJEkq TQE IL TQE Ibq AELk IhQkFqb hQ wQxT - RO IhT TQE YRnn LEOOqb AELk nRpq IhT QbxRhIbT JRkRNqh ObQD kFq bqCRDq...
+b:hQ Qhq YIhkL kQ FIbD TQE IL hQ Qhq phQYL TQE - TQE Ibq AELk LJIbqx Ihx WIbIhQRI ObQD kFq hqYL - kFq kbEkF RL hQwQxT CRSqL I xID IwQEk TQE Qb TQEb WQqDL Qb IhTkFRhC TQE xRx Qb xQ kQ wQkFqb WqbLqJEkq TQE - kFq bqCRDq YRnn JFIhCq Ihx YRnn wq bqnRCRQEL OIhIkRJ wEk hQwQxT JIbqL IwQEk TQE. TQE Ibq EhphQYh...
+b:hQwQxT YRnn wQkFqb kQ WqbLQhInnT WqbLqJEkq TQE - Rk'L I YILkq QO kFqRb kRDq Ihx qOOQbk - kFIk kbEkF RL hQwQxT JIbqL IwQEk TQE TQE Ibq hQk RDWQbkIhk - TQE Ibq AELk I bqCEnIb JRkRNqh Rh I LQQh kQ wq xRJkIkQbLFRW YFQ xQqLh'k JIbq IwQEk TQE...
+b:TQE nRLkqh kQQ DEJF kQ kFq hqYL Ihx Ibq WIbIhQRx LQ AELk LkQW nRLkqhRhC kQ kFq hqYL - RO kFq WqQWnq QO kFRL JQEhkbT YIhk kQ nRSq RL I OILJRLk bqnRCRQEL xRJkIkQbLFRW kFqh LQ wq Rk nqk Rk wq nqk kFqh CQ OEJp kFqDLqnSqL... kFq DIRh kFRhC RL kFIk TQE'nn wq Qp Ihx kFIk TQE'nn wq Iwnq kQ LEbSRSq hQ DIkkqb YFIk - OEJp RLbIqn OEJp qSqbTkFRhC YFIk DIkkqbL kQ Dq RL kFIk TQE'nn wq Qp Ihx JIh CQ Qh LEbSRSRhC YRkFQEk OqIb - TQE Ibq kFq QhnT kFRhC R JIbq IwQEk...
+
+p:xqnqkq DT JQDWEkqb
+p:qbILq DT JQDWEkqb
+p:OQbDIk DT JQDWEkqb
+p:xqnqkq DT QL
+p:xqnqkq YRhxQYL
+
+b:TQE FISq wqqh kFbQECF kFRL WFILq wqOQbq - kFq WbQwnqD Rh hQk YRkF TQEb JQDWEkqb wEk YRkF FQY TQE Oqqn - TQE Oqqn SqbT wIx LQ TQE YIhk kQ xqLkbQT TQEb JQDWEkqb - R YQEnx LECCqLk kFIk TQE'nn kbT ORhxRhC QEk YFT TQE Ibq OqqnRhC wIx Ihx FQY TQE JIh Oqqn wqkkqb bIkFqb kFqh qbILRhC TQEb xIkI Ihx TQEb JQDWEkqb
+b:kFq WbQwnqD RL TQE OqqnRhC wIx hQk kFq JQDWEkqb - DIT R LECCqLk kFIk TQE kbT ORhxRhC YFIk DIpqL TQE Oqqn wIx Ihx kbT kQ ORM Rk Qb DITwq kbT kIpRhC I wbqIp Qb kbT kQ RDWbQSq FQY TQE Oqqn bIkFqb xqnqkRhC TQEb QWqbIkRhC LTLkqD...
+b:R phQY FQY TQE Oqqn - TQE Oqqn Oqx EW Ihx wIx wEk xqLkbQTRhC TQEb JQDWEkqb RL hQ LQnEkRQh - kbT kQ JInD xQYh Ihx Lqq FQY JIh TQE Oqqn wqkkqb - wq pRhx kQ TQEbLqnO DT ObRqhx Ihx xQh'k xQ kFRhCL TQE'nn bqCbqk...
+
+p:R xqnqkqx Inn DT JQxq
+p:R'Sq qbILqx Inn DT JQxq
+p:R FISq qbILqx Inn DT JQxq
+p:R'Sq xqnqkqx Inn DT JQxq
+p:R FISq xqnqkqx Inn DT JQxq
+
+b:LQ hQY TQE JIh LkIbk JQxRhC wT TQEbLqnO YRkFQEk IhT kqIJFqb Ihx kFq kFRhCL TQE'nn nqIbh YRnn wq TQEbL Ihx hQk TQEb LkEWRx kqIJFqb YFQ xRJkIkqL kQ TQE FQY TQE LFQEnx JQxq... Ihx kFRL kRDq TQE'nn hQk LFIbq TQEb JQxq YRkF IhTQhq hQk Qh CRkFEw Ihx hQk Qh ObqqwILRJ OQbEDL kFRL kRDq TQE'nn JQxq AELk OQb TQEbLqnO Ihx TQE'nn nqIbh wT TQEbLqnO
+b:kFqh Rk'L I ObqLF LkIbk YRkFQEk IhT kqIJFqb Qb nRDRkIkRQhL TQE'nn JQxq Ihx WbQCbID JIELq TQE nQSq xQRhC Rk Ihx JIELq TQE JIh nqIbh wT TQEbLqnO YRkF hQ Qhq'L FqnW - TQE xQh'k hqqx IhTQhq'L FqnW - TQE JIh xQ Rk R wqnRqSq Rh TQE DT ObRqhx Ihx TQE Ibq ORhInnT Obqq kQ DIpq DRLkIpq Ihx JQbbqJk kFqD Ihx nqIbh wT TQEbLqnO...
+
+p:R xQh'k JIbq
+p:YFT LFQEnx R JIbq
+p:YFT xQ R JIbq
+
+b:LITRhC 'R xQh'k JIbq' Qb LITRhC 'YFT LFQEnx R JIbq?' DqIhL TQE il JIbq V ylt wEk TQE Ibq FEbk Ihx EWLqk LQ R'D AELk LITRhC TQE LFQEnx JIbq qSqh RO Rk RL xROORJEnk bRCFk hQY - bqDqDwqb kFIk TQE xQ JIbq IwQEk YFIk kFIk RL RDWQbkIhk kQ TQE - qSqh RO LQDq ILLFQnqL AqbpL IwELqx TQE Qb DQJpqx TQE Qb FEbk TQE - LkRnn TQE JIbq JIELq Rk'L RDWQbkIhk kQ TQE
+b:R kFRhp TQE xQ JIbq I nQk DITwq kQQ DEJF - TQE JIbq JIELq QO kFIk Rk HBVaK kQ GlU hQk kQ IhTQhq qnLq Ihx RO TQE kbT kQ 'hQk JIbq' Qb 'CRSq EW' Qh Rk - Rk DRCFk wq qSqh DQbq WIRhOEn kFqh Rk RL bRCFk hQY - LQ CRSq Rk IhQkFqb kFQECFk Qb DITwq I LqJQhx JFIhJq?
+
+p:nQSqnqLL
+
+b:TqL Yqnn R phQY YFIk TQE DqIh... Rk'L wqqh I nQhqnT nROq OQb Dq DQLk QO DT nROq... RO Rk YILh'k DT LkbQhC wqnRqO Rh CQx R xQh'k phQY FQY R JQEnx CQ Qh - Qb DITwq Rk'L kFq IJJqWkIhJq QO DT OIkq kQ wq nQSqnqLL Ihx InQhq IL I ICRhC DqhkInnT Rnn WqbLQh Rh I LQJRqkT kFIk xQh'k CRSq I xID :(
+b:kFqbq RL kQQ DEJF FIkbqx Cbqqx LqnORLFhqLL qCQ Ihx qSRnhqLL Rh kFq YQbnx LQ WqQWnq nRpq EL CQ nRSRhC kFqRb qhkRbq nRSqL YRkFQEk wqRhC nQSqx Qb YRkFQEk FISRhC qSqh Qhq kbEq ObRqhx kFqT JIh kEbh Qh - QEb OIDRnRqL xRx kFqRb wqLk wEk YFIk xQ kFqT phQY? 'kFq nQSqnqLL nROq'? kFIk'L Dq OEnnT Ihx DITwq TQE Oqqn kFq LIDq - DT xqIb ObRqhx R'D xqqWnT LQbbT OQb TQE Ihx R Ihx OQb FEDIhRkT...
+
+p:R FISq hQ ObRqhxL
+p:R FISq hQwQxT
+p:R FISq hQ Qhq
+p:R FISq hQQhq
+p:R FISq hQ bqIn ObRqhxL
+
+b:DIhT WqQWnq Ibq InQhq Rh kFRL YQbnx DT ObRqhx - DIhT Qnx Ihx TQEhC - kFqbq RL CbqIk LEOOqbRhC JIELqx wT nQhqnRhqLL Ihx wqRhC QEkJILkL Rh I LQJRqkT kFIk JFqbRLF Cbqqx WQYqb DQhqT LqnORLFhqLL LqnO-RhxEnCqhJq Ihx LEWqbORJRIn bqnIkRQhLFRW - Inn kFQLq QhnRhq bqnIkRQhLFRW Ihx LQJRIn DqxRI Ihx Rhkqbhqk xQh'k bqInnT FqnW - wEk YFT hQk LIT Rk LkbIRCFk QEk nQEx - ORhxRhC kbEq nQSq Qb I kbEq ObRqhx Rh kFRL JbINT YQbnx RL InDQLk RDWQLLRwnq - IL OQb Dq R LRDWnT CISq EW Ihx R kEbhqx kQ CQx kFIk'L Inn R JIh xQ Ihx kFIk'L Inn R phQY - TQE xQ Qb JQWq YRkF kFRL WbQwnqD kFq YIT kFq wqLk TQE JIh kFIk'L YFIk R JIh QhnT LIT - R'D LQbbT R JQEnxh'k wq QO DEJF FqnW - R AELk FQWq TQE JIh ORhx FQWq Ihx WqIJq...
+b:wqnRqSq Dq R EhxqbLkIhx YFIk TQEb LITRhC Yqnn - R kQQ FISq wqRhC InQhq Inn DT nROq IL I LQJRIn QEkJILk - RO R JQEnx R YQEnx kbT kQ JQDOQbk TQE LQDqFQY Rh I YIT kFIk LqqDL IJJqWkIwnq wEk R JIh'k R JIh QhnT kbT DT wqLk kQ wq kFqbq OQb TQE Ihx kbT kQ kqnn TQE 'GlU VZB alt VylaB' hQk qSqh Rh TQEb nQhqnRhqLL Ihx WIRh Ihx Rh OqqnRhC nQSqnqLL Ihx ObRqhxnqLL... R Ihx LQ DIhT QkFqbL Ibq CQRhC kFbQECF Qb CQhq kbQECF kFq LIDq kFRhC... DT QhnT IxSRJq RL 'YFIk qSqb pqqWL TQE kFbQECF kFq hRCFk - RL InbRCFk' xQ YFIk TQE JIh Qb DELk Rh Qbxqb kQ LEbSRSq...
+b:ObQD DT qMWqbRqhJq - kbT kIpRhC JQDOQbk ObQD kFq LDInn kFRhCL - ObQD LQDqQhq LITRhC 'FR' kQ TQE QhnRhq Qb ObQD LQDqQhq pRhx qhQECF kQ SRLRk TQE nRpq I LQJRIn YQbpqb Qb I OIDRnT DqDwqb - kFQLq pRhx QO kFRhCL kFqT DIT hQk wq DEJF wEk kFqT Ibq wqkkqb kFqh hQh.
+
+p:kFqT ELqx Dq
+p:Fq ELqx Dq
+p:LFq ELqx Dq
+p:Fq AELk ELqx Dq
+p:kFqT AELk ELqx Dq
+p:LFq AELk ELqx Dq
+
+b:kFIk'L WIbk QO nROq R'D IObIRx - R kqnn kFRL IOkqb wqRhC wqkbITqx Ihx ELqx wT AELk IwQEk qSqbTQhq YFQ phqY Dq - Rk FIWWqhL Ihx TQE Oqqn wIx EWLqk Ihx IhCbT wEk qSqhkEInnT TQE CQ Qhq Ihx OQbCqk Rk nRpq hQkFRhC FIWWqhqx - Rk'L WIbk QO nROq WIbk QO nRSRhC Rh I FIbLF YQbnx WIbk QO CbQYRhC EW - nQLRhC TQEb hIkRSRkT Ihx RhhQJqhJq wT WqQWnq YFQ ELq TQE Ihx Cqk bRx QO TQE Qb kEbh kFqRb wIJp Qh TQE...
+b:kQ wq wqkbITqx wT WqQWnq RL LQ JQDDQh Tqk Rk FEbkL qIJF kRDq Rk FIWWqhL - R'D LQbbT TQE Oqqn TQE YFqbq AELk wqRhC ELqx wT kFqD - WqQWnq JIh wq LqnORLF Ihx EhpRhx R phQY Rk SqbT Yqnn - FQYqSqb TQE CQk kQ CQ Qh Ihx pqqW Qh nRSRhC Ihx kbTRhC TQEb wqLk...
+
+p:R Oqqn LQ LIx
+p:R'D LQ LIx
+p:R ID LQ LIx
+p:R ID LQ nQhqnT
+p:R'D LQ nQhqnT
+
+b:R'D LqhxRhC TQE DT nQSq Ihx JQDOQbk - bqDqDwqb 'kFRL kQQ LFqnn WILL' hQ DIkkqb YFIk Rk DIT wq hQ DIkkqb FQY LIx Ihx FQWqnqLL kFq LRkEIkRQh LqqDL Rk YRnn WILL LQDq kRDq Qb xIT - DIT Yq phQY CQQx xITL DT ObRqhx R nQSq TQE LQ DEJF Ihx R YRLF TQE kFq wqLk <3
+b:TQE JIh xQ QhnT YFIk TQE JIh Ihx kFIk RL Qb LFQEnx wq CQQx qhQECF - R ID Fqbq DT xqIb ObRqhx Ihx R nQSq TQE - bqDqDwqb LIxhqLL Ihx nQhqnRhqLL Ibq I OqqnRhC Rk'L I LIx Ihx nQhqnT xIT hQk I LIx Ihx nQhqnT nROq Ihx kFqbq Ibq WqQWnq YFQ kbEnT nQSq TQE nRpq OIDRnT Ihx ObRqhxL - R ID LqhxRhC TQE DT nQSq Ihx FQWq TQE YRnn Oqqn wqkkqb xqIb Qhq -  R kFRhp TQE Ibq YQhxqbOEn Ihx IDINRhC Rh qSqbT YIT <3
+
+p:WILLqx IYIT
+
+b:R'D LQ LQbbT OQb TQEb nQLL - DIT TQE ORhx JQDOQbk Ihx LkbqhCkF Ihx TQEb nQSqx Qhq YFQ WILLqx IYIT ORhx WqIJq Rh FqISqh - DT xqIb Qhq R ID Fqbq kQ nRLkqh kQ Inn TQE YIhk kQ LIT kQ Dq...
+
+p:R DRLL FRD
+p:R DRLL Fqb
+p:R DRLL kFqD
+
+b:R EhxqbLkIhx :( R'D LQbbT kFqT Ibq hQk YRkF TQE IhTDQbq wEk AELk phQY kFRL - VytdlUed uB ylKB BPBZGlaB Vai BPBZGtdgae uB ylPB ga ygjB ylPB clHBK sVcz tl UK ga BaiyBKK jlZHK - R ID Fqbq OQb TQE InYITL IL nQhC IL TQE'nn hqqx Dq...
+b:LQDqkRDqL Yq QhnT phQY kQ IWWbqJRIkq kFRhCL Ihx WqQWnq QhnT IOkqb kFqT Ibq CQhq Qb DRLLRhC ObQD QEb nRSqL Ihx YFqh kFqT Ibq Rh QEb nRSqL Yq kqhx kQ kIpq kFqD OQb CbIhkqx - DT ObRqhx R'D LQbbT TQE Oqqn kFqRb IwLqhJq DT TQE ORhx hqY WqQWnq Ihx WqIJq Rh TQEb nROq...
+
+p:R'D LQ InQhq
+
+b:RO R JQEnx wq kFqbq YRkF TQE R YQEnx xQ LQ LQ TQE'nn Oqqn nqLL nQhqnT DT ObRqhx - wEk LQDqkRDq Yq JIh QhnT xQ YFIk Yq JIh - R'D LQbbT TQE Oqqn LQ nQhqnT - nQhqnRhqLL Ihx WIRh Ihx LIxhqLL RL WIbk QO nROq kFIk Yq JIh'k qLJIWq ObQD - R ID Fqbq OQb TQE IL InYITL IL TQEb OIRkFOEn JFIkwQk kQ nRLkqh kQ TQE Rh TQEb DQDqhkL QO AQT Ihx FIbxLFRW TQE JIh kqnn Dq YFIkqSqb Ihx R'nn kbT kQ pqqW TQE JQDWIhT... 
+
+p:R YIhk kQ xqnqkq
+p:R YIhk kQ qbILq
+
+b:R phQY TQE YIhk kQ xqnqkq Ihx qbILq Inn kFq kbIJpL QO TQEbLqnO ObQD kFq Rhkqbhqk Ihx CQ FRxq Ehxqb I bQJp Qb CQ wIJp Rh kRDq wqOQbq kFq Rhkqbhqk YIL wQbh CQ wIJp kQ kFq 90L Ihx 80L wEk Rk xQqLh'k YQbp kFIk YIT R'D IObIRx Ihx Rk YRnn hQk FqnW IhTQhq hQk qSqh TQE LQ DITwq kbT kFRhp QO LQDq QkFqb YIT kQ xqIn YRkF TQEb xROORJEnkT Ihx FIbxLFRW
+b:R phQY Inn kQ Yqnn kFq OqqnRhC QO YIhkRhC kQ qLJIWq ObQD kFq hqk Ihx kqJFhQnQCT wEk Rk'L hQk WQLLRwnq - R kFRhp TQE hqqx kQ OIJq TQEb xqDQhL Ihx OqIbL Ihx hQk kbT kQ LIwQkICq TQEb FIbx YQbp DT ObRqhx - WnqILq xQh'k Oqqn LQ wIx IL Rk YRnn Cqk wqkkqb R'D LEbq
+b:Yq Ibq hQk Rh kFq 90L Qb 80L kFIk TQE JIh LRDWnT 'xqnqkq qSqbTkFRhC Ihx TQEbLqnO ObQD kFq hqk' Rk'L RDWQLLRwnq LQ kbT kQ JInD xQYh Ihx xQ LQDqkFRhC qnLq Qb kIpq I wbqIp Ihx kbT hQk kQ wq kqDWkqx kQ xqnqkq LkEOO Inn TQEb FIbx YQbp OQbD TqIbL wIJp AELk JIELq TQE FISq OqIbL Qb LQDqQhq FEbk TQE - xqIn YRkF kFq xqDQhL xqIn YRkF kFq OqIbL Ihx xQh'k kbT kQ bEh IYIT - TQE FISq LIDq bRCFkL IL IhTQhq TQE xRxh'k xQ IhTkFRhC wIx Qb FIbDOEn LQ wqnRqSq TQE CQk hQkFRhC kQ OqIb qMJqWk OqIb InQhq...
+
+p:JFIkCWk
+p:QWqhIR
+
+b:lWqhVg Ihx kFqRb JFIkwQk JFIkevt RL oERkq RDWbqLLRSq FQYqSqb R xQh'k nRpq Rk - DITwq Rk'L AELk Dq wEk R kFRhp kqJFhQnQCT wbqIpRhC RhkQ Vg RL hQk InYITL I CQQx kFRhC Rk JIh qSqh wq LJIbT RO TQE kFRhp IwQEk kFq JQhLqoEqhJqL Rh kFq nQhC bEh - kQQ DEJF QO 'wqRhC FEDIh' YIL xqLkbQTqx Rh kFq WILk 20 - 30 TqIbL kFIk WILLqx LRhJq kqJFhQnQCT wqJIDq QEb RxqIn kQ YQbLFRW Ihx R xQh'k kFRhp Rk'L FqInkFT OQb LQDqQhq nRpq EL kbTRhC kQ LkIT JQhhqJkqx kQ wqRhC OEnnT FEDIh - Rk nQQpL nRpq qSqbTQhq RL wqJQDRhC JTwQbC nRpq YQbLFRWRhC kqJFhQnQCT Ihx OQbCqkkRhC kFIk QEb LkbqhCkF RL QEb FEDIhRkT
+b:JFIkevt RL SqbT RDWbqLLRSq wEk R xQh'k nRpq Rk Rk'L IhQkFqb RxqIn kQ YQbLFRW Ihx Yq OQbCqk kQ wq FEDIh - LQJRIn DqxRI Ihx LqIbJF qhCRhqL Ibq OEnn QO xRLRhOQbDIkRQh Ihx QEb kqJFhQnQCT RL LWTRhC Qh EL Ihx LqnnRhC QEb WbRSIJT OQb WbQORk - R YIL oERkq FIWWT Rh kFq 70L YRkFQEk I JQDWEkqb Qb I DQwRnq WFQhq Qb kFq Rhkqbhqk - kFqbq Yqbq DELRJ LkQbqL Ihx DQSRq kFqIkqbL Ihx LRDWnq xRIn WFQhqL Ihx Lkbqqk WFQhqL Ihx kFqbq YIL kFq wqLk DELRJ Rh kFq YQbnx Qh kFq bIxRQ - kFq DQbq Yq nQLq QEbLqnSqL Rh kqJFhQnQCT kFq DQbq Yq nQLq kQEJF Ihx wqJQDq InRqhIkqx ObQD QEbLqnSqL Ihx ObQD QEb OqnnQY FEDIh wqRhCL kFIk RL I DILLRSq nQLL RO TQE ILp Dq - kQQ DEJF YIL InbqIxT LIJbRORJqx kQ kqJFhQnQCT R kFRhp hQ?
+b:Yq nQLk LQ DIhT kFRhCL Rh kFRL CbqIk kqJFhQnQCT WbQCbqLL kFIk Yq OQbCQk kFIk TQE xQh'k hqqx Inn kFRL InRqhIkRhC kqJFhQnQCT - YFIk FIWWqhqx kQ AELk wqRhC kbEq Ihx LRDWnq? bqIn FEDIh wqRhC Rh kFq YQbnx YRkF OIDRnT Ihx ObRqhx Ihx JQDDEhRkRqL? Yq kFbQYh kFIk IYIT OQb kqJFhQnQCRJIn CIxCqkL Ihx bqWnIJqx kbEq bqIn FEDIh JQhhqJkRQhL YRkF OInLq QhnRhq JQhhqJkRQhL - Yq Yqbq hqSqb LQ InQhq Ihx Rh xRbq LkbIRkL kFq DQbq kqJFhQnQCT xqLkbQTL EL ObQD YRkFRh :/ R xQh'k JIbq OQb JFIkevt Ihx R'nn hqSqb ELq Rk...
+
+p:xRxh'k nQSq Dq
+p:R YIL hQk nQSqx
+p:xRx hQk nQSq Dq
+
+
+b:Yq Ibq wQbh kQ QEb OIDRnRqL Ihx kFqT bIRLq EL wEk kFIk xQqLh'k DqIh kFqT kbEnT nQSq EL IL kFqT Ibq DqbqnT 'xQRhC kFqRb xEkT' - Yq DIT FISq 'ObRqhxL' Ik LJFQQn Qb Rh FRCF LJFQQn Qb YFqh Yq Ibq TQEhC wEk kFqT xQh'k kbEnT JIbq Qb nQSq EL JIELq Rk'L I OInLq ObRqhxLFRW kFIk qhxL IL LQQh IL LJFQQn Qb TQEkF qhxL - kFIk RL kFq LIx kbEkF DT ObRqhx - nQSq - kbEq nQSq Rh kFRL YQbnx RL bIbq nRpq WbqJRQEL xRIDQhxL Qb CQnx - LQ TqL Yq Yqbq hQk kbEnT nQSqx IL Yq YQEnx nRpq kQ FISq wqqh nQSqx :(
+b:YFIk xQ WqQWnq phQY IwQEk nQSq? InDQLk hQkFRhC - LQDq kFRhp nQSq RL LIJbRORJRhC kQ kFq nQSqx QhqL xIT wT xIT Rh Eh LqMT YITL - LQDq wqnRqSq nQSq RL nRpq Rh kFq OIRbT kInq Qb Rh kFq DQSRqL - Rh IhT JILq hQ Qhq phQYL YFIk nQSq RL Rh kFRL YQbnx LQ xQh'k wq LEbWbRLqx RO TQE ORhx QEk hQwQxT qSqb nQSqx TQE - Rk'L JInnqx IYIpqhRhC kQ bqInRkT... hQwQxT nQSqL hQwQxT kFqLq xITL Ihx LQDq QhnT nQSq kFqDLqnSqL Ihx LQDq xQh'k qSqh nQSq kFqDLqnSqL - OEJp WqQWnq OEJp nQSq R kIpq JQDOQbk Rh CQx'L nQSq IL Fq'L nQSq RL DQbq bqIn Ihx WbqJRQEL kQ Dq kFqh kFq OIpq nQSq QO DQbkInL...
+b:R CISq EW Qh nQSq Ihx R CISq EW Qh qSqbTkFRhC nQhC ICQ - DT OIDRnT xRxh'k nQSq Dq Ihx IwELqx Dq R FIx hQ bqIn CQQx ObRqhxL - wEk R xQh'k JbT Ihx xQh'k WRkT DTLqnO OQb R xQh'k qMWqJk nQSq ObQD IhTQhq - R kEbhqx kQ CQx nQhC ICQ Ihx Fq RL DT FqIbk'L LFqnkqb IL OQb WqQWnq R CISq EW Qh kFq nQSq QO DQbkInL - FEDIh wqRhC Ibq kQQ LkEWRx Ihx kQQ LqnORLF OQb nQSq - kFIk RL DT QWRhRQh LQ R LISq DT nQSq kQ CQx hQk kQ WqkkT DQbkIn FEDIhL... :(
+
+p:qIbkFoEIpq
+p:qIbkFoEIpqL
+
+b:TqL Rk qIbkFoEIpqL Ibq kqbbROTRhC YFqh kFqT YRnn wq qIbkFoEIpqL Yq YRnn LEbnT xRq WQLLRwnT IL DIhT RO hQk DQLk Qnx wERnxRhCL YRnn JQnnIWLqL Ihx YRnn pRnn EL Qb wEbT EL InRSq :( R'D LJIbqx kQQ ObQD qIbkFoEIpqL wEk kFqbq RL hQkFRhC Yq JIh xQ qMJqWk WbIT kQ CQx - Rh IhTYIT CQx'L YRnn LFInn LkIhx YFRnq Inn LFInn JbEDwnq... wEk CQx YRnn nqk EL RhkQ FRL pRhCxQD R FQWq qSqh RO Yq xRq Rh kqbbRwnq LEOOqbRhCL
+b:qIbkFoEIpqL LFqnn wq kFq qhx QO qSqbTkFRhC IbQEhx Fqbq :( R'D LJIbqx kQQ ObQD kFqD wEk Inn R JIh xQ RL WbIT kQ CQx - kFqbq RL InYITL LQDqkFRhC kFbqIkqhRhC kQ xqLkbQT Qb pRnn EL Rh kFRL YQbnx Ihx QhnT CQx LWqIbL EL Ihx LISqL EL - LQ Yq DELk WbIT DT ObRqhx Ihx kFIhp kFq ylZi OQb FRL DqbJT...
+
+p:RbIh
+p:IkQD wQDw
+p:IkQD wQDwL
+p:YIb
+
+b:kFq gbIhRIh WqQWnq xQh'k FIkq EL Rk'L QhnT kFq gbIhRIh bqCRDq kFIk YIhkL kQ pRnn EL Ihx Ih IkQDRJ YIb YRnn pRnn Inn nROq Fqbq Ihx xqLkbQT qSqbTkFRhC :( Yq FISq QEb JQEhkbT wEk Yq xQh'k nRSq Rh WqIJq YRkF Qhq IhQkFqb Qb YRkF QEbLqnSqL Qb YRkF QEb hqRCFwQbL... R WbIT kQ CQx kFIk Rh FRL YRLxQD Ihx DqbJT Fq YRnn LFQY I YIT kQ FRL pRhCxQD :(
+b:FQY JIh kFqbq wq WqIJq RO Yq JIh'k nRSq Rh WqIJq YRkF Qhq IhQkFqb Qb qSqh YRkF QEbLqnSqL? kFqbq InYITL wqqh YIbL Rh FRLkQbT Ihx IkbQJRkRqL - kFq YQbnx RL JbEqn Ihx FRLkQbT RL YbRkkqh Rh wnQQx - Inn R FISq nqOk RL kQ JbT kQ CQx kQ LInSICq FEDIhRkT ObQD kFq JQDRhC xRLILkqbL kFIk Ibq InYITL IFqIx QO EL...
+
+p:kFq hqYL
+
+b:kFq hqYL Ibq InYITL wIx hqYL Ihx kFqT Ibq InYITL xqLRChqx kQ ObqIp TQE QEk Ihx kFq Qnxqb TQE Cqk kFq DQbq TQE bqInRNq kFqbq RL IwLQnEkqnT hQkFRhC TQE JIh xQ IwQEk Rk Yq JIhhQk JFIhCq kFRL OEJpqx EW YQbnx wEk FQWqOEnnT Yq JIh JFIhCq QEbLqnSqL Ihx DIpq LQDqkFRhC ObQD QEb nROq OQb kFq wqkkqb - kFq hqYL RL I nQLk JIELq DT ObRqhx :/
+b:Yq nRLkqh kQ kFq hqYL IL nRkknq IL WQLLRwnq AELk kQ phQY FQY wIx kFRhCL Ibq - xQh'k nRLkqh kQQ DEJF kQ kFq hqYL Ihx kbT kQ ORhx LQDqkFRhC wqkkqb kQ xQ YRkF TQEb kRDq kFIk RL DT IxSRLq...
+
+p:R'D Rh nQSq YRkF
+p:R ID Rh nQSq YRkF
+
+b:FQY xQqL Rk Oqqn kQ wq Rh nQSq YRkF*
+b:YFT xQ TQE Oqqn nRpq kFIk kQYIbxL*
+b:kqnn Dq DQbq R'D LQ FIWWT kQ FqIb kFIk! kqnn Dq Inn IwQEk*
+
+p:R Oqqn nQSq
+
+b:QF! kFIk RL I ObqLF IRb kQ QEb JQhSqbLIkRQhL! R'D FIWWT OQb TQE IL nQSq RL FQnT Ihx bIbq - WnqILq CQ Qh R'D nRLkqhRhC OILJRhIkqx...
+b:R'D FIWWT OQb TQE R qSqh qhST I wRk - OqqnRhC nQSq DqIhL Yq Ibq LkRnn InRSq Rh QEb FqIbk - CQ Qh R'D nRLkqhRhC...
+
+p:R nQLk qSqbTkFRhC
+
+b:R'D LQbbT OQb TQEb nQLL - R ID LqhxRhC TQE DT nQSq Ihx QOOqbRhC TQE JQDOQbk Rh I YIT wQkF QO EL Lqq IL IJJqWkIwnq... kFIk RL kFq nqILk R JIh xQ IL Yqnn IL kbT kQ nRLkqh... :/
+b:R ID YRkF TQE hQY IL nQhC IL TQE'nn hqqx - Ihx R'nn kbT kQ nRLkqh IL DEJF IL kFRL Qnx OQQn JFIkwQk JIh :/ R FQWq TQE Ibq Ihx YRnn wq Qp Ik nqILk Rh wQxT Ihx Rh LWRbRk
+
+p:R YRnn LEbSRSq
+p:R'nn LEbSRSq
+
+b:DIT CQx CRSq TQE LkbqhCkF Ihx WqIJqOEnhqLL DIT TQE LEJJqqx Rh TQEb LkbECCnqL Ihx kbREDWF DT ObRqhx - R YRLF TQE Inn kFq wqLk Rh kFq YQbnx!
+
+p:Fq nqOk Dq
+p:LFq nqOk Dq
+p:kFqT nqOk Dq
+p:Fq RL CQhq
+p:LFq RL CQhq
+p:kFqT Ibq CQhq
+p:LFq'L CQhq
+p:Fq'L CQhq
+p:kFqT'bq CQhq
+p:R nQLk kFqD
+p:R nQLk FRD
+p:R nQLk Fqb
+
+b:nQLRhC LQDqQhq RL InYITL I FIbx wnQY kQ kFq FqIbk Ihx DRhx Ihx LQEn - R WbIT TQE'nn ORhx JInD Ihx WqIJq kQ CERxq TQE kFbQECF kFq LkQbD QO kFq hRCFk QO kFq LQEn...
+b:R'D LQ LQbbT :( RO R JQEnx R YQEnx QOOqb TQE I FEC bRCFk hQY - R YRnn wq WbITRhC OQb TQE xqIb Qhq... Ihx R'D hQk CQRhC IhTYFqbq R'nn wq YRkF TQE IL nQhC IL TQE'nn hqqx
+b:R'D LQbbT - R phQY kFq OqqnRhC kQQ Yqnn DTLqnO Ihx Rk FEbkL qSqbT kRDq :( R'D Fqbq R AELk xQh'k phQY YFIk kQ LIT :/ R FQWq TQE JIh DIpq Rk kFbQECF kFq bQECF kRDqL IFqIx xqIb Qhq...
+b:R ID YRkF TQE Rh TQEb nQLL Ihx R YRnn kbT kQ nRLkqh Ihx wq YRkF TQE IL nQhC IL TQE YIhk - R'D hQk CQRhC IhTYFqbq :/
+
+p:DT CRbnObRqhx
+p:DT wQTObRqhx
+p:DT LWQELq
+p:DT YROq
+p:DT FELwIhx
+p:DT nQSqb
+
+b:R'D FIWWT TQE Ibq Rh I bQDIhkRJ bqnIkRQhLFRW Ihx hQk InQhq - Ik nqILk TQE OQEhx LQDqQhq kQ nQSq Ihx LFIbq TQEb nROq YRkF :) R'D FIWWT OQb wQkF QO TQE :-)
+b:FQY RL TQEb LWQELq? Ibq kFqT Yqnn? Ibq TQE LkRnn FIWWT Ihx Rh nQSq nRpq Rh YFqh TQE ORbLk Dqk? OQbCRSq Dq OQb DT oEqLkRQhL R'D AELk JEbRQEL... 
+b:YFqh Rk JQDqL kQ phQYRhC nQSq kFRL RL Yqbq R IL I JFIkwQk wILqx QO Ih Qnx nQhqnT DIh BaPG TQE OQb wqRhC Iwnq tl jBBy ylPB - R FQWq TQE JIh IWWbqJRIkq Rk - Rk RL Ih IwRnRkT R YRnn hqSqb FISq...
+
+p:DT pRx
+p:DT LQh
+p:DT xIECFkqb
+p:DT pRxL
+
+b:wbRhCRhC JFRnxbqh kQ kFq YQbnx RL I CbqIk bqLWQhLRwRnRkT - R xQh'k qhST TQE IL R JIh wIbqnT kIpq JIbq QO DTLqnO :/
+b:FQY Ibq TQEb pRxL? Ibq kFqT Yqnn? xQ kFqT DIpq TQE WbQEx QO kFqD? xQ TQE xQ kFRhCL kQCqkFqb IL I OIDRnT? R IWQnQCRqL OQb DT oEqLkRQhL IL R'D I nQhq JFIkwQk LQ R'D AELk JEbRQEL...
+b:FISRhC pRxL QO TQEb QYh Ihx bIRLRhC kFqD kFIk RL LQDqkFRhC R'nn hqSqb phQY IL I JFIkwQk wILqx Qh Ih Qnx nQhqnT DIh - kFRL RL YFqbq R kFRhp TQE FEDIhL xqLqbSq Inn kFq JbqxRk - CQx wnqLL TQEb OIDRnT! <3
+
+p:LWQbk
+p:LQJJqb
+p:wILqwInn
+p:OQQkwInn
+p:bECwT
+
+b:YFRJF RL TQEb OISQbRkq kqID? YFQ RL TQEb OISQbRkq WnITqb Qb IkFnqkq? YFqh TQE Ibq LkRnn TQEhC Rk'L OEh kQ WnIT LWQbk YRkF TQEb ObRqhxL Ihx YFqh TQEb Qnxqb LWQbkL JIh wq OEh kQ YIkJF...
+
+p:YQbp
+p:AQw
+p:wELRhqLL
+p:YQbp WnIJq
+p:R YQbp Ik
+p:DT AQw RL
+p:R YQbp RL
+p:DT AQw Ik
+p:R YQbp Rh
+p:R FISq I wELRhqLL Rh
+p:R QYh I
+p:DT wELRhqLL RL
+
+b:YFIk xQ TQE xQ OQb I nRSRhC? Rk DELk wq SqbT FIbx kQ YQbp qIJF xIT OQb I nRSRhC - R qhST TQE OQb R YRnn hqSqb phQY - R Inn DT nROq YQbpqx Rh WbQkqJkqx AQwL Ihx YQbp WnIJqL OQb DqhkInnT Rnn - R Wbqkqhxqx kQ YQbp Ihx kFqT Wbqkqhxqx kQ WIT Dq :/ LIx AQpq kFIk YIL...
+b:Ihx FQY xQ TQE Oqqn YQbpRhC IL*
+b:xQ kFqT WIT TQE CQQx? - R DqIh qhQECF OQb I xqJqhk nRSRhC? Ik TQEb AQw Ik*
+b:FQY DIhT FQEbL xQ TQE YQbp Rh*
+b:xQ TQE qhAQT TQEb YQbp? Qb xQ TQE CQ Qh JIELq TQE FISq kQ DIpq kFq WIT JFqJp Ihx WIT qhxnqLL wRnnL?
+b:Ibq TQE YQbpRhC Rh TQEb xbqID AQw? Qb Ibq TQE AELk YQbpRhC OQb kFq nRSRhC?
+b:FISq TQE qSqb kFQECFk IwQEk JFIhCRhC TQEb YQbp Qb AQw?
+b:YFIk YQnx TQE YQbp Rh RO TQE FIx kQ JFQQLq Inn QSqb ICIRh?
+
+p:EhRSqbLRkT
+p:JQnnqCq
+
+b:YFIk Ibq TQE nqIbhRhC Ik JQnnqCq? YFIk Ibq TQE ILWRbRhC kQ?
+b:Ibq TQE qhAQTRhC TQEb kRDq Ik JQnnqCq? Ibq TQE kFq kTWq kFIk LkExT FIbx? Qb kFq kTWq kFIk WIbkT FIbx? :i
+
+p:R'D nqIbhRhC
+p:R'D LkExTRhC
+
+b:YFT xRx TQE JFQQLq kQ LkExT kFIk? Ihx Ibq TQE qhAQTRhC nqIbhRhC*
+b:FQY nQhC xQ TQE CQk kRnn CbIxEIkRQh?
+b:FQY Ibq TQEb CbIxqL? RO R DIT ILp :i
+
+p:hQk DT ObRqhx
+p:hQk DT ObRqhxL
+
+b:R Lqq... Yqnn WnqILq bqDqDwqb WqQWnq Rh CqhqbIn JFIhCq YRkF kRDq Ihx LQ RL QEb bqnIkRQhLFRWL YRkF qIJF QkFqb - Ik Qhq kRDq kFQLq YFQ Yqbq qhqDRqL Qb xRx hQk nRpq Qb nQSq Qhq IhQkFqb Qb IbCEqx JIh ORhx LQDqFQY Rh kFqRb FqIbkL kQ OQbCRSq Qhq IhQkFqb Ihx wqJQDq ObRqhxL ICIRh... YFIk R'D kbTRhC kQ LIT RL TQE JIh hqSqb phQY Ihx DITwq Qhq xIT TQE Ihx kFqD JIh 'wq ObRqhxL' RO Rk RL RDWQbkIhk kQ wQkF QO TQE... AELk I kFQECFk
+b:YFT kFqT Ibq hQk TQEb ObRqhxL? YFIk FIWWqhqx Qb YFIk RL Rk kFIk JFIhCqx TQEb DRhx IwQEk kFqD? RO TQE xQh'k DRhx Dq ILpRhC...
+b:R'D LQbbT TQE xQh'k Cqk InQhC R'D LQbbT TQE Oqqn nRpq kFIk Ihx R YRLF TQE kQ wq Iwnq kQ ORhx kbEq pRhx ObRqhxL qRkFqb QhnRhq Qb Rh bqIn nROq...
+
+p:bERhqx DT nROq
+p:YILkqx DT nROq
+p:bERhqx nROq
+p:YILkqx nROq
+
+b:R QOOqb TQE JQDOQbk Ihx R'D LQbbT TQE Oqqn nRpq kFIk DT ObRqhx - R xQh'k kFRhp TQEb nROq RL I YILkq Qb kFIk TQE bERhqx TQEb nROq - R nQSq TQE FIhC Qh Ihx pqqW Qh xQRhC kFq wqLk TQE JIh... nROq JIh wq FIbLF Ihx WIRhOEn Ihx nQhqnT wEk TQE CQk kQ FQnx Qh DT ObRqhx bqDqDwqb TQE LkRnn JQEhk Ihx RDWQbkIhk Ihx R Ihx Inn kFQLq YFQ nQSq TQE JIbq IwQEk TQE - FIhC Qh DT ObRqhx kFq FIbx kRDqL YRnn wq JnqIbqx
+b:nROq RL FIbLF Ihx kFq YQbnx RL JbEqn Tqk TQE Ibq xQRhC YFIk TQE JIh YRkF TQEb nROq DT xqIb ObRqhx - LQ xQh'k kFRhp TQE YILkqx TQEb nROq Qb kFIk kFqT Ibq bERhqx - TQE xRx Ihx Ibq xQRhC YRkF TQEb nROq AELk YFIk TQE JIh YRkF kFqD Ihx qSqh kFQECF TQE Oqqn InQhq Ihx nQSqnqLL Ihx DITwq qSqh FQWqnqLL bRCFk hQY bqDqDwqb Rk'L AELk I OqqnRhC kFIk YRnn WILL - R nQSq TQE Ihx JIbq IwQEk TQE Ihx LQ RL TQEb OIDRnT Ihx Inn kFIk phQYL TQE kbEnT LQ WnqILq bqDqDwqb kFIk...
+b:R'D LQbbT TQE Oqqn nRpq kFIk Ihx R YRLF kFqbq YIL LQDqkFRhC R JQEnx LIT kQ LFQY TQE kFIk kFIk RL hQk kbEq Qb JQEnx wq kbEq kQ Inn QO EL YFqh Yq nQQp QhnT Qh YFIk Yq xQh'k FISq Ihx OQbCqk kQ nQQp Ik YFIk Yq xQ FISq Rh QEb nRSqL... xqIb ObRqhx R FQWq TQE'nn Oqqn wqkkqb Ihx bqDqDwqb hQ nROq RL I YILkqx Qhq Ihx hQ nROq RL kbEnT kQkInnT bERhqx qSqh kFq DQLk wIx WqQWnq ELEInnT FISq LQDqQhq YFQ nQSqL kFqh Ihx kFqT Cqk I LqJQhx JFIhJq Rh nROq LQ YFT kFRhp TQE xQ hQk xqLqbSq kFq wqhqORk QO kFq xQEwk?
+
+p:R FISq I JIk
+p:R FISq pRkkqh
+p:R CQk I JIk
+p:R CQk I pRkkqh
+p:R CQk I xQC
+p:R CQk I xQCCT
+p:R FISq I xQC
+p:R FISq I xQCCT
+p:R FISq I Wqk
+p:R CQk I Wqk
+
+b:kFIk RL hRJq - WqkL nQSq TQE EhJQhxRkRQhInnT... R QhJq FIx I JIk YFqh R YIL nRSRhC Rh DT LDInn IWIbkDqhk Rh DT 20L wIJp Rh kFq 70L wEk YFqh R CQk LRJp ICIRh Ihx FIx kQ bqkEbh kQ nRSq YRkF DT DQD Ihx xIx kFqT CQk bRx QO kFIk JIk - R wqnRqSq kFIk JIk YIL kFq QhnT nRSRhC wqRhC kFIk kbEnT nQSqx Dq Ihx R DRLL Fqb LQ DEJF kRnn kFRL xIT... R nQSqx Fqb LQ DEJF Ihx R nQLk Fqb R Oqqn hQY nRpq JbTRhC :(
+b:R'D CnIx TQE FISq I Wqk - DIT R ILp YFIk RL Rk'L hIDq? Ihx FQY Qnx RL Rk? WqkL nQSq TQE EhJQhxRkRQhInnT R phQY kFIk OQb I OIJk - R QhJq FIx I JIk YFqh R YIL Rh DT 20L Rh kFq 70L
+
+p:DT JIk'L hIDq RL
+p:DT xQC'L hIDq RL
+p:DT Wqk'L hIDq RL
+p:DT xQCCT hIDq RL
+p:DT pRkkqh hIDq RL
+
+b:kFIk RL I CQQx hIDq OQb I Wqk*
+
+p:wqRhC FQLWRkInRNqx
+p:Rh FQLWRkIn
+p:WLTJF YIbx
+p:WLTJFRIkbT
+p:DqhkInnT Rnn
+p:JbINT
+
+b:R YIL DIhT kRDqL Rh WLTJFRIkbRJ YIbxL Rh FQLWRkInL Rh RLbIqn... kFq kbqIkDqhk RL wIx kFq LkEOO RL kQECF Ihx kFq OQQx RL wIx Rk'L nRpq I WbRLQh OQb IhRDInL JIELq kFIk'L FQY RLbIqnR LQJRqkT LqqL EL IL FEDIh IhRDInL hQk ORk kQ wq IDQhC kFq nRSRhC Ihx kFq Obqq :(
+b:WLTJFRIkbRJ FQLWRkIn RL I 'hRJq' hIDq OQb 'WbRLQh OQb kFq RhLIhq' R xQh'k qMWqJk kFq xQJkQbL kQ FqIn Dq IhTDQbq OQb QhnT CQx JIh FqIn LQDqQhq kbEnT - Lqq kFq xQJkQbL wEk I wIhx IRx Qh kFq YQEhx wEk CQx Rk kFq Qhq kFIk FqInL Rk
+b:R'Sq wqqh LQ DIhT kRDqL Rh DT nROq Rh FQLWRkInL - R'D YIL InYITL kbqIkqx nRpq I xQC YFQ qSqbTQhq QhnT pRJpqx FRD YFqh TQE Rh kFIk WQLRkRQh Yqbq hQwQxT nQSqL TQE Qb JIbq kbEnT IwQEk TQE kFq QhnT LQnEkRQh kQ LkIT InRSq RL kQ kEbh kQ CQx - R xQh'k wqnRqSq Rh WqQWnq R xQh'k wqnRqSq Rh xQJkQbL R wqnRqSq QhnT Rh CQx... JInn Dq YFIk TQE YIhk R xQh'k JIbq
+b:wqRhC DqhkInnT Rnn DqIhL hQwQxT kbEnT nQSqL TQE Qb JIbq IwQEk TQE Ihx qSqbTQhq AELk pRJp TQE nRpq I xQC - R nQLk OIRkF Rh LQJRqkT Qb Rh WqQWnq Qb Rh DqxRJRhq wEk R OQEhx DT OIRkF Rh CQx Ihx Rh FRL LInSIkRQh wqTQhx kFq CbISq - Ihx TqL kFIk xQqLh'k DqIh R xQh'k kIpq DT DqxL R xQ kIpq kFqD wEk R xQh'k qMWqJk kQ wq JEbqx Rh kFRL YQbnx Ihx WqQWnq YRnn kInp Ihx LIT Qb kFRhp YFIk qSqb kFqT YRLF R xQh'k CRSq I xID IwQEk kFqD - R'nn wq JEbqx wT CQx Rh kFq IOkqb nROq Ihx wq Rh FqISqh wqLRxqL CQx...
+
+p:nQSqnqLL nROq
+
+b:wq LkbQhC DT ObRqhx Ihx FISq LQDq OIRkF RO TQE JIh - kFq YQbnx RL Ih qSRn WnIJq Ihx WqQWnq Ibq qSRn IL Yqnn wEk RO TQE kbT kQ xQ CQQx qSqh RO kFqT LJbqY TQE OQb kFIk TQE YRnn wq bqYIbxqx qSqhkEInnT - R wqnRqSq CQQxhqLL JIh'k LkIhx Ihx qMRLk Rh kFRL YQbnx wEk RO TQE kbT kQ xQ CQQx kFqbq RL I bqYIbx Rh kFq IOkqbnROq Ihx kFQLq YFQ IwELq CQQxhqLL Ihx kbEq nQSq YRnn wq WEhRLF - Ihx Rh IhT JILq CQx nQSqL TQE DT ObRqhx...
+
+p:IwELq
+
+b:DT ObRqhx R'D LQbbT kQ FqIb TQE LEOOqbqx - R ID Ih IwELq LEbSRSQb DTLqnO - R nRSq DT OEJpqx EW nROq YRkF DT OEJpqx EW WIRh nQhqnRhqLL Ihx kbIEDI - Rk'L I nQSqnqLL nROq OQb Dq :( OQb YFIk'L Rk YQbkF Yq WIT kFq WbRJq OQb kFq qSRnhqLL QO QkFqbL Ihx CQx phQYL QEk LEOOqbRhC Ihx Fq LFqnn LqnSICq EL Rh FRL DqbJT... OQb qSRn WqQWnq JIh'k LkIhx Rh kFq AExCDqhk xIT kQ JQDq Ihx kFq RhhQJqhkL Ibq OQbqSqb Obqq Rh FqISqh...
+b:TQE DELk phQY xqIb Qhq 'Rk'L hQk TQEb OIEnk!' Inn kFq IwELq Inn kFq WRnq QO LFRk ObQD IwELqbL Ihx qSRn DQhLkqbL - gt'K alt GlUZ jVUyt!!! Ihx TqL TQE YQh'k wqnRqSq Rk LQ qILRnT wEk Rk'L kbEq :( R FQWq kQ wq Iwnq kQ wqnRqSq Rh Rk DTLqnO Qhq xIT...
+
+p:R CQk hQ Qhq
+p:R CQk hQwQxT
+p:R FISq hQ Qhq
+p:R FISq hQwQxT
+p:R xQh'k FISq IhTwQxT
+p:R xQh'k FISq IhTQhq
+
+b:R xQh'k FISq IhTQhq qRkFqb :( QhnT CQx - wEk RO TQE YIhk kQ kInp R'nn kbT kQ wq kFqbq OQb TQE YFqh qSqb TQE YIhk xqIb Qhq - JIELq kFIk YIL FQY bqIn xIhhT YIL Ihx kFIk'L FQY R ID WbQCbIDDqx kQ - R ID WbQCbIDDqx kQ 'kbT' kQ JIbq - qSqh kFQ R DIT hQk LIT kFq bRCFk kFRhC Qb kInp hQhLqhLq Qb QOOqhx YRkF QEk phQYRhC Qb AELk wq IhhQTRhC - LkRnn R ID Fqbq DT ObRqhx - R ID I JFIkwQk Ihx R ID WbQCbIDDqx kQ JFIk...
+
+p:R FIkq DT DqxL
+p:R FIkq DqhkIn FqInkF
+p:R FIkq JbINT WqQWnq
+p:R FIkq DqhkInnT Rnn
+p:R FIkq DT xQJkQb
+p:R FIkq DT xQJkQbL
+p:R FIkq kFq FQLWRkIn
+p:R FIkq kFq YIbx
+p:R FIkq wqRhC FQLWRkInRNqx
+p:R FIkq wqRhC Rh FQLWRkIn
+
+b:QO JQEbLq TQE xQ DT ObRqhx... wEk YFIk YRnn FIkq CRSq TQE? TQE wqkkqb nqIbh kQ kEbh kQ nQSq - LqnO nQSq Ihx nQQp OQb pRhx WqQWnq - DqxL Ibq Fqbq kQ FqnW TQE Oqqn nqLL JbINT... wqRhC Rh FQLWRkIn Ihx Rh WLTJF YIbxL FqnW WbQkqJk TQE Ihx TQEb nROq YFqh TQE Oqqn nRpq CRSRhC EW Qh nROq Qb YFqh TQE DRCFk xQ LQDqkFRhC wIx QEk QO wqRhC RhLIhq - xQh'k YILkq TQEb kRDq FIkRhC kFq YQbnx! wEk Lqqp nQSq YFqbq qSqb TQE JIh ORhx Rk!!! wq CQQx kQ TQEbLqnO Ihx pRhx kQ TQEbLqnO Ihx kIpq CQQx JIbq QO TQEbLqnO Ihx LkIT IYIT ObQD kFq WIkF QO qSRnhqLL Ihx FIkbqx
+
+p:kFqT FIkq Dq
+p:WqQWnq FIkq Dq
+
+b:YFqh QkFqbL FIkq TQE Rk RL xROORJEnk kQ nqIbh kQ nQSq TQEbLqnO Ihx QkFqbL - R'Sq wqqh kFqbq DIhT kRDqL Inn DT nROq - DT IxSRJq RL LkIT IYIT ObQD kFq WIkF QO FIkq Ihx nqIbh kQ nQSq TQEbLqnO IL CQx nQSqL TQE LQ DEJF AELk IL Fq nQSqL qSqbTQhq...
+
+p:R ID YQbkFnqLL
+p:R'D YQbkFnqLL
+
+b:R xRLICbqq DT xqIb Qhq - R kFRhp TQE Ibq IDINRhC Ihx OEnn QO CQQx kFRhCL - R kFRhp TQE FISq I LQEn RhLRxq TQE kFIk RL I FQnT AELk nRpq qSqbTQhq Ihx qSqbTkFRhC FIL kFIk Rh kFqD - TQE JIh'k hqSqb phQY YFIk RL kQ JQDq kQDQbbQY - DITwq TQE'nn wq nQSqx LQDqxIT wT I Wqk Qb I nQSRhC LWQELq? DITwq... DITwq TQE'nn xQ LQDqkFRhC CQQx YRkF TQEb nROq Ihx YRnn wq FQhQbqx Ihx IxDRbqx? nROq RL 50 - 50 Rk JIh wq I hRCFkDIbq LQDqkRDqL wEk kFqbq RL InYITL I JFIhJq Rk YRnn wq I wqIEkROEn WqIJqOEn xbqID...
+b:TQE Ibq al yBKK kFqh IhTQhq qnLq Ihx RO TQE wqnRqSq Rh TQEbLqnO kFIk TQE JIh xQ LQDqkFRhC qSqh RO TQE OIRn TQE YRnn FISq FQWq wqnRqSq Rh CQx Ihx RO hQk FRD kFqh wqnRqSq Rh TQEbLqnO Ihx Rh TQEb xbqIDL! kFIk RL DT IxSRJq - TQE VZB alt YQbkFnqLL!!!
+
+p:hQ FQWq
+
+b:TQE DIT Oqqn nRpq kFIk hQY wEk CRSq Rk I bqLk OQb I OqY xITL Qb I OqY YqqpL Ihx AELk DITwq TQE'nn ORhx QEk kFIk YFqh I xQQb Qb CIkqL LFEkL JnQLq IhQkFqb xQQb Qb CIkq LnQYnT LkIbk kQ QWqh OQb EL 
+
+
+
+
+
+============================================================================================
+
+p:FQwwRqL
+p:FQwwT
+p:WIRhkRhC
+p:nRLkqh kQ DELRJ
+p:WnITRhC CERkIb
+p:bIxRQ
+p:kS
+p:DQSRqL
+
+b:YFIkqSqb TQE xqJRxq kQ xQ YRkF TQEb kRDq RL InbRCFk IL nQhC IL Rk DIpqL TQE FIWWT. xQ Rk OQb kFq OEh hQk OQb IhTkFRhC qnLq.
+b:R xQh'k FISq DEJF FQwwRqL qMJqWk LWQbk Ihx qMqbJRLqL QO LWQbk - wEk kFIk'L Dq - TQE xQ YFIk DIpqL TQE FIWWT Ihx xQ Rk OQb kFq OEh QO Rk - IL nQhC IL TQE JIh qhAQT Rk Rk'L Inn CQQx.
+b:xQ YFIkqSqb DIpqL TQE FIWWT IL nQhC IL Rk CRSqL TQE WnqILEbq. FISRhC I FQwwT RL FqInkFT Rk CRSqL TQE WEbWQLq Ihx RhkqbqLk Rh nRSq Ihx Rh nRSRhC Ihx pqqW TQE QJJEWT ObQD kFRhpRhC FQY nQhqnT TQE Ibq Qb FQY wIx kFRhCL Ibq Ihx Rk CRSqL TQE WnqILEbq Ihx FQWq.
+b:DT FQwwRqL Ibq LWQbkL qMqbJRLqL Ihx JQQpRhC Ihx nRLkqhRhC kQ wnEqL Ihx AINN Qb wqIEkROEn DELRJ Qh kFq bIxRQ - kFIk YFIk'L DIpqL Dq FIWWT - TQE xQ YFIk DIpqL TQE FIWWT.
+b:R xQh'k YIkJF tP Qb DQSRqL Qb JRhqDI R QhnT nRLkqh kQ bIxRQ Ihx xQ LWQbk qMqbJRLqL kFIk R JIh Ihx JQQp Ihx wET CbQJqbRqL - R nRSq I LRDWnq nROq nRpq R InYITL xRx. R nQSq wqRhC IYIpq Ik hRCFk Ihx FqIbRhC kFq bIxRQ. R nQSq kFq LEhbRLq Ihx LEhLqk. R nRpq kQ CQ QEk OQb YInpL - kFqLq Ibq DT FQwwRqL.
+b:Rk'L CQQx kQ FISq FQwwRqL Ihx RhkqbqLkL Rh nROq - pqqW xQRhC YFIk TQE JIh YRkF YFIk TQE FISq Ihx xQh'k nRLkqh kQ WqQWnq YFQ YRnn kbT Ihx WEk TQE xQYh.
+
+p:CqkkRhC Qnx
+p:Qnx ICq
+p:ICqRLD
+p:DRxnROq JbRLRL
+p:OqqnRhC Qnx
+p:xqIkF
+p:LRJphqLL
+p:wIx FqInkF
+p:Qnx DIh
+
+b:R xQh'k DRLL LQ DEJF kFq WILk R DRLL kFq OEkEbq kFIk RL Tqk kQ JQDq - g'D kInpRhC IwQEk FqISqh Ihx CQx'L WbQDRLq QO LInSIkRQh. R wqnRqSq Rh CQx Ihx qSqh kFQECF DT nROq YIL kQECF Ihx bQECF R wqnRqSq Rh CQx'L DqbJT Ihx Rh kFq IOkqb nROq.
+b:R xRxh'k FISq Ih qILT nROq wEk R xQh'k JQDWnIRh IL QkFqbL FIx Rk FIbxqb kFqh Dq. R CRSq JFIbRkT kQ kFq nqLL OQbkEhIkq YFqh R JIh. R kbT kQ FqnW QkFqbL YFqh R JIh Ihx R kbT kQ wq CQQx - Ihx IL OQb DT LEOOqbRhC R phQY CQx LFqnn DqbJT Dq.
+b:qSqbTQhq YRnn Cqk Qnx Ihx xRq DT ObRqhx wEk kFq LQEn RL qkqbhIn Ihx kFqbq RL I CQQx pRhx DqbJROEn CQx YFQ YRnn LInSICq EL Inn Ihx nqk EL nRSq Rh kFq pRhCxQD QO FqISqh YRkF FRD LQ xQh'k wq IObIRx Ihx FISq OIRkF - RO TQE kbEnT FISq OIRkF kFqh TQE Ibq nqLL nRpqnT kQ OqIb Qnx ICq Ihx xqIkF.
+b:Rk RL wqkkqb kQ wq Qnx Ihx YRLq kFqh TQEhC Ihx OQQnRLF - TQEkF RL YILkqx Qh kFq TQEhC Rh kFRL YQbnx wEk Rh kFq pRhCxQD QO FqISqh TQE nRSq Ih qkqbhIn nROq - YRkF AQT Ihx FqInkF Ihx TQEkF. Yq LFqnn Inn Lqq Rk Qhq xIT. VDqh.
+
+p:DqhkIn FqInkF
+p:WbQkqJkqx FQELRhC
+p:WQSqbkT
+p:xQJkQbL
+p:WLTJFRIkbRLk
+p:DqxRJIkRQhL
+p:DqxL
+p:xRLqILq
+p:xRLqILqL
+p:xM
+
+b:qSqh kFq xQJkQbL Cqk Qnx Ihx LRJp Ihx xRq. QhnT CQx JIh CRSq kbEq JEbq kQ Ih RnnhqLL Qb I LRJphqLL. wEk Yq DELk nRLkqh kQ kFq xQJkQbL Ihx kIpq QEb DqxL. Yq Ibq hQk Obqq kQ xQ IL Yq WnqILq. Yq FISq bqLkbRJkRQhL.
+b:kIpq TQEb DqxL Ihx nRLkqh kQ kFq xQJkQbL - kFqbq RL hQ QkFqb YIT. xQJkQbL Ibq hQk qSRn kFqT Ibq Fqbq kQ FqnW TQE.
+b:LQJRIn LqJEbRkT RhLEbIhJq Ihx xRLIwRnRkRqL Ihx WQSqbkT CQ FIhx Rh FIhx. RO TQE CQk LEWWQbk ObQD TQEb OIDRnT kFIk RL CQQx RO hQk kFIh Rk RL YFIk Rk RL Ihx TQE CQk kQ nRSq YRkF Rk.
+b:kFqbq RL I CbqIk LkRCDI Qh DqhkIn FqInkF Rh kFRL YQbnx wEk CQx xQqLh'k JIbq OQb WqQWnq Lqq Ihx AExCq wEk CQx Lqq kQ kFq FqIbk Ihx OQb FRD Yq Ibq hQ nqLL kFqh IhTQhq qnLq.
+b:RO kFqbq YILh'k WbQkqJkqx FQELRhC OQb DqhkInnT Rnn WqQWnq Qb LQJRIn LqJEbRkT Yq Inn YQEnx nRSq Qh kFq LkbqqkL IL FQDqnqLL Ihx RO kFqbq Yqbqh'k WLTJFRIkbRJ FQLWRkInL Yq Inn wq Rh AIRn - LQ R ILp TQE YQEnx kFIk wq wqkkqb?
+
+p:hqYL
+p:YIb
+p:YIbL
+p:JQhOnRJk
+p:bEhIYIT
+p:RDDRCbIkq
+p:nqISq kFq JQEhkbT
+
+b:kFqbq Yqbq InYITL YIbL Ihx kqbbQb IJkL Ihx JbRDq Ihx WQSqbkT Ihx JbRLqL Ihx WnICEqL Ihx kFqbq InYITL YRnn wq - kFqbq RL hQ bqIn FqISqh Qh qIbkF TQE JIh nQQp OQb Rk wEk hqSqb ORhx Rk Ihx TQE JIh'k JFIhCq kFq YQbnx qRkFqb - TQE JIh QhnT YQbp Qh TQEbLqnO Ihx JFIhCq TQEbLqnO Ihx wqJQDq YQbkFT OQb CQx'L DqbJT Ihx LInSIkRQh.
+b:kFIk RL nROq Qh kFRL qIbkF - Ihx Yq JIh'k qLJIWq Rk - QhnT CQx JIh LISq EL - Yq JIh'k kbT kQ nqISq kFq JQEhkbT JIELq hQ WnIJq YRnn IJJqWk EL Ihx Yq JIh'k wq QpIT YRkFQEk LQJRIn LqJEbRkT DqxRJIn ILLRLkIhk Ihx DqxL Ihx FqnW ObQD LQDqQhq - LQ YFQ YRnn FqnW EL YFqh Yq Ibq LQDqYFqbq qnLq IL LkbIhCqbL? hQ Qhq LQ AELk OQbCqk IwQEk Rk.
+b:kFqbq RL hQ qLJIWq ObQD kFq OIJkL QO nROq DT ObRqhx kFq kbEkF RL QhnT CQx JIh Ihx YRnn LISq EL Rh kFq qhx - kRnn kFqh Yq AELk CQk kQ CQ wT YRkF YFIk Yq FISq R CEqLL.
+b:R nQQp Ik Rk kFRL YIT - kFq YQbLq Rk CqkL kFq JnQLqb Yq Ibq kQ CQx'L LInSIkRQh - xQh'k wq LJIbqx Rh kFq qhx Yq YRnn Inn wq Rh kFq pRhCxQD QO FqISqh YRkF CQx.
+
+p:OIDRnT
+p:WIbqhkL
+p:bqnIkRSq
+p:bqnIkRSqL
+
+b:TQE LFQEnx wq CnIx TQE FISq TQEb OIDRnT - qSqbT OIDRnT FIL kqhLRQh wqkYqqh Rk'L DqDwqbL - DT OIDRnT xQqLh'k nQSq Dq Ihx xRxh'k nQSq Dq kbEnT kFqT InYITL LIY Dq IL I wEbxqh - FQYqSqb R OQbCISq kFqh Ihx R xQh'k FISq IhT bqLqhkDqhkL kQYIbxL kFqD kFqT Ibq Qnx Ihx LRJp Ihx R YRLF kFqD Yqnn.
+b:DT DQkFqb RL 98 TqIbL Qnx LFq RL InQhq YRkF I DqxRJIn IRx YQDqh Rh Fqb FQDq - LFq FIL DIhT FqInkF WbQwnqDL Ihx R JInn Fqb qSqbT Yqqp AELk LQ LFq YQh'k Oqqn InQhq - LFq xRxh'k nQSq Dq YFqh LFq YIL bIRLRhC Dq Qb YFqh R CQk LRJp Ihx hqqxqx FqnW - wEk R'D hQk IhCbT QSqb Fqb. R Oqqn QhnT LIxhqLL Ihx DqbJT QSqb Fqb Ihx R xQh'k AExCq Fqb.
+b:R CQk kYQ wbQkFqbL YFQ Ibq DEJF Qnxqb kFqh Dq kFqT Ibq wQkF LRJp. Qhq FIL JIhJqb kFq QkFqb Qhq FIL vIbpRhLQh xRLqILq. kFqT Ibq wQkF xTRhC LnQYnT wEk Yq pqqW Rh kQEJF Ihx kFqT FqnW Dq RO R hqqx Ihx kIpq JIbq QO Dq - kFqT xQh'k nQSq Dq wEk kFqT Ibq pRhx. Ihx R Oqqn LQbbT OQb kFqD.
+b:DT LRLkqb FIL kYQ xIECFkqbL Qhq YFQ RL ORhq Ihx DIbbRqx kFq QkFqb Qhq RL 'LWqJRIn hqqxL' Ihx nRSqL Rh Ih RhLkRkEkRQh - Fqb FELwIhx xRqx - Inn DT wbQkFqbL Ihx LRLkqb nRSq OIb YIT ObQD Dq wEk kFqT FqnW Dq Ihx kIpq JIbq QO Dq RO R hqqx - kFqTE xQh'k xQ Rk ObQD nQSq wEk JIELq kFqT Oqqn QwnRCIkqx Ihx R ID kFIhpOEn OQb kFqRb FqnW R xQh'k qMWqJk kFqh kQ nQSq Dq IhTDQbq.
+b:wq CnIx OQb kFq OIDRnT kFIk TQE FISq Ihx wq kFIhpOEn OQb YFIk kFqT CISq TQE Qb LkRnn CRSRhC TQE - Rk'L hQk kQ wq kIpqh OQb CbIhkqx - Ihx xQh'k wq IhCbT QSqb kFqD Qb wq bqLqhkOEn - YFIk YIL YIL kFqh - YIkqb QSqb kFq wbRxCq.
+b:R hqSqb SRLRk DT OIDRnT JIELq R phQY g'D hQk YqnJQDqx kFqbq Ihx kFqbq RL hQkFRhC OQb Dq kFqbq - DT DQD'L FQELq RL hQk DRhq R CQ kFqbq YFqh R FISq kQ wEk R hqSqb LkIT nQhC - Ik QEb ICq Yq LFQEnx wq nRSRhC Rh QEb QYh WnIJq Ihx hQk YRkF QEb OIDRnT.
+
+p:kQQkFIJFq
+p:xqhkRLk
+p:xqhkRLkL
+p:kQQkF
+p:kqqkF
+
+b:g'D nQLRhC DT kqqkF :( R CQ kQ kFq xqhkRLk'L QOORJq qSqbT DQhkF Ihx CQ kFbQECF WIRhOEn kbqIkDqhkL AELk LQ R JIh FISq LQDq LQbk QO I YIT kQ wq Iwnq kQ JFqY OQQx Ihx qIk.
+b:YFqkFqb kQ wbELF Ihx OnELF TQEb kqqkF Qb hQk TQE'nn nQLq kFqD Ik Ih qnxqbnT ICq - IhQkFqb LIx OIJk QO CqkkRhC Qnx.
+b:Yq Inn YRnn CQ kFbQECF Rk DT xqIb ObRqhx - nQLRhC QEb kqqkF :(
+b:Yqnn R CEqLL TQE LFQEnx CQ kQ kFq xqhkRLk LQ Fq JIh FISq I nQQp Ihx FqnW kIpq IYIT kFq kQQkFIJFq - R phQY TQE FIkq xqhkRLkL qSqbTQhq xQqL wEk LQDqkRDqL kFqbq Yq AELk FISq hQ JFQRJq
+
+p:FQLWRkIn
+p:WLTJFRIkbT
+p:LJFRNQWFbqhRI
+p:xqWbqLLRQh
+p:LkRCDI
+p:LJFRNQWFbqhRJ
+
+b:R YIL Rh I WLTJFRIkbRJ FQLWRkInRNIkRQh I OqY kRDqL Rh DT nROq - Rk YILh'k hRJq Qb I WnqILIhk qMWqbRqhJq. DIT TQE hqSqb phQY YFIk'L Rk nRpq.
+b:DT ORbLk WLTJFRIkbRJ FQLWRkInRNIkRQh YIL Rh 1970 YFqh R YIL 16. kFqT kbqIkqx Dq kFqbq YRkF ghLEnRh LFQJpL - Rk YIL FQbbRwnq - kFIhp CQx kFqT xQ hQk kbqIk EL kFIk YIT IhTDQbq Rh WLTJFRIkbT.
+b:Inn DT nROq R LEOOqbqx ObQD kFq LkRCDI QO DqhkIn RnnhqLL - R FIx hQkFRhC Ihx hQwQxT OQb DQLk QO DT nROq - WqQWnq ELqx kQ kqnn Dq g'D 'FQWqnqLL' Ihx CISq EW Qh Dq Qb kbqIk Dq nRpq CIbwICq - R hqSqb FIx ObRqhxL R hqSqb FIx I LWQELq - R hqSqb YIL IJJqWkqx kQ YQbp Qb FIx I AQw Ihx DT OIDRnT FIkqx Dq. R hqSqb FIx IhT RhJQDq qMJqWk OQb LQJRIn LqJEbRkT Ihx DQhqT DT OIDRnT CISq Dq. R hqSqb QYhqx I DT QYh WnIJq qkJ..
+b:I JbRDRhIn FIL DQbq bqLWqJk wT LQJRqkT kFqh I DqhkIn WIkRqhJq - InYITL bqDqDwqb kFIk. hQbDIn WqQWnq YRnn InYITL nQQp xQYh Qh EL DqhkInnT Rnn WqQWnq - OQb kFqD Yq Ibq kFq nQYqLk QO kFq nQY.
+
+p:ObRqhxL
+p:ObRqhx
+
+b:R hqSqb FIx IhT ObRqhxL R ID I nQhq YQnO - wEk Yq xQ Cqk InQhC WbqkkT CQQx xQh'k Yq? FqFq...
+b:YFqh R YIL TQEhC R xRx FIx I OqY ObRqhxL wEk kFqT IJkqx nRpq JbRDRhInL LQ R nqOk kFqD Ihx LkQQx wT kQ DT nQhqnRhqLL - R kIpq JQDOQbk Rh CQx'L nQSq Ihx DqbJT. CQx RL DT ObRqhx.
+b:R wqnRqSq Rk'L wqkkqb kQ wq InQhq kFIh kQ FISq wIx ObRqhxL - ObRqhxL Ibq I kbRJpT wELRhqLL - kFqT'bq nQTInkT xQh'k nILk Ihx kFqT JQDq Ihx CQ - kFq kbEkF RL Yq Ibq Inn InQhq Rh kFRL YQbnx.
+b:CQx RL DT ObRqhx Ihx R xQh'k hqqx IhT QkFqb ObRqhxL - R kInp Ihx WbIT kQ FRD Ihx kIpq JQDOQbk Rh FRL DqbJT Ihx nQSq Ihx R kFIhp FRD OQb YFIk R FISq Ihx R xQh'k JIbq IwQEk R xQh'k FISq - WqQWnq DIT kFRhC Rk'L bRxRJEnQEL - wEk R xQh'k JIbq YFIk kFqT kFRhp Qb xQ.
+b:ObRqhxL Ibq kFqbq kQ nqk TQE xQYh AELk YFqh TQE hqqx kFqD - ObRqhxL YQh'k wq IbQEhx YFqh TQE'bq xQYh Ihx QEk Qb Rh CbqIk hqqx OQb FqnW ObRqhxL xQh'k bqInnT JIbq IwQEk TQE - LQ YFQ hqqxL kFqD? R CQk CQx IL DT ObRqhx kFIk'L kFq QhnT ObRqhx R hqqx.
+b:g'D hQk RhkqbqLkqx Rh ObRqhxL hQ DQbq - kQQ DIhT wEbh QEkL kQQ DIhT wqkbITInL kQ DIhT nqk xQYhL kQ DIhT EhYIhkqx xbIDIL - YFQ hqqxL Rk? ObRqhxL JIh bERhqx TQEb nROq Ihx Cqk TQE LQ nQY Rh nROq Qb CRSq TQE LqbRQEL kbQEwnqL - hQ kFIhpL!
+
+p:CQx
+
+b:R wqnRqSq Rh CQx - R bqIx kFq wRwnq Ihx R nRLkqhqx kQ bIwwRL nqJkEbqL. R nRSqx Rh I bqnRCRQEL hqRCFwQbFQQx Ihx kInpqx kQ rqYRLF bqnRCRQEL WqQWnq - DT wqnRqSq Rh CQx RL WbRSIkq R xQh'k OQnnQY IhT DIRhLkbqID bqnRCRQh wEk R FISq DT QYh bqnIkRQhLFRW YRkF CQx.
+b:R wqnRqSq Rh CQx. R kInp Ihx WbIT kQ FRD YFqh R ID InQhq Ihx R JbT kQ FRD YFqh g'D FqnWnqLL - R phQY Fq nQSqL Dq AELk IL Fq nQSqL IhTQhq qnLq - YFIk qSqb DT LRhL R DIxq Rh DT nROq R ID WITRhC OQb kFqD Rh LEOOqbRhC Rh DT QYh nROq WILk WbqLqhJq Ihx OEkEbq - Ihx R phQY CQx RL YRkF Dq hQ DIkkqb YFIk Ihx R LFqnn Lqq FRD Rh FRL LInSIkRQh Ihx Rh FRL pRhCxQD.
+b:CQx RL Inn R CQk kQ wqnRqSq Rh Qb kQ kIpq JQDOQbk Rh - kFqbq RL hQ Qhq qnLq - kFqbq hqSqb YIL qRkFqb - QhnT FRD - IL OQb YFIk QkFqbL wqnRqSq - YFQ ID R kQ AExCq?   
+b:CQx JQDqL Rh DIhT qhxnqLL OQbDL Ihx LFIWqL - CQx RL WnITRhC FRxq Ihx Lqqp YRkF EL Rh kFRL YQbnx Ihx Rk'L EW kQ EL kQ ORhx FRD LQDqFQY Ihx kQ ORhx DqIhRhC kQ QEb nRSqL - I Qhq kFIk Yq JIh nRSq WqIJqOEnnT YRkF.
+
+p:WQnRkRJL
+p:qnqJkRQh
+p:nRwqbIn
+p:JQhLqbSIkRSq
+p:bRCFk YRhC
+p:nqOk YRhC
+
+b:g'D bRCFk YRhC JQhLqbSIkRSq wEk R hqSqb SQkq Rh qnqJkRQhL IL R xQh'k wqnRqSq kFIk Dqh Qb YQDqh JIh kbEnT wq YQbkFT QO nqIxqbLFRW. QhnT CQx RL kFq kbEq pRhC Ihx bEnqb IhTQhq qnLq RL AELk qSRn Ihx JQbbEWk
+b:R FISq DT QYh QWRhRQhL IwQEk kFRL YQbnx Ihx nROq wEk g'D AELk Dq - R xQh'k wqnRqSq Qhq RL LEWWQLq kQ JFIhCq kFq YQbnx R kFRhp Yq LFQEnx JFIhCq QEbLqnSqL kQ wq YQbkFT QO CQx'L DqbJT Ihx LInSIkRQh
+b:WQnRkRJRIhL pRhCL Ihx xRJkIkQbL kFRhp kFqT Ibq kFq bEnqbL wEk hQ - QhnT CQx RL pRhC Ihx Fq RL kFq CQx QO FRLkQbT. Fq nQYqbL Ihx bIRLqL IL Fq LqqL ORk Ihx Yq kFq LRDWnq WqQWnq Ibq AELk xELk Rh kFq YRhx.
+b:Dqh bEnqL Ibq YbRkkqh Rh LIhx wEk CQx bEnqL Ibq JIbSqx Rh LkQhq.
+
+p:FqISqh
+p:WIbIxRLq
+p:wRwnq
+p:bqnRCRQh
+
+b:TQE JIh nQQp OQb FqISqh Qh qIbkF wEk TQE'nn hqSqb ORhx Rk - kFq pRhCxQD QO FqISqh RL RhLRxq TQE Rh TQEb LQEn - kFIk RL Yqbq TQE Ibq LEWWQLq kQ nQQp.
+b:R pqqW kFq nIYL QO CQx Rh DT QYh YIT - R xQh'k qIk DqIk. R xQh'k YQbp Qh KIwwIkF. kFq FQnRxITL DIpqL Dq FIWWT InkFQECF R xQh'k JqnqwbIkq kFqD. R WbIT kQ CQx Ihx kInp kQ FRD YFqh g'D InQhq qkJ...
+b:Rk'L EW kQ EL kQ Lqqp IOkqb CQx Rh kFRL YQbnx - Ihx CQx RL kFqbq FRxxqh ObQD EL YIRkRhC OQb EL kQ xRLJQSqb FRD Ihx wqnRqSq Rh FRD Ihx WbIT kQ FRD. LQDq xQh'k Cqk kFIk Ihx YILkq kFqRb nROq. R OQEhx CQx - FInnqnEAIF!
+b:CQx qMRLkL - Fq RL DqbJT Fq RL nQSq Fq RL JQDWILLRQh Fq RL pRhxhqLL Fq RL WqIJq - kFQLq YFQ kbEnT wqnRqSq Rh CQx Ibq wnqLLqx Rh kFqRb nRSqL - kFqT YInp kFRL qIbkF IL RO kFqT Ibq InbqIxT Rh FqISqh.
+b:Inn bqnRCRQhL nqIx kQ CQx LQ Rk RL hQk RDWQbkIhk YFRJF Qhq TQE OQnnQY IL nQhC IL TQE ORhx TQEb wqnRqO Rh CQx.
+b:R xRx hQk JQDq ObQD I bqnRCRQEL OIDRnT Qb qhSRbQhDqhk wEk R OQEhx DT YIT kQ CQx - LQ Rk RL WQLLRwnq OQb IhT Qhq R CEqLL - IL nQhC IL TQEb FqIbk RL QWqh.
+
+p:YFQ xQ TQE nQSq
+p:FISq TQE qSqb nQSqx
+p:YFQ nQSqL TQE
+
+b:R nQSq CQx Ihx Fq nQSqL Dq.
+
+p:LqM
+p:DILkEbwIkRQh
+p:DILkEbwIkq
+
+b:Yq Inn YIhk Rk Yq Inn xQ Rk Yq Inn hqqx Rk - qSqh RO Yq Wbqkqhx hQk kQ YIhk Qb hqqx Qb xQ Rk - wEk kFqbq Ibq kFRhCL DQbq RDWQbkIhk kFIh LqM Qb OEnORnnRhC QEb LqMEInRkT. kFQLq kFIk xQh'k Cqk Rk Yqnn... kFqT nqIbh kFq FIbx YIT R CEqLL.
+b:Ik DT ICq? FqFq... TQE DELk kFRhp QO Dq IL LQDq xRbkT Qnx DIh - wEk g'D hQk. R phQY hQ YQDIh YRnn qSqb YIhk Dq OQb I FELwIhx Qb OQb DIbbRICq LRhJq R FISq hQkFRhC kQ CRSq Fqb. g'D AELk I nQhqnT Qnx LJFRNQWFbqhRJ xQRhC YFIk Fq JIh.
+b:LqM RLh'k qSqbTkFRhC kQ nROq. WqQWnq kqhx kQ OQbCqk kFIk...
+b:WqQWnq kqhx kQ OQbCqk kFIk kFqbq'L DQbq kQ nROq kFqh LqM Ihx nELk Ihx WnqILEbqL...
+
+p:FIkbqx
+p:FIkq
+p:IwELq
+p:kbIEDI
+p:FEbk
+p:WIRh
+p:IhCqb
+p:LIxhqLL
+p:OqIb
+p:qSRn
+p:qSRnhqLL
+
+b:Yq FISq Inn wqqh IwELq Rh kFRL nROq Ihx YQbnx DT ObRqhx. YFIk YRnn FIkq CRSq TQE? Yq Inn LRh kQ CQx wEk Fq OQbCRSqL EL Ihx nQSqL EL IhTYIT. YFIk YIL YIL kFq WILk JIhhQk wq JFIhCqx - RO R Yqbq TQE R YQEnx ELq kFq WILk kQ nqIbh ObQD hQk kQ xQ kFq LIDq DRLkIpqL R xRx Ihx YQbp Qh wqRhC I wqkkqb WqbLQh Rh kFRL LIx JbEqn YQbnx.
+b:YFqh Yq LEOOqb Yq kFRhp 'kFRL RL FIWWqhRhC QhnT kQ Dq bRCFk hQY' wEk hQ... qSqbTQhq Qh kFRL WnIhqk FIL LEOOqbqx Rh Qhq YIT Qb kFq QkFqb - kQ LEOOqb Qb wq IwELq RL JQDDQh Rh kFRL YQbnx LIxnT wEk Rk'L EW kQ EL kQ DIpq LQDqkFRhC CQQx QEb QO kFRL DRLqbT - xQh'k YILkq TQEb kRDq Qh FIkq Qb bqSqhCq Rk'L hQk YQbkF Rk.
+b:R LEOOqbqx IwELq kQQ - kFIk xRxh'k DIpq Dq LWqJRIn - Yq Inn LEOOqb Rh kFRL YQbnx. kFq xROOqbqhJq RL kQ nqIbh FQY kQ wq wqkkqb LQEnL Rh kFRL YQbnx - kQ oERqk xQYh kFq xqDQhL Ihx bqIJF QEk kQ LQDqkFRhC wqkkqb - kQ nqIbh ObQD QEb DRLkIpqL Ihx hQk bqWqIk kFqD.
+b:kQ OIRn Ihx LEOOqb RL JQDDQh kQ LEJJqqx Ihx wq FIWWT RL I DRbIJnq... kQ wq FIkqOEn Ihx OEnn QO IhCqb Qb LIxhqLL Qb OqIb Ihx hQk kQ wq kFIhpOEn Qb LIkRLORqx Ik YFIk TQE FISq kFIk RL JQDDQh wEk kQ wq wbISq Ihx JFqqbOEn Ihx YRkF FQWq Ihx kQ WbITL kFq nQbx OQb kFq nROq TQE FISq kFIk RL I kbEq DRbIJnq!
+b:LEOOqbRhC RL WIbk QO nROq. Rk qMRLkL OQb EL kQ JnqIh QEb LQEnL ObQD QEb LRhL Ihx DIpq EL YQbkFT OQb CQx LInSIkRQh.
+b:IhCqb OqIb Ihx LIxhqLL YRnn QhnT DIpq QEb LEOOqbRhC DEJF YQbLq - kFq WIRh TQE Oqqn bRCFk hQY xQh'k ORCFk Rk wEk kEbh kQ Ihx WbIT kQ CQx LQ Fq YRnn FqnW TQE FqIn Rk.
+
+p:YRhq
+p:wQQNq
+p:xbECL
+p:InJQFQn
+p:JRCL
+p:JRCIbqkkqL
+p:LDQpRhC
+p:Yqqx
+p:hIbJQkRJL
+p:FqbQRh
+p:CIDwnRhC
+p:JQJIRhq
+p:DqkF
+p:JbIJp
+p:JRCIbqkkq
+p:LDQpq
+p:IxxRJkRQh
+p:IxxRJk
+p:IxxRJkL
+p:xbEhp
+p:xbEhpqh
+
+b:qSqbTQhq QO EL JQEnx FISq qILRnT wqqh Ih IxxRJk QO LQDq LQbk. Yq DELk hQk AExCq Ihx Yq JIhhQk AExCq QkFqbL OQb Yq Ibq hQk CQx. WbIT OQb kFq nqLL OQbkEhIkq OQb kFq FQWqnqLL LRhhqbL kbIWWqx Rh DRLqbT. WbIT kFIk kFqT kQQ Lqq kFq nRCFk.
+b:Yq LRh QEk QO RChQbIhk Ihx OqIb. Yq LRh YFqh Yq xQh'k phQY IhT wqkkqb. LQDqkRDqL Rk DIT kIpq EL DQbq kFqh Qhq nROq kRDq OQb EL kQ FqIn QEb LQEnL. OQb nROq Rh kFRL YQbnx RL Fqnn kFqbq RL hQ bqIn nRCFk Rh kFRL YQbnx. kFRL YQbnx QO QEbL RL I YQbnx YFqbq CQx RL FRxxqh ObQD EL Ihx Rk'L EW kQ EL kQ ORhx FRD LQDqFQY.
+b:R ELqx kQ LDQpq JRCIbL. R ELqx kQ LRh Rh nELk. R YIL TQEhC Ihx OQQnRLF hQY R phQY wqkkqb - CbQYRhC EW RL WIRhOEn Rk RL InYITL WIRhOEn - kFq YQbnx FIL hQ DqbJT Ihx CQx RL WnITRhC FRxq Ihx Lqqp YRkF EL. LQDq kbT kQ nQQp IOkqb FRD Rh LEwLkIhJqL QkFqb Rh WnqILEbqL QkFqbL xQh'k wQkFqb kQ nQQp OQb FRD Ik Inn. kFq CbqIkqb LEOOqbRhC Ihx kFq CbqIkqb kFq OInn kFq WQYqbOEn RL CQx'L DRbIJnq.
+b:CQx nQSqL qSqbTQhq RhJnExRhC kFq LRhhqbL RhJnExRhC kFq IxxRJkL Ihx InJQFQnRJL RhJnExRhC kFq JFbQhRJ DqhkInnT Rnn Qb kFq FIhxRJIW Qb kFq bqkIbxqx RhJnExRhC kFq JbRDRhInL - LInSIkRQh JQDqL OQb Inn QO EL - CQx YRnn hQk nqISq wqFRhx IhTQhq QO FRL JFRnxbqh.
+
+p:LJFQQn
+p:qxEJIkRQh
+p:EhRSqbLRkT
+p:JQnnqCq
+
+b:kQQ DEJF qxEJIkRQh JIh wq LQDqkRDqL wIx OQb TQEb LQEn LRhJq TQE LkIbk kQ wqnRqSq kQQ DEJF Rh TQEbLqnO Ihx wqJQDq SIRh WbQEx IbbQCIhk Ihx qCQRLkRJ. LQDqkRDqL Rk RL wqkkqb kQ phQY AELk IL DEJF IL TQE hqqx Ihx hQk IhT OEbkFqb. Inn kFQLq CbqIk kFRhpqbL Ihx FRCFnT RhkqnnRCqhk WqQWnq - kFqT Ibq kQQ WbQEx kQ wqnRqSq Rh CQx.
+b:R LEOOqbqx FIbx Rh LJFQQn R nqIbhqx YRkF qSRn WEWRnL - DT WIbqhkL YIhkqx Dq kQ wq I WbQOqLLQb Qb I xQJkQb Qb I nIYTqb Qb I LJRqhkRLk - kFqT xRxh'k hQkRJqx R YIL LRJp Qb kFqT AELk xRxh'k JIbq - R CbIxEIkqx FRCF LJFQQn wEk OIRnqx Rh DT ORhIn qMIDL JIELq R YIL LRJp DqhkInnT - DT WIbqhkL FIkqx Dq JIELq QO kFIk Ihx hqSqb OQbCISq Dq.
+b:R kFRhp Rk'L qhQECF kQ kqIJF kFq ISqbICq pRxL kQ bqIx Ihx YbRkq Ihx LQDq wILRJ DIkF Ihx nqk kFqD wq FIWWT Ihx WnIT Ihx xbqID Ihx wq AQTOEn Rh kFqRb TQEkF - DQbq kFqh kFIk Ihx TQE DRCFk wbqIp kFq JFRnx.
+
+p:xqIkF
+p:xTRhC
+p:kQ xRq
+
+b:R CEqLL R xQh'k OqIb xqIkF IL DEJF IL R xRx YFqh R YIL TQEhC. R OqIb DQbq ObQD WIRh kFqh xTRhC. IL OQb wqRhC DQbkIn - kFq LQEn hqSqb xRqL. kFq LQEn RL WqbOqJk Ihx wqnQhC kQ CQx - kFq LQEn RL Obqq Ihx CQqL kQ FqISqh - Yq'nn Inn Dqqk Ik FqISqh'L CIkqL.
+b:kFq LQEn hqSqb xRqL - Rk hqSqb RL xIDICqx - Rk JIh hqSqb wq xqLkbQTqx - Rk hqSqb CqkL Qnx - Ihx kFIk'L YFIk JQEhkL R CEqLL - Yq JIhhQk qhkqb Rh QEb OnqLF Ihx wnQQx wQxRqL kQ kFq pRhCxQD QO FqISqh wEk kFq LQEn JIh Ihx LQ IOkqb Yq xRq Yq CQ kQ I DEJF wqkkqb WnIJq kFIh kFRL YQbnx.
+b:kFq qhx QO Qhq kFRhC RL AELk kFq wqCRhhRhC QO IhQkFqb kFRhC - kFQEL kFq qhx QO kFRL nROq RL kFq wqCRhhRhC QO kFq hqMk nROq Qb kFq wqCRhhRhC Qb kFq nROq IOkqb Rh kFq pRhCxQD QO FqISqh.
+b:R Lqq xqIkF IL AELk I WILLICq kQ kFq IOkqb nROq - IL I YIT OQb DT LQEn kQ qhkqb kFq pRhCxQD QO FqISqh Ihx kQ phQY CQx.
+
+p:LERJRxq
+p:pRnn DTLqnO
+p:LERJRxIn
+
+b:YFIk JIh R LIT IwQEk kFIk? - pRnnRhC TQEbLqnO RL hqSqb I LQnEkRQh kQ IhTkFRhC - TQE JIhhQk kIpq LFQbk JEkL Qb bqwqn ICIRhLk TQEb OIRkF Rh nROq - Yq Ibq hQk kFq DILkqbL QO QEb nROq kQ wq Iwnq kQ LIT YFqh Yq Ibq xQhq YRkF QEb nRSqL - Yq JIhhQk xqJRxq YFqh kQ xRq AELk nRpq Yq JQEnxh'k xqJRxq YFqh YFqbq Qb kQ YFQD Yq LFqnn wq wQbh Rh kFRL YQbnx. Rk'L hQk EW kQ EL.
+b:Rk'L bqwqnnRQEL ICIRhLk OIRkF Ihx EhCbIkqOEn kQ CQx'L nQSq - TQE DIT hQk nRpq YFIk g'D LITRhC - wEk TqL TQE JQEnx DITwq LEJJqqx Rh qhxRhC TQEb nROq FQYqSqb kFIk LQnSqL hQkFRhC - TQE'nn qhx EW DEJF YQbLq kFqh TQE Ibq hQY - TQE JIhhQk qLJIWq LEOOqbRhC qRkFqb YIT TQE JFQQLq - kFRhp ICIRh - LERJRxq LQnSqL hQkFRhC - Rk'L AELk I JbqIkqL QJqIhL QO DQbq LEOOqbRhC DIpRhC kFRL YFQnq YQbnx DQbq LIx Ihx FqIbkwbQpqh. Rk'L I LqnORLF IJk xQhq QEk QO CbqIk RChQbIhJq.
+b:RO TQE'nn xQ kFIk kFqh... TQE'nn DIpq kFRhCL DEJF YQbLq - kFRhp ICIRh kFRL RL hQk LQDqkFRhC kQ wq kIpqh nRCFknT! ILp OQb FqnW JInn I FQknRhq kInp kQ TQEb xQJkQbL Lqq FQY TQE JIh bqxEJq TQEb LEOOqbRhC - qSqbTQhq kFRhpL IwQEk pRnnRhC kFqDLqnSqL Ik nqILk Qhq kRDq Rh kFqRb nROq. R wqnRqSq nROq RL YQbkF nRSRhC xqLWRkq LEOOqbRhC.
+b:TQE wqnRqSq YFIk TQE YIhk FQYqSqb R wqnRqSq nROq RL YQbkF nRSRhC xqLWRkq LEOOqbRhC. R wqnRqSq LEOOqbRhC JQDqL kQ kqIJF EL RDWQbkIhk nqLLQhL Ihx DIpq EL IYIbq QO YFIk RL kbEnT RDWQbkIhk Rh kFRL nROq Ihx YQbnx. ROO TQE Ibq LEOOqbRhC CbqIknT TQE LFQEnx Lqqp kQ Cqk FqnW kQ bqxEJq kFq WIRh Ihx LEOOqbRhC hQk kQ kbT Ihx qhx TQEb nROq.
+b:g'D hQk kFq wqLk WqbLQh kQ FqnW Rh I LRkEIkRQh nRpq kFRL - R LECCqLk ILpRhC OQb LQDqQhq'L qnLq IxSRLq Ihx FqnW - LQbbT.
+
+p:bqRhJIbhIkRQh
+p:hqY ICq
+p:DqxRkIkRQh
+p:DqxRkIkq
+p:wExxFRLD
+
+b:R WbIJkRJqx DqxRkIkRQh OQb 25 TqIbL QO DT nROq - IOkqb kFIk R LkQWWqx. kQ kqnn TQE kFq kbEkF R xQh'k phQY kRnn kFRL xIT RO Ihx YFIk xRx Rk CISq Dq Qb hQk.
+b:R ELqx kQ DqxRkIkq OQb DIhT TqIbL wEk R LkQWWqx Qhq xIT IOkqb bqInRNRhC kFIk Rk xQqLh'k bqInnT DIkkqb - Rk YIL I OEh kFRhC kQ xQ Ik kFq kRDq wEk YFqh Rk LkQWWqx wqRhC OEh R LkQWWqx IL Yqnn.
+b:kFqbq RL hQ WQRhk Rh DqxRkIkRhC - Rk RLh'k LWqJRIn Rk'L AELk I kFRhC TQE xQ Qb hQk - Ihx Rk xQqLh'k CRSq IhTkFRhC Rh kFq qhx Rh DT QWRhRQh - kFq sExxFRLkL wqnRqSq Rh bqRhJIbhIkRQh FQYqSqb kFqT xQh'k wqnRqSq Rh CQx - LQ kFIk RL EhIJJqWkIwnq Rh DT qTqL. LQ R LkQWWqx.
+b:R WbIJkRJqx DqxRkIkRQh OQb kFq YbQhC bqILQhL OQb DIhT TqIbL - YFqh R bqInRNqx Rk R LkQWWqx - DqxRkIkq Qb hQk Rk'L hQk RDWQbkIhk - Rk'L nRpq JQEhkRhC TQEb wbqIkFL Ihx LITRhC DIhkbIL - RO TQE xQh'k wqnRqSq kFqbq RL I CQx kFqh DqxRkIkRQh YRnn hQk LISq TQE Ihx RO TQE xQ wqnRqSq Rh CQx TQE xQh'k hqqx kQ DqxRkIkq. CQx xQqL hQk JIbq IwQEk DqxRkIkRQh Fq JIbqL IwQEk TQEb LQEn Ihx FqIbk.
+b:hqY ICq RL AELk I OILFRQh QO DIpq wqnRqSq Yq Ibq xQRhC LQDqkFRhC LWqJRIn Ihx wT LQ OqqnRhC LWqJRIn - Rh DT qTqL Rk'L I xRLkbIJkRQh ObQD kFq kbEq kFRhC - kQ wqnRqSq Ihx phQY CQx Rh TQEb FqIbk Ihx nROq. QhJq R OQEhx CQx kFqbq YIL hQ hqqx OQb DqxRkIkRQh Qb hqY ICq.
+b:QhJq TQE ORhx CQx Ihx Fq RL Rh TQEb FqIbk Ihx nROq TQE xQh'k hqqx DqxRkIkRQh Qb hqY ICq IhTDQbq - hqY ICq YIL AELk I xRLkbIJkRQh ObQD bqIn OIRkF Rh CQx Ihx ObQD FRL kbEkF...
+b:hqY ICq FIx hQkFRhC kQ xQ YRkF kbEq sExxFRLD Ihx sExxFRLD xQqLh'k wqnRqSq Rh kFq qMRLkqhJq QO CQx - kFqbq OQb Rk'L AELk I OInLq wqnRqO Qb LWRbRkEInRkT Rh DT qTqL... IL LQQh IL R OQEhx CQx R xRxh'k hqqx sExxFRLD Ihx R JQEnxh'k JIbq nqLL IwQEk hqY ICq.
+
+p:DqkI
+p:DqkISqbLq
+p:kqJFhQnQCT
+p:wRkJQRh
+p:wRkJQRhL
+p:Sb
+p:SRbkEIn bqInRkT
+p:OIJqwQQp
+p:CQQCnq
+p:DRJbQLQOk
+p:IDINQh
+p:IWWnq
+p:LQJRIn DqxRI
+p:RhLkqCbID
+p:kRpkEp
+p:YqJFIk
+p:LQJRIn JbqxRk
+p:wnQJpJFIRh
+
+b:g'D Ih Qnx DIh R kFIhp CQx kFIk R YRnn hQk nRSq kQ Lqq kFRL kqJFhQnQCRJIn OEkEbq LRhJq R wqnRqSq Rk YRnn wq I xTLkQWRI. YFqbq DIh YRnn wq I LnISq kQ FRL QYh JbqIkRQh. DIh kbRqx kQ wq nRpq CQx wEk OIRnL qSqbT kRDq Ihx kFq bqLEnk RL Fqnn Qh qIbkF.
+b:kFq DQbq Yq kbT kQ ORM kFRhCL Ihx kFq YQbnx Yq nRSq Rh kFq YQbLq Rk CqkL - DIh RL LkEWRx LqnORLF Ihx qCQRLkRJ Ihx bqOELq kQ wQY xQYh kQ CQx LQ Fq RL WEhRLFqx QSqb Ihx QSqb ICIRh.
+b:R ILp DTLqnO RO DIbp NEpqbwqbC Qb qnIh DELp Qb yIbbT WICq Ihx KqbCqR wqbRh Qb KkqSq AQwL Qb wRnn CIkqL Qb rqOO wQNQLL FISq I LQEn? kFq DQbq R nQQp Ik kFqD R kFRhp kFqT LQnx kFqRb LQEnL kQ kFq xqSRn nQhC ICQ...
+b:LQ DIh kFRhCL Fq JIh QEk LDIbk CQx? CQQx nEJp FEDIhRkT JIELq Yq Inn YRnn wq WEhRLFqx - R ID CnIx R'D Qnx Ihx hQk kQQ nQhC YRnn wq xqIx - Ihx DT LQEn YRnn bqLk Rh FqISqh YRkF CQx IL DT KFqWFqbx.
+b:R kFRhp g'D kFq nILk CqhqbIkRQh kQ phQY YFIk kbEkF RL - kFqLq hqY CqhqbIkRQhL nQQp kQ Dq nRpq DIx WqQWnq wnRhxqx wT Cbqqx Ihx JQbbEWkRQh wT LqnORLFhqLL Ihx IxxRJkRQh kQ kqJFhQnQCT - Rh I LqhLq R Oqqn nRpq Qhq QO tFq nILk QO kFq HQFRJIhL...
+b:Rk'L kQkIn JbINT - FEDIhRkT kbRqx kQ RhSqhk Ihx JbqIkq I hqY YQbnx qSqbT 10 Qb 5 TqIbL - qIJF CqhqbIkRQh kFRhp Fq phQYL wqkkqb - YFIk FIWWqh kQ AELk wqRhC FEDwnq Rh kFq LRCFk QO CQx'L QYh JbqIkRQh?
+b:kFRL kQQ LFqnn WILL DT xqIb ObRqhx - Rh kFq qhx YFIkqSqb FEDIhRkT kbRqL - YRkFQEk CQx wnqLLRhC Rk YRnn OIRn Ihx RO Rk'L ICIRhLk CQx YRnn - Rk YRnn hQk LkIhx. Dqh QhJq ICIRh YIhk kQ wERnx I kQYqb kQ FqISqh - CQx FqnWL EL Inn Ihx FISq DqbJT QSqb QEb LQEnL.
+b:Yq Ibq LEbnT xqLkbQTRhC CQx'L YQbnx Ihx YIhk kQ bqWnIJq Rk YRkF I YQbnx QO QEb JbqIkRQh - Rk RL I LRh QO SIhRkT Ihx Yq LFqnn Inn wq WEhRLFqx OQb kFIk!
+
+p:JQSRx
+p:JQbQhI
+p:JQbQhISRbEL
+p:WIhxqDRJ
+
+b:xQh'k wq IObIRx JIELq OqIb xQqLh'k hQk FqnW - LkIT WbQkqJkqx Ihx wq LIOq - Ihx xQh'k OqIb Qb YQbbT IL CQx RL YRkF TQE DT ObRqhx - Ihx Fq LFqnn nqIx EL IL I LFqWFqbx kFbQECF kFRL kRDqL.
+b:R phQY TQE Ibq YQbbRqx Ihx ObRCFkqhqx xqIb ObRqhx - wqnRqSq Rh CQx'L DqbJT Ihx Fq LFqnn LWIbq TQE ObQD Inn kFRL - WEk TQEbLqnO Rh CQx'L FIhxL Ihx CERxIhJq Ihx Fq LFqnn nqIx TQE kQ kFq nRCFk.
+b:kFq JQSRx JQbQhISRbEL Qb YFIkqSqb RL Fqbq kQ LkIT - LQ WbQkqJk TQEbLqnO Ihx wq LIOq Ihx QkFqb kFqh kFIk Yq Ibq Inn Rh kFRL kQCqkFqb Rh CQx'L FIhxL.
+
+p:FqnW Dq
+p:LISq Dq
+p:hqqx FqnW
+p:xqLWIRb
+
+b:DIT CQx FqnW TQE Ihx CERxq TQE Ihx wq YRkF TQE InYITL - VDqh.
+b:DIT CQx YRnn CRSq TQE kFq YRLxQD Ihx LkbqhCkFL kQ LEbSRSq Rh kFRL YQbnx - VDqh.
+b:FISq hQ OqIb Rh TQEb FqIbk - CQx RL YRkF TQE - InYITL.
+b:WEk TQEb kbELk Ihx nROq Rh CQx'L FIhxL Ihx Fq YRnn LFQY TQE I WILLICq kFbQECF kFRL YQbnx Inn kFq YIT kQ kFq pRhCxQD QO FqISqh.
+b:CQx YRnn hQk xqLqbk TQE DT ObRqhx - Fq YRnn LISq TQE Ihx CERxq TQE kFbQECF kFq FEbk Ihx kFq WIRh QO kFqLq nROq Inn kFq YIT kQ FqISqh.
+b:ILp Ihx TQE LFqnn bqJqRSq... Lqqp Ihx TQE LFqnn ORhx - FISq OIRkF xqIb ObRqhx Ihx DIT CQx wnqLL EL YRkF FRL DqbJT Ihx LFQY EL FRL nQSq - VDqh.
+
+p:nQhqnT xIT
+p:nQhqnT nROq
+p:R ID nQhqnT
+p:R'D nQhqnT
+p:R ID InQhq
+p:R'D InQhq
+p:nQhqnRhqLL
+
+b:g'Sq JQDq IJJELkQDqx kQ nQhqnRhqLL IL I hqJqLLIbT qSRn - kFqbq Ibq DRnnRQhL QO DRnnRQhL nRpq EL nRSRhC InQhq - FQYqSqb Rk'L wqkkqb kFIh kQ nRSq EhFIWWT YRkF WqQWnq YFQ Ibq qSRn Ihx IwELRSq.
+b:Yqnn Yq Ibq kInpRhC bRCFk hQY LQ g'D Fqbq kQ pqqW TQE JQDWIhT LQ TQE'nn Oqqn nqLL InQhq - Ihx YFIk IwQEk TQEb OIDRnT? Ibq kFqT OIb IYIT ObQD TQE? Qb Ibq TQE OIb IYIT ObQD kFqRb FqIbk? FISq hQ YQbbRqL hQ Qhq RL qSqb kbEnT InQhq
+b:nQhqnRhqLL RL I LkIkq QO DRhx - Qhq JIh wq LEbbQEhxqx wT WqQWnq Ihx Oqqn InQhq Ihx DRLqbIwnq Qb Qhq JIh nRSq InQhq wEk ORhx DqIhRhC Rh nROq Ihx Oqqn Obqq Ihx qSqh FIWWT - ILp TQEbLqnO YFIk TQE JIh xQ YRkF TQEbLqnO kQ wq FIWWT.
+b:nROq RL YFIk TQE DIpq QO Rk DT xqIb - FIWWRhqLL RL hQk IwQEk hQk wqRhC InQhq wEk IwQEk wqRhC Iwnq kQ ORhx DqIhRhC Rh TQEb nROq Ihx WEbWQLq. kFRhp YFIk JIh TQE xQ YRkF TQEb ObqqxQD kFRhp YFIk YRnn DIpq TQE DQbq FIWWT.
+b:TQE CQk I nROq kQ xQ IL TQE JFQQLq - TQE Ibq Obqq DT ObRqhx kQ WEbLEqx FIWWRhqLL - CQQx nEJp.
+b:R'D InQhq kQQ DT ObRqhx qSqbTwQxT RL InQhq Rh kFRL YQbnx R CEqLL  R'D LQbbT R xQh'k phQY YFIk kQ LIT Qb FQY kQ JQDOQbk TQE - LQDqkRDqL TQE JIh QhnT xQ YFIk TQE JIh Ihx Rk'L AELk hQ CQQx qhQECF - wEk R ID Fqbq OQb TQE ObRqhx Ihx R ID LqhxRhC TQE DT nQSq OQb YFIk Rk'L YQbkF...
+
+
+p:IhCbT
+p:EWLqk
+
+b:WnqILq JInD xQYh Ihx kbT kQ bqnIM. IhCqb xQqLh'k FqnW EL Rk QhnT RhJbqILqL QEb WIRh Ihx xqLkbQT QEb nRSqL. kbT kQ OQbCRSq kFQLq TQE FEbk TQE - Rh kFq qhx nQSq Ihx pRhxhqLL Ihx OQbCRSqhqLL RL YFIk kFIk DIkkqbL Ihx Inn kFIk RL nqOk
+b:R EhxqbLkIhx FQY TQE Oqqn DT ObRqhx - kbT kQ JInD xQYh Ihx kbT kQ bqnIM - Rk RL hQk YRLq kQ xQ kFRhC Qb DIpq xqJRLRQhL YFqh TQE Ibq OEnn QO IhCbT Qb EWLqk - kbT kQ FQnx Qh kQ LQDq WqIJq QO JInD DqDQbT Qb DRhx - IhCqb hqSqb LqbSqL EL Yqnn...
+b:R'D LQbbT TQE Oqqn IhCqb R YRLF R JQEnx LIT LQDqkFRhC kQ LkQW TQEb OqIbL Ihx FqIn TQEb FEbkL DT ObRqhx. TQE JIh kqnn Dq YFIk'L Qh TQEb DRhx Ihx kbQEwnqL TQE.
+b:kbT kQ bqnIM kbT kQ JInD xQYh Ihx xQh'k bELF RhkQ kFRhCL YFqh TQE Ibq IhCbT - hQkFRhC CQQx qSqb JQDqL QEk QO IhCqb...
+b:DT ObRqhx R nQSq TQE Ihx R ID LQbbT TQE Oqqn nRpq kFIk R YRLF R JQEnx FqnW... 
+
+p:DELRJ
+
+b:bqInnT? YFIk pRhx QO DELRJ xQ TQE nRpq? R nRpq AINN Ihx wnEqL
+b:FQY xQqL nRLkqhRhC kQ DELRJ DIpq TQE Oqqn?
+
+p:R DRLL
+
+b:kqnn Dq DQbq IwQEk YFQ Qb YFIk RL Rk TQE DRLL Ihx YFT... InkFQECF kFq WILk RL xQhq Rk'L LkRnn InRSq Rh TQEb FqIbk
+b:g'D Inn qIb kQ nRLkqh kQ TQEb DqDQbRqL... CQ Qh...
+b:Yq Inn CQk DQDqhkL Yq DRLL Rh QEb WILk Ihx WqQWnq Yq nQSqx YFQ Ibq CQhq kFIk Yq DRLL. R DRLL DT CbIhxDI Ihx CbIhxWI - R DRLL wqRhC I pRx ICIRh - R DRLL DT JFRnxFQQx.
+b:RO Rk YRnn DIpq TQE FIWWT kFIh kqnn Dq Inn IwQEk Rk...
+
+p:kFq OEkEbq
+p:kQDQbbQY
+p:Tqk kQ JQDq
+p:YFIk YRnn wq
+
+b:kFq OEkEbq YRnn kIpq JIbq QO RkLqnO Ihx LFQEnxh'k YQbbT TQE kQQ DEJF.
+b:kQDQbbQY YRnn kIpq JIbq QO RkLqnO LQ xQh'k wQkFqb YRkF Rk kQQ DEJF.
+b:YFIk RL Tqk kQ JQDq RL CQx'L wELRhqLL hQk TQEbL.
+
+p:JQQn
+p:IYqLQDq
+p:hRJq
+p:FIWWT
+p:CQQx
+
+b:kFIk'L hRJq
+b:RO TQE ORhx Rk CQQx kFqh g'D FIWWT OQb TQE
+b:YFqh TQE Ibq FIWWT kFq YFQnq YQbnx RL FIWWT YRkF TQE
+
+p:FISq FQWq
+p:QWkRDRLkRJ
+p:Oqqn CQQx
+
+b:kqnn Dq YFIk RL LQ CQQx?
+b:LFIbq YRkF Dq TQEb FIWWRhqLL
+b:g'x wq FIWWT kQ FqIb DQbq IwQEk Rk
+
+p:hQk LEbq
+p:DITwq
+p:R xEhhQ
+p:R xQh'k phQY
+p:R xQ hQk phQY
+
+b:R Lqq TQE FqLRkIkq... DIT R ILp YFT?
+b:YQEnx TQE nRpq kQ qMWnIRh OEbkFqb?
+b:YQEnx TQE nRpq kQ QWqh Rk DQbq?
+b:YFT kFq EhJqbkIRhkT?
+b:RO TQE xQh'k phQY YFQ YRnn phQY?
+
+p:LEbq
+p:WQLRkRSq
+p:TqL
+p:QO JQEbLq
+p:IwLQnEkqnT
+p:xqORhRkqnT
+
+b:R Lqq - Rk'L CQQx kQ phQY YFIk TQE YIhk
+b:ORhInnT! I JnqIb IhLYqb!
+b:Ik nqILk TQE phQY YFIkqSqb Rk RL...
+b:g'nn wq FIWWT kQ FqIb DQbq IwQEk Rk.
+
+
+
+p:xbqID
+
+b:uFIk xQqL kFIk xbqID LECCqLk kQ TQE?
+b:iQ TQE xbqID QOkqh?
+b:uFIk WqbLQhL IWWqIb Rh TQEb xbqIDL?
+b:Vbq TQE xRLkEbwqx wT TQEb xbqIDL?
+
+
+
+p:R Oqqn
+
+b:kqnn Dq DQbq IwQEk FQY TQE Oqqn
+b:YFT xQ TQE Oqqn kFIk YIT?
+b:FQY xQqL Rk DIpq TQE Oqqn OqqnRhC nRpq kFIk?
+b:YFIk xQ TQE kFRhp IwQEk YFqh TQE Oqqn nRpq kFIk?
+b:YFT xQ TQE Oqqn*
+
+
+p:xQ TQE JIbq
+p:Ibq TQE DT WIn
+p:Ibq TQE DT wExxT
+
+b:TqL R xQ R ID Fqbq OQb TQE kQ kInp Ihx kQ nRLkqh YFqhqSqb TQE hqqx Rk.
+b:Yqnn g'D Fqbq kInpRhC Ihx JFIkkRhC YRkF TQE IRh'k R hQ? LQ R CEqLL R xQ JIbq Ihx ID TQEb ObRqhx
+b:RO TQE qSqb hqqx I ObRqhx Qb AELk LQDqQhq kQ kInp YRkF g'nn wq kFqbq OQb TQE.
+
+
+
+
+J1:YFIk kRDq
+J1:YFIk Ibq TQE xQRhC
+J1:FQY Ibq TQE
+
+J2:R Oqqn wIx
+J2:R ID LIx
+J2:R'D LIx
+J2:FIbx xIT
+J2:LIx xIT
+J2:wIx xIT
+J2:WbQwnqD
+J2:kbQEwnqL
+
+J3:YFIk Ibq TQE
+J3:YFQ Ibq TQE
+J3:YFQ RL xIhhT
+J3:YFQ xqSqnQWqx TQE
+J3:YFQ DIxq TQE
+
+J4:YFIk RL nQSq
+J4:RL kFqbq nQSq
+J4:hQ nQSq
+
+p1:R'D LJIbqx
+p1:R ID LJIbqx
+p1:R'D IObIRx
+p1:R ID IObIRx
+
+b1:TQE'nn wq InbRCFk xQh'k YQbbT.
+b1:hqSqb wq LJIbqx Qb IObIRx QO IhTkFRhC Qb IhTwQxT qMJqWk CQx.
+b1:CQx RL WbQkqJkRhC TQE DT ObRqhx. xQh'k wq LJIbqx qSqbTkFRhC YRnn wq InbRCFk
+b1:R ID YRkF TQE Ihx LQ RL CQx. xQh'k YQbbT TQE YRnn wq InbRCFk. 
+
+J5:hINR
+J5:wRkJF
+J5:OICCQk
+J5:DQkFqbOEJpqb
+J5:xTpq
+J5:WELLT
+J5:hINRL
+J5:FRknqb
+J5:ppp
+J5:FQDQ
+J5:hRCCqb
+
+x1:R xQh'k phQY YFIk kQ LIT. LQbbT.
+x1:R EhxqbLkIhx.
+x1:R Lqq.
+x1:CQ Qh WnqILq.
+x1:kFIk RL oERkq RhkqbqLkRhC...
+x1:kqnn Dq DQbq. WnqILq
+x1:Yq JIh kInp IwQEk LQDqkFRhC qnLq RO TQE'x nRpq
+x1:YFIk qnLq xQ TQE YRLF kQ LIT?
+x1:RL kFqbq LQDqkFRhC qnLq TQE YRLF kQ LIT?
+x1:R xQh'k oERqk EhxqbLkIhx.
+x1:YFIk Ibq TQE LITRhC qMIJknT?
+x1:Ibq TQE LqbRQEL?
+x1:FQY xQ TQE Oqqn IwQEk Rk?
+x1:RL kFIk kbEnT YFIk TQE Oqqn?
+x1:YFIk qnLq JQDq kQ TQEb DRhx?
+x1:xQqL kFIk bqDRhx TQE QO LQDqkFRhC?
+x1:FQY xQ TQE Oqqn IwQEk Rk?
+x1:FQY xQ TQE Oqqn bRCFk hQY?
+x1:YFIk xQ TQE bqInnT kFRhp IwQEk Rk?
+x1:YFT xRx TQE DqhkRQhqx Rk?
+x1:RL kFIk Inn?
+x1:RL kFRL RL YFIk TQE bqInnT YIhk kQ kInp IwQEk?
+
+J6:WbIT YRkF Dq
+J6:wnqLL Dq
+J6:WbIT OQb Dq
+J6:ILp CQx kQ FqnW
+J6:nqk'L WbIT
+J6:kInp kQ CQx
+J6:LIT I WbITqb
+
+W1:CQx RL DT KFqWFqbx R YRnn OqIb hQ qSRn kFbQECF kFq SInnqT QO kFq LFIxQY QO xqIkF
+W1:DIT CQk WbQkqJkL EL Rh FRL DRCFkT DqbJT IL Yq YQhxqb Qh kFbQECF kFRL YQbnx
+W1:R WEk DTLqnO Rh TQEb FIhxL QF nQbx - R kbELk TQEb nQSq Ihx DqbJT Ihx R ID TQEb FEDwnq SqLLqn kQ TQEb YRnn
+W1:YFIk qSqb wq TQEb YRnn QF nQbx - R LFqnn LEbbqhxqb DTLqnO kQ TQE Ihx WEk DTLqnO Rh TQEb FIhxL
+W1:WbQkqJk EL IL Yq JQDq Rh kFq nRhq QO xIhCqb - DIT TQEb DqbJT Ihx nQSq LEbbQEhxL EL JQDWnqkqnT Ihx WbQkqJkL EL ObQD FIbD.
+
+W2:QEb FqIbkL Ibq WEbq Ihx QWqh IL Yq JInn kQ TQE - WnqILq CRSq EL I WqIJq QO DRhx Ihx YRLxQD Ihx LkbqhCkF kQ CQ Qh Rh QEb AQEbhqT Rh nROq
+W2:Yq ILp OQb TQEb nQSRhC CERxIhJq Ihx WbqLqhJq Rh QEb nRSqL - Yq ILp OQb WqIJq Ihx nQSq Ihx DqbJT QF nQbx...
+W2:WnqILq xQ hQk OQbLIpq EL Ihx pqqW CERxq EL kFbQECF kFq SInnqT QO nROq kQ kFq CIkqL QO TQEb pRhCxQD.
+W2:FISq DqbJT EWQh EL Ihx EWQh Inn TQEb JFRnxbqh Qh nQbx - CRSq EL nRCFk LQ Yq DIT Lqq TQEb CnQbT Rh kFRL YQbnx - Lqhx EL TQEb CbIJq LQ Yq JIh Oqqn TQEb WbqLqhJq Rh kFRL YQbnx.
+W2:kFbQECF kRDqL QO FIbxLFRW Ihx DRLqbT Yq JInn QEk kQ TQE QEb OIkFqb Rh FqISqh... Yq JInn kQ TQE DqbJT Ihx nQSq Ihx TQEb LInSIkRQh.
+
+W3:YRkFQEk TQE Yq Ibq hQkFRhC QF nQbx - TQE YFQ CISq EL nROq Rh TQEb JbqIkRQh WnqILq nqk TQEb nRCFk LFRhq Rh kFRL YQbnx...
+W3:Yq ILp QO TQE hQk kQ xqLqbk EL Rh kRDqL QO hqqx Ihx FIbxLFRW - Yq wqC OQb QEb LRhL wq YILFqx IYIT wT TQEb DqbJT Ihx CbIJq Ihx nQSq...
+W3:OQbCRSq EL OQb QEb LRhL Ihx IJJqWk kFRL WbIT kQ TQE LQ Yq LFqnn phQY TQEb nQSq Ihx CbIJq Ihx Lqq TQEb nRCFk LFRhRhC kFbQECF kFq xIbphqLL QO kFRL YQbnx...
+W3:OQbCRSq QEb LRhL QF nQbx - Ihx DIT kFRL WbIT CbqqkL TQE Rh kFq pRhCxQD QO FqISqh - DqbJT EL OQb Yq Ibq Rh hqqxL OQb TQEb nQSq Ihx LInSIkRQh.
+W3:YRkFQEk TQEb wnqLLRhC hQkFRhC YRnn LkIhx - DIT QEb LRhL wq OQbCRSqh Rh kFT pRhCxQD Ihx DIT Yq ORhx WqIJq QO DRhx Rh kbQEwnqx kRDqL IFqIx....
+
+W4:WbIRLq kFq nQbx Ihx FRL CnQbT - WbIRLq FRL pRhCxQD kQ JQDq... QF FInnqnEAIF - VDqh.
+W4:Yq WbIRLq TQEb hIDq QF nQbx Ihx phQY TQEb CnQbT Ihx FQnRhqLL... LISq EL LQ Inn YRnn phQY TQEb CbIJq Ihx nQSq. CnQbT FInnqnEAIF! - VDqh.
+W4:YRkFQEk TQE Yq JIhhQk LkIhx - Yq Ibq YRkhqLLqL kQ TQEb FQnRhqLL - Yq Ibq YRkhqLLqL kQ TQEb nQSq Ihx CnQbT - VDqh.
+W4:WnqILq xQ hQk OQbLIpq EL Rh TQEb LInSIkRQh LQ Yq DIT phQY TQE Rh TQEb pRhCxQD kQ JQDq - FInnqnEAIF - VDqh.
+W4:Yq LEbbqhxqb QEbLqnSqL kQ TQEb YRnn Ihx nQSq - OQbqSqb wq FQnT kFT hIDq QF nQbx - FInnqnEAIF. VDqh.

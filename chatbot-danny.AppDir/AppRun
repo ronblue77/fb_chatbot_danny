@@ -1,0 +1,5 @@
+#!/bin/sh
+
+HERE="$(dirname "$(readlink -f "${0}")")"
+EXEC="${HERE}/usr/bin/fb_chatbot_danny_gui_v10"
+exec "${EXEC}"
