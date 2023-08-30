@@ -93,7 +93,7 @@ the chatbot is no longer just a religious bot but can try to talk about personal
 
 VERSION 1.0.4 DATABASE INSTRUCTIONS - as of this version the chatbot reads an encrypted database - the encrypted database as well as the un-encrypted database are in folder "database" in that folder are the encrypted program and source files that encrypts the database (for linux it's called "fb_encrypt_database" for windows it's "fb_encrypt_database.exe") make changes in regular database and then encrypt it to "database-encrypt.txt" the chatbot decrypt the encrypt database while loading it. 
 
-our forum: https://retrocoders.phatcode.net/
+our forum: https://retrocoders.freeforums.net/
 
 version 1.1.6.3 - Window9 GUI executable added `fb_chatbot_danny_gui_v20.exe` plus database round 1800+ lines
 
